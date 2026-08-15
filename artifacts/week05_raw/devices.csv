@@ -1,0 +1,4 @@
+device_id,zone,battery_v
+CEN-01,North,3.91
+CEN-02,South,3.44
+CEN-03,North,not_available
