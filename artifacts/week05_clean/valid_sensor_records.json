@@ -6,9 +6,57 @@
     "temperature_c": 28.4
   },
   {
-    "timestamp": "2026-08-10T08:05:00 ",
+    "timestamp": "2026-08-10T08:01:00 ",
     "device": "CEN-02",
     "status": "ok",
     "temperature_c": 29.1
+  },
+  {
+    "timestamp": "2026-08-10T08:02:00 ",
+    "device": "CEN-03",
+    "status": "check",
+    "temperature_c": 30.0
+  },
+  {
+    "timestamp": "2026-08-10T08:03:00 ",
+    "device": "CEN-04",
+    "status": "ok",
+    "temperature_c": 27.8
+  },
+  {
+    "timestamp": "2026-08-10T08:04:00 ",
+    "device": "CEN-05",
+    "status": "ok",
+    "temperature_c": 31.2
+  },
+  {
+    "timestamp": "2026-08-10T08:06:00 ",
+    "device": "CEN-07",
+    "status": "ok",
+    "temperature_c": 28.9
+  },
+  {
+    "timestamp": "2026-08-10T08:07:00 ",
+    "device": "CEN-08",
+    "status": "ok",
+    "temperature_c": 29.5
+  },
+  {
+    "timestamp": "2026-08-10T08:08:00 ",
+    "device": "CEN-09",
+    "status": "ok",
+    "temperature_c": 30.3
+  },
+  {
+    "timestamp": "2026-08-10T08:09:00 ",
+    "device": "CEN-10",
+    "status": "ok",
+    "temperature_c": 28.1
+  },
+  {
+    "timestamp": "2026-08-10T08:10:00 ",
+    "device": "CEN-11",
+    "status": "offline",
+    "temperature_c": 32.4
   }
 ]

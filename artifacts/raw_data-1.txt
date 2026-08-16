@@ -1,0 +1,12 @@
+2026-08-10T08:00:00 | CEN-01 | temp=28.4 | status=OK
+2026-08-10T08:01:00 | CEN-02 | temp=29.1 | status=OK
+2026-08-10T08:02:00 | CEN-03 | temp=30.0 | status=CHECK
+2026-08-10T08:03:00 | CEN-04 | temp=27.8 | status=OK
+MALFORMED RECORD
+2026-08-10T08:04:00 | CEN-05 | temp=31.2 | status=OK
+2026-08-10T08:05:00 | CEN-06 | temp=99.0 | status=OK
+2026-08-10T08:06:00 | CEN-07 | temp=28.9 | status=OK
+2026-08-10T08:07:00 | CEN-08 | temp=29.5 | status=OK
+2026-08-10T08:08:00 | CEN-09 | temp=30.3 | status=OK
+2026-08-10T08:09:00 | CEN-10 | temp=28.1 | status=OK
+2026-08-10T08:10:00 | CEN-11 | temp=32.4 | status=OFFLINE
