@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-08-10T09:00:00",
+  "stations": [
+    {
+      "id": "CEN-01",
+      "coordinates": [
+        121.5569,
+        14.1135
+      ],
+      "active": true
+    },
+    {
+      "id": "CEN-02",
+      "coordinates": [
+        121.558,
+        14.1142
+      ],
+      "active": true
+    },
+    {
+      "id": "CEN-03",
+      "coordinates": null,
+      "active": false
+    }
+  ]
+}

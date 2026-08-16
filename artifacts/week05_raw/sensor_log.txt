@@ -1,0 +1,4 @@
+2026-08-10T08:00:00 | CEN-01 | temp=28.4 | status=OK
+2026-08-10T08:05:00 | CEN-02 | temp=29.1 | status=OK
+MALFORMED RECORD
+2026-08-10T08:10:00 | CEN-03 | temp=99.0 | status=CHECK

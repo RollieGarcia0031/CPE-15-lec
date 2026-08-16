@@ -1,0 +1,5 @@
+room_id,temperature_c,available
+r-101,34.1,False
+r-206,53.8,True
+r-305,23.01,False
+r-302,9.9,True
