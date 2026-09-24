@@ -1,0 +1,13 @@
+center_id,center_name,capacity,assigned_households,assigned_people,travel_time_min,access_score,water_kits,food_kits,medical_kits
+C01,City Gymnasium,150,60,240,8,92,180,240,60
+C02,North Barangay Hall,120,37,90,5,88,100,140,40
+C03,East Elementary School,200,60,150,12,95,220,300,80
+C04,South Covered Court,180,68,171,15,85,150,200,50
+C05,West Civic Center,250,82,205,18,90,300,350,100
+C06,Mountain View Station,90,25,62,25,78,60,80,20
+C07,Riverside Multipurpose,130,42,104,10,83,140,180,45
+C08,Central Market Annex,110,36,90,7,80,120,160,40
+C09,University Pavilion,300,97,285,20,94,350,420,120
+C10,Harbor Community Center,160,51,128,14,76,200,240,60
+C11,Divisoria Sports Dome,220,70,176,16,91,260,330,90
+C12,Airport Evacuation Site,140,48,120,28,70,150,190,50

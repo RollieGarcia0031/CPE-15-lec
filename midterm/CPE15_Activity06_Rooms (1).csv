@@ -1,0 +1,19 @@
+room_id,building_id,room_name,capacity
+R101,B01,Engineering Room 1,34
+R102,B01,Engineering Room 2,40
+R103,B01,Engineering Room 3,46
+R201,B02,Library Room 1,42
+R202,B02,Library Room 2,48
+R203,B02,Library Room 3,54
+R301,B03,Administration Room 1,50
+R302,B03,Administration Room 2,56
+R303,B03,Administration Room 3,62
+R401,B04,Science Room 1,58
+R402,B04,Science Room 2,64
+R403,B04,Science Room 3,70
+R501,B05,Arts and Sciences Room 1,66
+R502,B05,Arts and Sciences Room 2,72
+R503,B05,Arts and Sciences Room 3,78
+R601,B06,Student Services Room 1,74
+R602,B06,Student Services Room 2,80
+R603,B06,Student Services Room 3,86
