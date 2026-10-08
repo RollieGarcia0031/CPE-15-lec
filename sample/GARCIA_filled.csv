@@ -1,12 +1,12 @@
-id,name,Last Name, age,contact,birthday,Address,Birthplace,gender,email
+id,name,Last Name,age,contact,birthday,Address,Birthplace,gender,email
 11B,Rollie Angelo,Garcia,20,9603734196,01/10/06,"Pagbilao, Quezon","Lucena City, Quezon",M,garciarollie827@gmail.com
-21C,Naruto ,Uzumaki,43,2573829583,12/25/23,Konoha,Konoha,M,narutongPogo@yahoo.com
+21C,Naruto ,Uzumaki,,2573829583,12/25/23,Konoha,Konoha,M,narutongPogo@yahoo.com
 52K,Spongebob ,Squarepants,14,22795273124,04/23/55,Bikini Bottom,Pacific Ocean,M,spongebobbbb@email.am
 34D,Junell,Voltage,24,14872834578,03/12/12,"Lucena City, Quezon","Lucena City, Quezon",M,junelllllll@gmail.com
 75H,Kakashi,Hatake,50,27598475942,10/12/78,Konoha,Konoha,M,kakashilangto@yahoo.com
 88H,Hinata,Uzumaki,42,13229852352,09/06/23,Konoha,Konoha,F,hinataMyLoves@make.com
-19J,John,Stewart,50,3135550147,08/01,"Detroit, Michigan","Detroit, Michigan",M,john.stewart@ferrisaircraft.com
+19J,John,Stewart,,3135550147,08/01,"Detroit, Michigan","Detroit, Michigan",M,john.stewart@ferrisaircraft.com
 24B,Bruce,Wayne,45,2125550198,02/19,Gotham City,Gotham City,M,bruce.wayne@wayneenterprises.com
-63D,Dianne,Sanchez,29,9175550136,06/14,"New York City, New York","New York City, New York",F,dianne.sanchez@example.com
+63D,Dianne,Sanchez,,9175550136,06/14,"New York City, New York","New York City, New York",F,dianne.sanchez@example.com
 91S,Summer,Smith,17,5558675309,08/08,"Seattle, Washington",Earth (Dimension C-131),F,summer.smith@smithfamily.com
 42R,Natasha,Romanoff,32,3105550124,11/22/84,"Avengers Compound, New York","Stalingrad, Russia",F,natasha.romanoff@avengers.com
