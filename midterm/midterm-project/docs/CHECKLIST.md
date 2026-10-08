@@ -22,40 +22,40 @@ Target submission: **Oct 11, 2026**.
 ---
 
 ## 1. Loading & Schema Setup
-- [ ] **REVISED** Read all CSVs with `dtype=str` (prevents float phone numbers and lost leading zeros)
-- [ ] **NEW** Keep SW Maps GPS columns (`Time`, `Horizontal Accuracy`, `HDOP`, `Satellites in Use`, `Fix ID`, `Averaged Count`) for QA instead of dropping them at load
-- [ ] **NEW** Add a `source_file` column to the merged raw data for traceability
-- [ ] **NEW** Merge the stray capitalized `Remarks` column (1 value) into `remarks`; handle `Image` / `establishment_pic` columns (files 9 and 10)
-- [ ] Rename `Latitude` / `Longitude` to lowercase `latitude` / `longitude`
-- [ ] **REVISED** Output column order matches the spec (`... contact_info`, `date_collected`, `collector`, `remarks`, `verified`); the notebook currently has `collector` before `date_collected`
-- [ ] Verify all 16 required columns are present:
-  - [ ] `feature_id` (Text)
-  - [ ] `name` (Text)
-  - [ ] `category` (Text)
-  - [ ] `subcategory` (Text)
-  - [ ] `street` (Text)
-  - [ ] `barangay` (Text)
-  - [ ] `latitude` (Decimal)
-  - [ ] `longitude` (Decimal)
-  - [ ] `location_description` (Text)
-  - [ ] `operating_status` (Text)
-  - [ ] `opening_hours` (Text)
-  - [ ] `contact_info` (Text)
-  - [ ] `date_collected` (Date YYYY-MM-DD)
-  - [ ] `collector` (Text)
-  - [ ] `remarks` (Text)
-  - [ ] `verified` (Text)
+- [X] **REVISED** Read all CSVs with `dtype=str` (prevents float phone numbers and lost leading zeros)
+- [X] **NEW** Keep SW Maps GPS columns (`Time`, `Horizontal Accuracy`, `HDOP`, `Satellites in Use`, `Fix ID`, `Averaged Count`) for QA instead of dropping them at load
+- [X] **NEW** Add a `source_file` column to the merged raw data for traceability
+- [X] **NEW** Merge the stray capitalized `Remarks` column (1 value) into `remarks`; handle `Image` / `establishment_pic` columns (files 9 and 10)
+- [X] Rename `Latitude` / `Longitude` to lowercase `latitude` / `longitude`
+- [X] **REVISED** Output column order matches the spec (`... contact_info`, `date_collected`, `collector`, `remarks`, `verified`)
+- [X] Verify all 16 required columns are present:
+  - [X] `feature_id` (Text)
+  - [X] `name` (Text)
+  - [X] `category` (Text)
+  - [x] `subcategory` (Text)
+  - [X] `street` (Text)
+  - [X] `barangay` (Text)
+  - [X] `latitude` (Decimal)
+  - [X] `longitude` (Decimal)
+  - [X] `location_description` (Text)
+  - [X] `operating_status` (Text)
+  - [X] `opening_hours` (Text)
+  - [X] `contact_info` (Text)
+  - [X] `date_collected` (Date YYYY-MM-DD)
+  - [X] `collector` (Text)
+  - [X] `remarks` (Text)
+  - [x] `verified` (Text)
 
 ---
 
 ## 2. Identifier Standardization (`feature_id`)
-- [ ] **REVISED** Repair IDs with regex or rules, not a hard-coded dict (all 8 malformed IDs; the notebook currently fixes only 3):
-  - [ ] Replace letter `O` with digit `0` (`LUC_BO5_001`, `_006`, `_011`, `_014`)
-  - [ ] Replace hyphens with underscores (`LUC-B08_036`)
-  - [ ] Remove spaces (`LUC _B04_008`)
-  - [ ] Fix prefix typos (`LIC_B04_014`)
-  - [ ] Zero-pad sequence numbers to 3 digits (`LUC_B04_20`)
-- [ ] Enforce pattern `^LUC_B\d{2}_\d{3}$`
+- [X] **REVISED** Repair IDs with regex or rules, not a hard-coded dict (all 8 malformed IDs):
+  - [X] Replace letter `O` with digit `0` (`LUC_BO5_001`, `_006`, `_011`, `_014`)
+  - [X] Replace hyphens with underscores (`LUC-B08_036`)
+  - [X] Remove spaces (`LUC _B04_008`)
+  - [X] Fix prefix typos (`LIC_B04_014`)
+  - [X] Zero-pad sequence numbers to 3 digits (`LUC_B04_20`)
+- [X] Enforce pattern `^LUC_B\d{2}_\d{3}$`
 - [ ] **NEW** After deduplication, reassign unique `feature_id`s and save an `old_id -> new_id` mapping file
 
 ---
