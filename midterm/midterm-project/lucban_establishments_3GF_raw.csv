@@ -1,0 +1,862 @@
+feature_id,name,category,subcategory,street,barangay,Latitude,Longitude,location_description,operating_status,opening_hours,contact_info,collector,date_collected,remarks,verified
+LUC_B10_001,"mommy's tacos, burgers and pizzas",Food and Dining,Eatery,G.Cadeliña,Barangay 10,14.112738333,121.55746,food stall at the front with an eatery inside,open,9:00AM - 8:00pm,,"PANDAKILA, HEERO MILES R.",2026-10-03,,Yes
+LUC_B10_002,bnb laundry,Personal Services,Laundry,G.Cadeliña,Barangay 10,14.112738333,121.55746,"Next to mommy's tacos, burgers and pizzas",open,7:00AM - 7:00pm,,"PANDAKILA, HEERO MILES R.",2026-10-03,,Yes
+LUC_B10_003,Star commecial,Retail,Grocery,G.Cadeliña,Barangay 10,14.112719583,121.557560667,"face to face of mommy's tacos, burger and pizzas",open,7:00AM - 7:00pm,,"PANDAKILA, HEERO MILES R.",2026-10-03,,Yes
+LUC_B10_004,ICE ICE BABY,Other,Other,G.Cadeliña,Barangay 10,14.112879561,121.55752386,front have a gate colored brown,open,9:00AM-9:00PM,,"BROQUEZA, MIKYLA C.",,,Yes
+LUC_B10_005,Zendong,Food and Dining,Eatery,G.Cadeliña,Barangay 10,14.11294,121.557613333,grey metal gate,open,,,"BROQUEZA, MIKYLA C.",,,Yes
+LUC_B10_006,BOSS RICO,Personal Services,Laundry,G.Cadeliña,Barangay 10,14.11305719,121.557718476,At the corner next to the pandesalan,open,6:30AM-7:30PM,0917-586-5777,"VITAL, FARRELL RICHARD E.",2026-10-03,,Yes
+LUC_B10_007,MANG-BUDONG,Food and Dining,Bakery,Quezon avenue,Barangay 10,14.113050556,121.5578625,blue front gate with big sign,open,,,"VITAL, FARRELL RICHARD E.",2026-10-03,,Yes
+LUC_B10_008,ABUSTAN LAPIDA,Other,Other,Quezon avenue,Barangay 10,14.113017963,121.55785713,green gate at the front,closed on Saturday,8:00AM-5:00PM,0967-046-7277,"PALEGAR, LUIS ALPHONSO N.",2026-10-03,,Yes
+LUC_B10_009,Sachoko salon,Personal Services,Salon,Quezon avenue,Barangay 10,14.113052816,121.557951897,faced with a empty lot,,,,"PALEGAR, LUIS ALPHONSO N.",2026-10-03,,Yes
+LUC_B10_010,Express Pay,Financial,Other,Quezon avenue,Barangay 10,14.112986414,121.557925202,faced with a empty lot,open,8:00AM-7:00PM,,"PALEGAR, LUIS ALPHONSO N.",2026-10-03,,Yes
+LUC_B10_011,Butcherrol,Other,Other,Quezon avenue,Barangay 10,14.112967083,121.557964167,,open,,0917-870-1113,"PALEGAR, LUIS ALPHONSO N.",2026-10-03,,Yes
+LUC_B10_012,BugMac,Food and Dining,Fast Food,Quezon avenue,Barangay 10,14.112948611,121.558051667,,open,24/7,,"PALEGAR, LUIS ALPHONSO N.",2026-10-03,,Yes
+LUC_B10_012,Itlog ni KUYA,Food and Dining,Grocery,Quezon avenue,Barangay 10,14.112911111,121.558054167,,open,,,"PANDAKILA, HEERO MILES R.",2026-10-03,,Yes
+LUC_B10_014,Kikay's MENU,Food and Dining,Eatery,Quezon avenue,Barangay 10,14.112870152,121.55818101,,open,,,"PANDAKILA, HEERO MILES R.",2026-10-03,,Yes
+LUC_B10_015,Joey's Barber Shop,Personal Services,Barbershop,,Barangay 10,14.112889894,121.558176693,,open,,,"BROQUEZA, MIKYLA C.",,,Yes
+LUC_B10_016,CELLPHONE REPAIR SHOP,Personal Services,Electronics,Quezon avenue,Barangay 10,14.112800539,121.55823027,,open,,,"BROQUEZA, MIKYLA C.",,,Yes
+LUC_B10_017,OHMPERE,Professional Services,Electronics,Quezon avenue,Barangay 10,14.112792764,121.55831252,,open,,,"BROQUEZA, MIKYLA C.",,,Yes
+LUC_B10_018,COFI MINDED CAMP,Food and Dining,Cafe,Quezon avenue,Barangay 10,14.112836333,121.558181667,,open,,,"BROQUEZA, MIKYLA C.",,,Yes
+LUC_B10_019,BRGY. MULTI PURPOSE HALL,Government,Barangay Office,San Luis,Barangay 10,14.11293,121.558486667,,open,,,"VITAL, FARRELL RICHARD E.",,,Yes
+LUC_B10_020,Mamet's sari sari store,Retail,Sari Sari Store,San Luis,Barangay 10,14.1129,121.558576667,,open,,,"VITAL, FARRELL RICHARD E.",,,Yes
+LUC_B10_021,Oblenida's sari sari store,Retail,Sari Sari Store,San Luis,Barangay 10,14.112935,121.558561667,,open,,,"PALEGAR, LUIS ALPHONSO N.",,,Yes
+LUC_B10_022,MSS Driving School,Other,Other,San Luis,Barangay 10,14.113223333,121.558346667,,closed,,0966-983-1651,"VITAL, RICHARD FARRELL E.",2026_10-03,,Yes
+LUC_B10_023,Ester`s Shop,Food and Dining,Sari Sari Store,San Luis,Barangay 10,14.113171667,121.558091667,,open,,,"VITAL, RICHARD FARRELL E.",2026_10-03,,Yes
+LUC_B10_024,Labadami,Personal Services,Laundry,San Luis,Barangay 10,14.113301806,121.557901111,,open,,09176388802,"PALEGAR,LUIS ALPHONSO N.",2026_10-03,,Yes
+LUC_B10_025,MYB,Retail,Clothing,G. Cadeliña,Barangay 10,14.113256667,121.557765,,open,,,"PALEGAR,LUIS ALPHONSO N.",2026_10-03,,Yes
+LUC_B10_026,El Vape,Other,Other,G. Cadeliña,Barangay 10,14.113166667,121.557856667,,open,,,"PANDAKILA,HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_027,Rhodora Vegetable Store,Food and Dining,Sari Sari Store,G. Cadeliña,Barangay 10,14.113246667,121.557851667,,open,,,"PANDAKILA,HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_028,Labhi Matrims Laundry Hub,Personal Services,Laundry,G. Cadeliña,Barangay 10,14.113306667,121.55784,,open,,,"BROQUEZA, MIKYLA C.",2026_10-03,,Yes
+LUC_B10_029,Bajong,Food and Dining,Eatery,G. Cadeliña,Barangay 10,14.11341,121.557875,,open,,,"BROQUEZA, MIKYLA C.",2026_10-03,,Yes
+LUC_B10_030,Louie - Anne's Boutique,Personal Services,Clothing,Quezon Avenue,Barangay 10,14.113615,121.557655,,open,,09204030297,"VITAL, FARRELL RICHARD E.",2026_10-03,,Yes
+LUC_B10_031,Boss Tabi Inihaw,Food and Dining,Eatery,Quezon Avenue,Barangay 10,14.113625,121.557573333,,open,,09157217881,"VITAL, FARRELL RICHARD E.",2026_10-03,,Yes
+LUC_B10_031,Boss Tabi Inihaw,Food and Dining,Eatery,Quezon Avenue,Barangay 10,14.113625,121.557573333,,open,,09157217881,"VITAL, FARRELL RICHARD E.",2026_10-03,,Yes
+LUC_B10_033,Aqua Dream,Other,Other,San Luis Cor. G. Cadeliña,Barangay 10,14.113264333,121.557736667,water refilling station,open,,09103976399,"BROQUEZA, MIKYLA C.",2026_10-03,,Yes
+LUC_B10_034,Lagdameo,Personal Services,Salon,San Luis Cor. G. Cadeliña,Barangay 10,14.113256667,121.557686667,With glass sliding door,open,,,"BROQUEZA, MIKYLA C.",2026_10-03,,Yes
+LUC_B10_035,L Bistro,Other,Other,San Luis Cor. G. Cadeliña,Barangay 10,14.113237083,121.557754583,Next to Lagdameo,open,,,"BROQUEZA, MIKYLA C.",2026_10-03,,Yes
+LUC_B10_036,Tea Spot,Food and Dining,Cafe,San Luis,Barangay 10,14.113378333,121.557635,white wall paint,open,,,"BROQUEZA, MIKYLA C.",2026_10-03,,Yes
+LUC_B10_037,The Vegehut,Food and Dining,Restaurant,San Luis,Barangay 10,14.113322083,121.557526667,,open,,,"VITAL, RICHARD FARRELL E.",2026_10-03,,Yes
+LUC_B10_038,Pio and Precy Sari-sari store,Retail,Sari Sari Store,San Luis,Barangay 10,14.113456667,121.557311111,,open,,,"BROQUEZA, MIKYLA C.",2026_10-03,,Yes
+LUC_B10_039,La bodega,Other,Other,San Luis,Barangay 10,14.113596667,121.557068333,,closed,,,"BROQUEZA, MIKYLA C.",2026_10-03,,Yes
+LUC_B10_040,Lucban Laundry House,Other,Laundry,San Luis,Barangay 10,14.113643333,121.55700625,,open,,,"PALEGAR, LUIS ALPHONSO N.",2026_10-03,,Yes
+LUC_B10_041,Batang Videoke,Other,Other,San Luis,Barangay 10,14.113612917,121.556977917,green gate,open,,,"PALEGAR, LUIS ALPHONSO N.",2026_10-03,,Yes
+LUC_B10_042,Kitang Kita ang Galing,Other,Other,San Luis,Barangay 10,14.113754667,121.556736333,agricultural supply,open,,,"PALEGAR, LUIS ALPHONSO N.",2026_10-03,,Yes
+LUC_B10_043,Dr. Lalangan Dental Clinic,Professional Services,Dental Clinic,San Luis,Barangay 10,14.113767083,121.55658625,Green folding gate,closed,,,"BROQUEZA, MIKYLA C.",2026_10-03,,Yes
+LUC_B10_044,Grizbelle,Personal Services,Salon,San Luis,Barangay 10,14.1138,121.556523,Glass sliding door with purple wall paint,open,,,"BROQUEZA, MIKYLA C.",2026_10-03,,Yes
+LUC_B10_045,Shiela's Frozen Product,Retail,Sari Sari Store,San Luis,Barangay 10,14.113898333,121.556455,Frozen products store and kiping store,open,,,"VITAL, RICHARD FARRELL E.",2026_10-03,,Yes
+LUC_B10_046,Lady's Boarding House,Accommodation,Boarding House,Balintawak,Barangay 10,14.114134722,121.556511944,Tall building owned by Pearls,open,,,"VITAL, RICHARD FARRELL E.",2026_10-03,,Yes
+LUC_B10_047,Black Apron Coffee,Food and Dining,Cafe,G. Del Pilar,Barangay 10,14.114198333,121.556971667,Cafe locally known in the town,open,,,"VITAL, RICHARD FARRELL E.",2026_10-03,,Yes
+LUC_B10_048,Rudyboy Trading,Other,Other,G. Del Pilar,Barangay 10,14.114113333,121.556924722,Hardware store in G. Del Pilar St.,open,,,"VITAL, RICHARD FARRELL E.",2026_10-03,,Yes
+LUC_B10_049,Neyosa Shirt & Embroidery,Retail,Clothing,G. Del Pilar,Barangay 10,14.113961667,121.556855,Printing and embroidery services,open,,0920-503-9256,"VITAL, RICHARD FARRELL E.",2026_10-03,,Yes
+LUC_B10_050,Laguadors,Food and Dining,Other,Balintawak Street,Barangay 10,14.113702778,121.556386111,Meat Shop,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_051,Viewers Digital Solution,Retail,Electronics,Balintawak Street,Barangay 10,14.113691667,121.556385,Gadgets Shop,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_052,Lucky Bookstore,Retail,Other,Balintawak Street,Barangay 10,14.113405,121.556308333,School and Office Supplies,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_053,Lucky Bookstore,Retail,Other,Balintawak Street,Barangay 10,14.113440806,121.556312473,School and Office Supplies,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_054,Boozelog,Food and Dining,Sari Sari Store,Balintawak Street,Barangay 10,14.113261667,121.556146667,Liquor Shop,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_055,CJ & JC Sari-Sari Store,Food and Dining,Sari Sari Store,Balintawak Street,Barangay 10,14.113211667,121.556206667,,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_056,Myra's Siopao,Food and Dining,Other,Racelis Street,Barangay 10,14.113143333,121.556311667,,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_057,Auntie Susan Store,Food and Dining,Sari Sari Store,G. Del Pilar,Barangay 10,14.113241667,121.556533333,,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_058,CAVV Hardware and Construction Supply,Other,Other,G. Del Pilar,Barangay 10,14.113293333,121.556571667,,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_059,Lucban Commercial Press,Professional Services,Printing Shop,Quezon Avenue,Barangay 10,14.112863333,121.558033333,,open,,09683610654,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_060,Jepoy's Grill,Food and Dining,Eatery,Quezon Avenue,Barangay 10,14.112851667,121.558035278,,open,,09683610654,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_061,AquaVal,Other,Other,Quezon Avenue,Barangay 10,14.112803333,121.557931667,,open,,09212203744,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_062,Kuya Richard,Retail,Sari Sari Store,Quezon Avenue,Barangay 10,14.112825,121.557915,,open,,09070708952,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_063,Cozy Travelers,Professional Services,Lodge,Quezon Avenue,Barangay 10,14.112825,121.557915,,open,,09152524452,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_064,Lap Sign Arts,Professional Services,Printing Shop,Quezon Avenue,Barangay 10,14.112825,121.557915,,open,,09289058908,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_065,John & Lester Store,Retail,Sari Sari Store,Quezon Avenue,Barangay 10,14.112966667,121.557858333,,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_066,Honey Wax,Personal Services,Salon,Quezon Avenue,Barangay 10,14.113018333,121.557772778,,open,,09215600514,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_067,Pectos Bakery,Food and Dining,Bakery,Quezon Avenue,Barangay 10,14.112955,121.557638333,,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_068,Pandayan Bookshop,Retail,Other,Quezon Avenue,Barangay 10,14.113065,121.55753,katabi ng lavender,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_069,LSD Store,Retail,Sari Sari Store,Quezon Avenue,Barangay 10,14.113024333,121.557526667,katabi ng acer,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_070,Acer Mart,Other,Grocery,Quezon Avenue,Barangay 10,14.1130725,121.557404167,tapat ng pandayan bookshop,open,,,"ABRACIA, JESHEILA ANGELA J.",2026_10-03,,Yes
+LUC_B10_071,Lavender BUILDING,Other,Other,Quezon Avenue,Barangay 10,14.113119149,121.557377748,a violet building next to pandayan,open,,,"PANDAKILA, HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_072,RODILLAS,Retail,Sari Sari Store,Quezon Avenue,Barangay 10,14.113105,121.557371667,,open,,,"PANDAKILA, HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_073,BABAT CYCLE,Automotive,Parts Shop,Quezon Avenue,Barangay 10,14.113136667,121.55734,,open,,,"PANDAKILA, HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_074,v coffee,Food and Dining,Cafe,Quezon Avenue,Barangay 10,14.113078889,121.557252917,,open,,,"PANDAKILA, HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_075,jam accessories store,Retail,Other,Quezon Avenue,Barangay 10,14.113206905,121.557355952,,open,,,"PANDAKILA, HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_076,ALLENREY WINESHOP,Retail,Other,Quezon Avenue,Barangay 10,14.113126111,121.55726,tapat ng nwow,open,,,"PANDAKILA, HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_077,The Thrifters Ave Fashion Shop,Retail,Clothing,Quezon Avenue,Barangay 10,14.113183333,121.5572,tapat ng ongville,open,,,"PANDAKILA, HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_078,Marella,Other,Other,Quezon Avenue,Barangay 10,14.113183333,121.5572,tapat ng ongville,open,,,"PANDAKILA, HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_079,Rodillas Branch,Food and Dining,Other,Quezon Avenue,Barangay 10,14.113221111,121.5571,,open,,,"PANDAKILA, HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_080,Animal Bite Center,Health,Clinic,Quezon Avenue,Barangay 10,14.113215833,121.557062917,,open,,09209601180,"PANDAKILA, HEERO MILES R.",2026_10-03,,Yes
+LUC_B10_081,Odessa Salon & Spa,Personal Services,Salon,Quezon Avenue,Barangay 10,14.113311667,121.557071667,katabi ng dentaville,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_082,HIPIC Auto Refinish,Other,Other,Quezon Avenue,Barangay 10,14.11336,121.557056667,katapat ng ABC,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_083,Kenberlyn Beauty Products and Salon,Personal Services,Salon,Quezon Avenue,Barangay 10,14.113355667,121.55703,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_084,Goldilocks,Food and Dining,Bakery,Quezon Avenue,Barangay 10,14.113324167,121.55701125,,open,6:00 AM - 8:00 PM,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_085,Ukay Ukay,Retail,Clothing,Quezon Avenue,Barangay 10,14.113258333,121.556945,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_086,Cavida Dental Clinic,Health,Dental Clinic,Quezon Avenue,Barangay 10,14.113313333,121.55697,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_087,Prolab Laboratory and Medical Services Inc.,Health,Clinic,Quezon Avenue,Barangay 10,14.113368333,121.556853333,,open,7:00 AM - 4:00 PM,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_088,Playground Gym,Health,Other,Quezon Avenue,Barangay 10,14.113460556,121.556879444,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_089,Palawan Pawnshop,Financial,Pawnshop,Quezon Avenue,Barangay 10,14.11343,121.55679,,open,8:00 AM - 5:30 PM,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_090,Belgian Waffles,Food and Dining,Bakery,Quezon Avenue,Barangay 10,14.113381667,121.556796667,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_091,Raquel Pawnshop,Financial,Pawnshop,Quezon Avenue,Barangay 10,14.113381667,121.55675,,open,8:00 AM - 5:00 PM,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_092,CVM Pawnshop,Financial,Pawnshop,Quezon Avenue,Barangay 10,14.113478333,121.556706667,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_093,Galaxy Bar Store,Retail,Other,Quezon Avenue,Barangay 10,14.113452083,121.556467917,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_094,Beatriz Dental Clinic,Health,Dental Clinic,Quezon Avenue,Barangay 10,14.113463333,121.556483333,,open,,09277316900,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_095,Abcede's Lucban Longganisa Classic,Retail,Other,Quezon Avenue,Barangay 10,14.113509444,121.556448333,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_096,Pepe and Mary's Coffee Shop & Pasalubong,Food and Dining,Restaurant,Quezon Avenue,Barangay 10,14.113533333,121.556458333,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_097,Avon MarkWins,Health,Other,Quezon Avenue,Barangay 10,14.113632778,121.556536667,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_098,Najmila Phone Parts & Repair Shop,Other,Parts Shop,Quezon Avenue,Barangay 10,14.113595,121.55645,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_099,Headliner's Hair & Beauty Salon,Personal Services,Salon,Quezon Avenue,Barangay 10,14.113636667,121.556451667,,open,8:00 AM - 9:00 PM,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_100,Rupert's Barber Shop,Personal Services,Barbershop,Quezon Avenue,Barangay 10,14.113658333,121.5564,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_101,Chokulit Minimart,Retail,Grocery,Quezon Avenue,Barangay 10,14.113666667,121.55637,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B10_102,Abcede's Resto,Food and Dining,Restaurant,Quezon Avenue,Barangay 10,14.113603333,121.556273333,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_001,Mr. Yap Fresh Buko,Other,Other,Quezon Avenue,Barangay 10,14.113917667,121.558059333,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_002,Osolle Electrical Supply,Retail,Electronics,La Purisma Concepcion,Barangay 1,14.11401,121.557813333,,open,,09605149058,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_003,Rkov Motorcle Parts,Automotive,Parts Shop,La Purisma Concepcion,Barangay 1,14.11416,121.55741,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_004,Yssa's Sari-sari Store,Retail,Sari Sari Store,La Purisma Concepcion,Barangay 1,14.1142175,121.557288333,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_005,Purr J,Retail,Other,La Purisma Concepcion,Barangay 1,14.114335333,121.557111667,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_006,Flora's Sari-sari Store,Retail,Sari Sari Store,La Purisma Concepcion,Barangay 1,14.114241667,121.557008333,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_007,Kabasi's Sari-sari Store,Retail,Sari Sari Store,La Purisma Concepcion,Barangay 1,14.114413333,121.55688875,,closed,6:00 AM - 10:00 PM,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_008,Rosemarie Store,Retail,Sari Sari Store,La Purisma Concepcion,Barangay 1,14.114548095,121.556532619,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_009,Good Shepherd Diocesan School-IFI,Other,Other,La Purisma Concepcion,Barangay 1,14.114551458,121.556408333,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_010,Kenby Pet Supplies,Retail,Other,La Purisma Concepcion,Barangay 1,14.114696667,121.55616,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_011,Chicks and Babes,Food and Dining,Restaurant,La Purisma Concepcion,Barangay 1,14.114675,121.556066667,,open,,09088978077,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_012,Agee's Food Hub,Food and Dining,Eatery,La Purisma Concepcion,Barangay 1,14.114732917,121.555983333,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_013,The Lemon Hub Ph,Food and Dining,Other,Don V. Cadelina,Barangay 1,14.114925,121.556148333,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_014,FE Store,Retail,Sari Sari Store,Don V. Cadelina,Barangay 1,14.115009762,121.556068333,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_015,Aldartek Engineering Services,Professional Services,Electronics,Lopez Jaena,Barangay 1,14.114951667,121.556375,,open,,09228404233,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_016,V.L. Avila Variety Store,Retail,Sari Sari Store,Lopez Jaena,Barangay 1,14.114858333,121.556506667,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B01_017,PH Resto,Food and Dining,Restaurant,Lopez Jaena,Barangay 1,14.114627667,121.557076667,,open,,,"Cadao, Janusz Gabriel S.",2026_10-03,,Yes
+LUC_B02_025,Ven's Puto Seko,Food and Dining,Souvenir,A. Bonifacio,Barangay 2,14.1133775,121.5550775,,Closed,,,"ALFARO, Justin Alexandre, B",29/09/2026,,Yes
+LUC_B02_026,"Bumibili Ginto at Pilak Sirang Alahas, Old coins",Financial,Pawnshop,A. Bonifacio,Barangay 2,14.11348667,121.5549017,,Closed,,,"MACARAIG, Mark Rheniel, P",29/09/2026,,Yes
+LUC_B02_027,Kimpoy Shoes Bags Repair,Automotive,Repair Shop,A. Bonifacio,Barangay 2,14.113875,121.5540717,,Closed,,9602081305,"PALMA, Mark, M.",29/09/2026,,Yes
+LUC_B02_028,Nicolo's Milk Tea,Food and Dining,Cafe,A. Bonifacio,Barangay 2,14.11386833,121.5539983,,Closed,,,"HUTAMARES, Franchezka, S.",29/09/2026,,Yes
+LUC_B02_029,Frosty Hail - Purified Tube Ice,Retail,Other,A. Bonifacio,Barangay 2,14.11385833,121.55396,,Closed,,9310402290,"RAMOS, Isaih Thomas, E.",29/09/2026,,Yes
+LUC_B02_030,OLAN'S LOOK-BAN BARBERSHOP & SALON,Personal Services,Barbershop,A. Bonifacio,Barangay 2,14.11400767,121.5537662,,Closed,,,"ALFARO, Justin Alexadre, B",29/09/2026,,Yes
+LUC_B02_031,Dr. Edwin D. Elma Orthodontics & General Dentistry,Health,Dental Clinic,A. Bonifacio,Barangay 2,14.11409333,121.5536896,,Closed,,,"MACARAIG, Mark Rheniel, P.",29/09/2026,,Yes
+LUC_B02_032,Araneta's Store,Retail,Sari Sari Store,A. Bonifacio,Barangay 2,14.11428,121.5531967,,Closed,,,"PALMA, Mark, M.",29/09/2026,,Yes
+LUC_B02_033,RED'S FRUITS & VEGETABLES,Retail,Grocery,A. Bonifacio,Barangay 2,14.11436893,121.5528113,,Closed,,,"RAMOS, Isaih Thomas, E.",29/09/2026,,Yes
+LUC_B02_034,PATRICK & ANTHONY'S BAKERY BRANCH,Food and Dining,Bakery,A. Bonifacio,Barangay 2,14.11444214,121.5527974,,Open,,,"HUTAMARES, Franchezka, M.",29/09/2026,,Yes
+LUC_B02_035,Animal Feed Trading,Other,Other,Gen. Lukban,Barangay 2,14.114705,121.5526733,,Closed,,9228427194,"ALFARO, Justin Alexandre, B",29/09/2026,,Yes
+LUC_B02_036,FATMA ZAHRA CELLPHONE ACCESSORIES,Professional Services,Other,Gen. Lukban,Barangay 2,14.11465167,121.5527147,,Closed,,,"MACARAIG, Mark Rheniel, P.",29/09/2026,,Yes
+LUC_B02_037,"Jhona R. Ratio, CPA ACCOUNTING OFFICE",Professional Services,Office,Gen. Lukban,Barangay 2,14.11463667,121.5527333,2nd Floor,Closed,,9985675637,"PALMA, Mark, M.",29/09/2026,,Yes
+LUC_B02_038,Cuddle Clean Laundry,Personal Services,Laundry,Gen. Lukban,Barangay 2,14.114685,121.5527433,,Closed,,,"RAMOS, Isaih Thomas, E.",29/09/2026,,Yes
+LUC_B02_039,Angel & Gelo Store,Retail,Sari Sari Store,A. Racelis,Barangay 2,14.11479,121.5529,,Open,,,"ALFARO, Justin Alexandre, B.",29/09/2026,,Yes
+LUC_B02_040,Carlos Super Drug - Lucban Branch,Health,Pharmacy,A. Racelis,Barangay 2,14.11474944,121.5529032,,Closed,,,"MACARAIG, Mark Rheniel, P.",29/09/2026,,Yes
+LUC_B02_041,Badiola-Lozada Optometry & Medical Clinic,Health,Clinic,A. Racelis,Barangay 2,14.114745,121.55288,,Closed,,9196312215,"PALMA, Mark, M.",29/09/2026,,Yes
+LUC_B02_042,CHICKEN AND FROZEN FOODS (MEAT and others),Retail,Grocery,A. Racelis,Barangay 2,14.11473352,121.5530395,meat shop,Closed,,,"RAMOS, Isaih Thomas, E.",29/09/2026,,Yes
+LUC_B02_043,MAGUYON DRY GOOD'S STORE,Retail,Grocery,A. Racelis,Barangay 2,14.11461381,121.5531007,,Closed,,,"HUTAMARES, Franchezka, M.",29/09/2026,,Yes
+LUC_B02_044,PEARLS MPC - APPLIANCE STORE,Retail,Electronics,A. Racelis,Barangay 2,14.11459194,121.5531628,,Closed,,9190779776,"ALFARO, Justin Alexandre, B.",29/09/2026,,Yes
+LUC_B02_045,PEARLS MPC - GROCERY & GENERAL MERCHANDISE,Retail,Grocery,A. Racelis,Barangay 2,14.11458833,121.5531617,,Closed,,9461818204,"ALFARO, Justin Alexandre, B.",29/09/2026,,Yes
+LUC_B02_046,BCM MOBILE GADGETS ACCS N REPR,Retail,Electronics,A. Racelis,Barangay 2,14.11452905,121.5532271,,Closed,,,"MACARAIG, Mark Rheniel, P.",29/09/2026,,Yes
+LUC_B02_047,E & N MOBILE GADGETS PARTS & REPAIR SHOP B1,Retail,Electronics,A. Racelis,Barangay 2,14.11456167,121.5532017,,Closed,,,"PALMA, Mark, M.",29/09/2026,,Yes
+LUC_B02_048,GOGO SHAMAN LENDING CORPORATION,Financial,Remittance Center,A. Racelis,Barangay 2,14.11451833,121.5532483,Second Floor,Closed,9:00 AM - 3:00 PM,9182845879,"RAMOS, Isaih Thomas, E.",29/09/2026,,Yes
+LUC_B02_049,KMB Dog & Cat Clinic,Health,Clinic,A. Racelis,Barangay 2,14.11451833,121.5532483,,Closed,,9999416182,"HUTAMARES, Franchezka, M.",29/09/2026,,Yes
+LUC_B09_001,Agee's Food Hub,Food and Dining,Restaurant,La Purisima Conception,Barangay 9,14.11479441,121.5559836,First floor,Open,,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_002,The Lemon LAB PH,Food and Dining,Restaurant,Don V. Cadelina,Barangay 9,14.11491013,121.5561251,,Open,,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_003,LHCN Fashion Botique,Retail,Clothing,Don V. Cadelina,Barangay 9,14.11503451,121.5560581,First floor,Open,,,"Reginal,Reynel M.",02/10/2026,,Yes
+LUC_B09_004,Ropharisa Photo Image,Professional Services,Printing Shop,Regidor,Barangay 9,14.11512294,121.5557111,Second floor,Open,,9399079761,"Salumbides, Emanuel A",02/10/2026,,Yes
+LUC_B09_005,Dahilig Live Tilapia,Other,Other,Regidor,Barangay 9,14.1151541,121.555698,first floor,closed,,540-4079,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_006,Colar,Retail,Sari Sari Store,Regidor,Barangay 9,14.11508457,121.5556251,,Closed,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_007,Card Inc. Lucban Unit,Financial,Remittance Center,Regidor,Barangay 9,14.11504671,121.5556779,,Open,,,"Salumbides, Emanuel A.",,,Yes
+LUC_B09_008,Sha-sha Sari-Sari Store,Retail,Sari Sari Store,Regidor,Barangay 9,14.11493529,121.5556195,,Open,,,"Escobal, Gwyneth A",02/10/2026,,Yes
+LUC_B09_009,Sabon Station,Retail,Other,La Purisima Conception,Barangay 9,14.11484634,121.5557512,,Closed,,,Reginal Reynel M,02/10/2026,,Yes
+LUC_B09_010,Jigram,Retail,Sari Sari Store,La Purisima Conception,Barangay 9,14.11484096,121.5558042,,Open,,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_011,Angel's Burger,Food and Dining,Fast Food,La Purisima Conception,Barangay 9,14.11494866,121.5554993,,Oepn,24-Jul,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_012,Bokz Shop,Personal Services,Barbershop,La Purisima Conception,Barangay 9,14.1149333,121.5554624,,Open,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_013,Cabungal Quevedo Optometric Vision Care Clinic,Health,Clinic,La Purisima Conception,Barangay 9,14.11497652,121.5554157,,Open,9:00 am,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_014,Kim Pascua,Food and Dining,Restaurant,La Purisima Conception,Barangay 9,14.11502688,121.5551993,Second Floor,Open,9:00 am - 5:30 pm,9691328512,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_015,Broxas Pavino's,Food and Dining,Bakery,la Purisima Conception,Barangay 9,14.11504606,121.5551168,,Open,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_016,BigMak,Food and Dining,Fast Food,Lucban Sampaloc Road,Barangay 9,14.11519541,121.5551423,,Open,24-Jul,,"Salumbides, Emanuel",02/10/2026,,Yes
+LUC_B09_017,Ayell's,Food and Dining,Eatery,Lucban-Sampaloc Road,Barangay 9,14.1152799,121.5550949,,Open,,(042) 540-5056,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_018,Chick's Mix,Food and Dining,Fast Food,Lucban-Sampaloc Road,Barangay 9,14.1153443,121.5551281,,Open,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_019,Colar,Retail,Clothing,Lopez jaena,Barangay 9,14.11539792,121.5552466,,Open,,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_020,Colar,Retail,Clothing,Lopez Jaena,Barangay 9,14.11542207,121.5552589,,Open,,,Escobal Gwyneth A.,02/10/2026,,Yes
+LUC_B09_021,Marco Polo,Retail,Other,Lopez jaena,Barangay 9,14.11530119,121.5554958,,Open,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_022,House of barbeque,Retail,Sari Sari Store,Lopez jaena,Barangay 9,14.1151579,121.5557098,,Open,,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_023,Pilar,Retail,Sari Sari Store,Lopez jaena,Barangay 9,14.11507878,121.5559648,,Open,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_024,GRLD Tailoring shop,Personal Services,Clothing,Don V. Cadelina,Barangay 9,14.11515565,121.5561632,,Open,,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_025,Enthree Print,Professional Services,Printing Shop,Don V. Cadelina,Barangay 9,14.1151683,121.5561971,second floor,Open,,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_026,Motolite,Automotive,Repair Shop,Don V. Cadelina,Barangay 9,14.1152445,121.5562462,,Open,,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_027,Bato BBQ,Food and Dining,Eatery,Plaridel,Barangay 9,14.11532828,121.5561197,,Open,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_028,Rye rye,Retail,Sari Sari Store,Plaridel,Barangay 9,14.11532399,121.5560392,,Open,,,"Escobal, Gwyneth",02/10/2026,,Yes
+LUC_B09_029,Cebuana Lhuillier,Financial,Remittance Center,Regidor,Barangay 9,14.11531584,121.555777,,Open,8:00 am - 9:00 pm,9283859030,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_030,El-Vape,Retail,Other,Regidor,Barangay 9,14.1152805,121.5557502,,Open,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_031,Natal Store,Retail,Sari Sari Store,Plaridel,Barangay 9,14.11548031,121.5558764,,Open,,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_032,Chito's,Food and Dining,Restaurant,Lucban-Sampaloc Road,Barangay 9,14.11558603,121.555418,,Open,7:00 am-11:00 pm,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_033,Amaron,Retail,Electronics,Plaridel,Barangay 9,14.11561667,121.5554912,,Open,,9451394300,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_034,Kasipag Microfinancing Inc.,Financial,Bank,plaridel,Barangay 9,14.11561355,121.5554221,,,,9150847468,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_035,Kapedillera,Food and Dining,Cafe,Plaridel,Barangay 9,14.11562134,121.555374,,Open,,,"Reginal, Reynel M.",,,Yes
+LUC_B09_036,The Crunch,Food and Dining,Fast Food,Lucban-Sampaloc Road,Barangay 9,14.11576523,121.5553685,,Open,,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_037,Royal Star,Retail,Electronics,Lucban-Sampaloc Road,Barangay 9,14.11592888,121.5554565,,Open,,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_038,Franks,Food and Dining,Fast Food,Lucban-Sampaloc Road,Barangay 9,14.11594851,121.5555244,,Open,24-Jul,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_039,Hungarian Sausage,Food and Dining,Fast Food,Katipunan,Barangay 9,14.1159442,121.5556696,,Open,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_040,Mrs. Bubbly's Laundry House,Personal Services,Laundry,Katipunan,Barangay 9,14.11586218,121.555742,,Open,,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_041,Chef Manny,Food and Dining,Eatery,Katipunan,Barangay 9,14.11581842,121.5557872,,Open,,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_042,VC Print shop,Professional Services,Printing Shop,katipunan,Barangay 9,14.11576281,121.5558233,,Open,,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_043,D.B Varona,Automotive,Parts Shop,katipunan,Barangay 9,14.1157065,121.5560255,,Open,,9162837279,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_044,Jared's Feeds supply,Retail,Other,katipunan,Barangay 9,14.11567026,121.5561224,,Open,6:00 am - 9:00 pm,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_045,Bon Tea,Food and Dining,Cafe,katipunan,Barangay 9,14.11563187,121.5562656,,Open,,,Escobal Gwyneth A.,02/10/2026,,Yes
+LUC_B09_046,Hazel printing services,Professional Services,Printing Shop,Don V. Cadelina,Barangay 9,14.11548947,121.5563233,,Open,6;30 am - 11:00 pm,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_047,D'Seño,Personal Services,Other,Don V. Cadelina,Barangay 9,14.11541732,121.5562682,,Open,,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_048,Emilia Emily's Store,Retail,Sari Sari Store,D. Aguilar,Barangay 9,14.11590295,121.5562583,,Open,,,Escobal Gwyneth A.,02/10/2026,,Yes
+LUC_B09_049,Efren's Lucban Langgonisa,Food and Dining,Restaurant,D. Aguilar,Barangay 9,14.11603514,121.5561043,,Open,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_050,King's Table,Food and Dining,Restaurant,D. Agular,Barangay 9,14.11599096,121.5560614,,Open,,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_051,Mark Store,Retail,Sari Sari Store,Lucban-Sampaloc Road,Barangay 9,14.11605906,121.5555155,,Open,,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_052,RLE Roofing Materials Trading,Retail,Other,Lucban-Sampaloc Road,Barangay 9,14.11619644,121.5555867,,Open,,,"Reginal, Reynel M.",02/10/2026,,Yes
+LUC_B09_053,Joes Lugaw House,Food and Dining,Eatery,Lucban-Sampaloc Road,Barangay 9,14.11626402,121.5556183,,Open,,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_054,Jepoy Sisig,Food and Dining,Fast Food,Lucban-Sampaloc Road,Barangay 9,14.11635526,121.5556405,,Open,,,"Salumbides, Emanuel A.",02/10/2026,,Yes
+LUC_B09_055,Yobu Cafe,Food and Dining,Eatery,Lucban-Sampaloc Road,Barangay 9,14.11636117,121.5556463,,Open,,,"Escobal, Gwyneth A.",02/10/2026,,Yes
+LUC_B09_056,Child development center,Government,Barangay Office,A. Dela Cruz,Barangay 9,14.11638493,121.555968,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_057,Jhenyzelle Store,Retail,Sari Sari Store,Regidor,Barangay 9,14.11621044,121.556239,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_058,Aling Nelia's,Food and Dining,Fast Food,A. Dela Cruz,Barangay 9,14.11624474,121.556255,,Closed,,,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_059,Rissa Mini Store,Retail,Sari Sari Store,A. Dela Cruz,Barangay 9,14.11615386,121.5563095,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_060,Valor Builders,Accommodation,Boarding House,A. Dela Cruz,Barangay 9,14.11617414,121.5563599,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_061,A.K.K Sari sari store,Retail,Sari Sari Store,Don V. Cadelina,Barangay 9,14.11629898,121.5566755,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_062,Hello gorgeous,Personal Services,Salon,Don V. Cadelina,Barangay 9,14.11633522,121.5566799,,Closed,,,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_063,Payeah's special kakanin,Food and Dining,Other,C. Arellano,Barangay 9,14.11634918,121.5566187,,Open,,9477589628,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_064,Cordians credit corporation,Financial,Remittance Center,C. Arellano,Barangay 9,14.1163777,121.5565394,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_065,Fa Skin,Retail,Other,Regidor,Barangay 9,14.11642995,121.5562689,,Open,,,"Escobal, Gwyneth A.",03/10/2026,Beauty products,Yes
+LUC_B09_066,Queen's,Accommodation,Inn,Regidor,Barangay 9,14.11642227,121.5563179,Fourth Floor,Open,,9988465078,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_067,Sunny's Store,Retail,Sari Sari Store,Regidor,Barangay 9,14.11631071,121.5563043,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_068,Barik Liquor store,Retail,Other,Regidor,Barangay 9,14.11628152,121.5562567,,Open,,,"Reginal, Reynel M.",03/10/2026,Liquor,Yes
+LUC_B09_069,Kingdom Hall,Other,Other,C. Arellano,Barangay 9,14.11659556,121.5561845,,Open,,,"Javin, Mark Justine P.",03/10/2026,Chapel,Yes
+LUC_B09_070,Apo ni eker,Retail,Sari Sari Store,Lucban-Sampaloc Road,Barangay 9,14.11690602,121.5559322,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_071,Centro Bambino,Professional Services,Other,Lucban-Sampaloc Road,Barangay 9,14.11693442,121.555952,,Open,,9766576884,"Salumbides, Emanuel A",03/10/2026,Child care and development center,Yes
+LUC_B09_072,Lulugawan kita,Food and Dining,Eatery,Lucban-Sampaloc Road,Barangay 9,14.11698288,121.5559423,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_073,Abcede,Retail,Sari Sari Store,Lucban-Sampaloc Road,Barangay 9,14.11713238,121.5559589,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_074,Mang budong,Food and Dining,Bakery,Lucban-Sampaloc Road,Barangay 9,14.11714414,121.555964,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_075,Belle & Glam,Personal Services,Salon,Lucban-Sampaloc Road,Barangay 9,14.11723239,121.5561039,,Open,,9608518275,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_076,Abad Perez optical,Health,Clinic,Lucban-Sampaloc Road,Barangay 9,14.11724875,121.556111,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_077,Liza Store,Retail,Other,Jose Eleazar,Barangay 9,14.11718251,121.556355,,Open,,,"Javin, Mark Justine P.",03/10/2026,Meat shop,Yes
+LUC_B09_078,Levy Store,Retail,Sari Sari Store,,Barangay 9,14.11687437,121.5565175,Regidor,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_079,Khaiz Food hub,Food and Dining,Fast Food,Regidor,Barangay 9,14.11682075,121.5564766,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_080,Anita E. Caidac,Retail,Sari Sari Store,Regidor,Barangay 9,14.11680705,121.5564703,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_081,Rowana's Sari sari store,Retail,Sari Sari Store,Regidor,Barangay 9,14.11683326,121.5564824,,Closed,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_082,Myrna Store,Retail,Sari Sari Store,Regidor,Barangay 9,14.11664379,121.5563903,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_083,Semiona Store,Retail,Sari Sari Store,Jose Eleazar,Barangay 9,14.11695454,121.5567863,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_084,Sean's Store,Retail,Sari Sari Store,Don V. Cadelina,Barangay 9,14.11683548,121.5568592,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_085,Angle Dome Repair shop,Automotive,Repair Shop,Jose Eleazar,Barangay 9,14.11689387,121.5568891,,Open,,,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_086,Naj's & Zaida,Personal Services,Salon,Don V. Cadelina,Barangay 9,14.11708467,121.5570616,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_087,Charm's Beauty aesthetic clinic,Health,Clinic,Don V. Cadelina,Barangay 9,14.11728727,121.5571295,,Open,,,"Javin, Mark Justine P.",03/10/2026,Beauty clinic,Yes
+LUC_B09_088,Ryan's store,Retail,Sari Sari Store,Don V . Cadelina,Barangay 9,14.11756914,121.5572411,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_090,Mylene's gulayan,Retail,Sari Sari Store,Regidor,Barangay 9,14.11790498,121.5570778,,Open,,,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_091,Saludares Sari-sari store,Retail,Sari Sari Store,Claro Cabungcal,Barangay 9,14.11796918,121.5570241,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_091,Bartolome's store,Retail,Sari Sari Store,Claro Cabungcal,Barangay 9,14.11795289,121.5570224,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_092,Awe's Gift Shop,Retail,Souvenir,Claro Cabungcal,Barangay 9,14.11803206,121.5569894,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_093,Sita's Store,Retail,Sari Sari Store,Claro Cabungcal,Barangay 9,14.11807042,121.5569707,,Open,,,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_094,Beauty's Center,Personal Services,Other,Regidor,Barangay 9,14.11785939,121.5570033,,Open,,,"Escobal, Gwyneth A.",03/10/2026,Bridal bouquet,Yes
+LUC_B09_095,Sabon Station,Personal Services,Other,Regidor,Barangay 9,14.11780308,121.5570256,,Open,,,"Salumbides, Emanuel A.",03/10/2026,Cleaning services,Yes
+LUC_B09_097,KiahElla's Store,Retail,Other,Regidor,Barangay 9,14.11772045,121.5568952,,Open,,,"Reginal, Reynel M.",03/10/2026,Online Store,Yes
+LUC_B09_097,Naning mini store,Retail,Sari Sari Store,Regidor,Barangay 9,14.11759531,121.5569198,,Open,,,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_099,Lavania Laundry station,Personal Services,Laundry,Regidor,Barangay 9,14.11736865,121.556793,,Open,7:00 am - 7:00 pm,9208344071,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_099,JSP,Retail,Sari Sari Store,Regidor,Barangay 9,14.11715336,121.5565891,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_100,Hannz's mini store,Retail,Sari Sari Store,Regidor,Barangay 9,14.11712377,121.5566037,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_101,Melinda's Eatery,Food and Dining,Eatery,Jose Eleazar,Barangay 9,14.11726142,121.556403,,Open,,9127909256,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_102,Atlas Internet Cafe,Professional Services,Computer Shop,SN. Jose,Barangay 9,14.11747091,121.5565286,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_103,BAJAR,Retail,Grocery,Claro Cabungcal,Barangay 9,14.11807282,121.5567916,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_104,Pecto's bakery,Food and Dining,Bakery,Lucban-Sampaloc Road,Barangay 9,14.11816671,121.5565687,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_102,Nigazz House of Ramen,Food and Dining,Restaurant,Lucban-Sampaloc Road,Barangay 9,14.11808365,121.5565486,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_106,Celvie Auto Supply,Automotive,Parts Shop,Lucban-Sampaloc Road,Barangay 9,14.11808681,121.556532,,Closed,,,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_107,CNJ Moto Shop,Automotive,Parts Shop,Lucban-Sampaloc Road,Barangay 9,14.11801484,121.5564859,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_108,Buena's Arrozcaldo,Food and Dining,Eatery,Lucban-Sampaloc Road,Barangay 9,14.11795752,121.5564624,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_109,Auxel Water station,Retail,Other,Lucban-Sampaloc Road,Barangay 9,14.11794486,121.5564462,,Open,,9193357825,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_110,Wine & Beer,Retail,Sari Sari Store,Lucban-Sampaloc Road,Barangay 9,14.1178739,121.5564393,,Open,,,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_111,One day express laundry,Personal Services,Laundry,Lucban-Sampaloc Road,Barangay 9,14.11776347,121.5563463,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_112,Yholly store,Retail,Sari Sari Store,Lucban-Sampaloc Road,Barangay 9,14.11772008,121.5563162,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_113,Barbershop,Personal Services,Barbershop,Lucban-Sampaloc Road,Barangay 9,14.11762704,121.556318,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_114,4 KM Coffee,Food and Dining,Cafe,Lucban-Sampaloc Road,Barangay 9,14.11759034,121.5562906,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_115,Daza Crispy's,Food and Dining,Fast Food,Lucban-Sampaloc Road,Barangay 9,14.11738266,121.5561755,,Open,,9178648190,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_116,Reed Rain Store,Retail,Sari Sari Store,Claro Cabungcal,Barangay 9,14.11817423,121.5566229,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_117,Mabulay Store,Food and Dining,Eatery,Lucban-Sampaloc Road,Barangay 9,14.11825765,121.5566347,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_118,Manok ni Kulet,Food and Dining,Fast Food,Lucban-Sampaloc Road,Barangay 9,14.11838253,121.5566909,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_119,Luminario design,Professional Services,Printing Shop,Lucban-Sampaloc Road,Barangay 9,14.11842687,121.5566882,,Open,,,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_120,Cleanic Project,Health,Clinic,Lucban-Sampaloc Road,Barangay 9,14.11860202,121.5568093,,Closed,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_121,Kusina ni allan,Food and Dining,Eatery,Lucban-Sampaloc Road,Barangay 9,14.11862017,121.5568157,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_122,Marinduqueños,Food and Dining,Fast Food,Lucban-Sampaloc Road,Barangay 9,14.11867695,121.5568589,,Open,,,"Escobal, Gwyneth A.",03/10/2026,,Yes
+LUC_B09_123,Malen store,Retail,Sari Sari Store,Gil Rada,Barangay 9,14.11868764,121.5569617,,Open,,,"Salumbides, Emanuel A.",03/10/2026,,Yes
+LUC_B09_125,Lena's Store,Retail,Sari Sari Store,Gil Rada,Barangay 9,14.11838744,121.5575563,,Open,,,"Reginal, Reynel M.",03/10/2026,,Yes
+LUC_B09_125,Rosalyn store,Retail,Sari Sari Store,Don V. Cadelina,Barangay 9,14.11816437,121.557447,,Open,,,"Javin, Mark Justine P.",03/10/2026,,Yes
+LUC_B09_126,Petron Gasul,Retail,Other,Lucban-Sampaloc Road,Barangay 9,14.11881973,121.5569378,,Open,,,"Escobal, Gwyneth A.",03/10/2026,Gasul,Yes
+LUC_B08_011,Abcede's Resto,Food and Dining,Restaurant,Quezon Avenue,Barangay 8,14.11363157,121.5562345,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_012,Generica drugstore,Health,Pharmacy,Quezon Avenue,Barangay 8,14.11374222,121.5561989,,Open,7:00am to 9:00pm,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_013,Lola Pelang's,Food and Dining,Eatery,Quezon Avenue,Barangay 8,14.113745,121.55615,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_014,Dadbod,Food and Dining,Restaurant,Quezon Avenue,Barangay 8,14.11382333,121.5559267,,Closed,,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_016,Mang Inasal,Food and Dining,Fast Food,Quezon Avenue,Barangay 8,14.11389372,121.5555892,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_017,Mr. D.I.Y.,Retail,Other,Quezon Avenue,Barangay 8,14.11396019,121.5555069,,Open,8:00AM - 8:00PM,,"Alfaro, Justin Alexandre, B.",01/10/2026,Subcategory is Others because madaming tinda,Yes
+LUC_B08_018,Dealo Koffee Klatch Bakeshop,Food and Dining,Bakery,Quezon Avenue,Barangay 8,14.11397537,121.5554002,,Open,,9618105521,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_019,Jollibee,Food and Dining,Fast Food,Quezon Avenue,Barangay 8,14.11403833,121.5552193,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_020,7 Eleven,Retail,Grocery,Quezon Avenue,Barangay 8,14.11411104,121.5551577,,Open,24-Jul,,"Alfaro, Justin Alexandre, B.",01/10/2026,Convenience Store,Yes
+LUC_B08_031,Les Garde Inn,Accommodation,Inn,Quezon Avenue,Barangay 8,14.11415667,121.5550533,,Open,8:00AM to 10:00PM,9064188762,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_032,Banko,Financial,Bank,Quezon Avenue,Barangay 8,14.11415944,121.5550511,,Open,9:00AM to 4:30PM,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_033,southstar drug,Health,Pharmacy,Quezon Avenue,Barangay 8,14.114174,121.5550443,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_034,Landbank,Financial,ATM,Quezon Avenue,Barangay 8,14.11420306,121.5549786,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_035,The Local Government Unit of Lucban,Government,Municipal Office,Quezon Avenue,Barangay 8,14.11421667,121.55483,,Open,8:00AM to 5:00PM,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC-B08_036,SJS,Retail,Other,Quezon Avenue,Barangay 1,14.11438333,121.5546797,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_037,Palawan Pawnshop,Financial,Pawnshop,Quezon Avenue,Barangay 8,14.11440833,121.5546267,,Closed,,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_038,Pectos Bakery,Food and Dining,Bakery,Quezon Avenue,Barangay 8,14.1144125,121.5544933,,Open,,,"De Chavez, Sharaine Princess P.",01/10/2026,,Yes
+LUC_B08_039,Mercury drug,Health,Pharmacy,Quezon Avenue,Barangay 8,14.11448833,121.5544667,,Open,7:00AM to 9:00PM,,"De Chavez, Sharaine Princess,  P.",01/10/2026,,Yes
+LUC_B08_040,Personal Collection,Retail,Other,Quezon Avenue,Barangay 8,14.11450167,121.554425,,Open,10:00AM to 6:30PM,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_051,G.B.DAZA LUCBAN LONGGANISA,Food and Dining,Souvenir,Quezon Avenue,Barangay 8,14.11453333,121.554345,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_052,Perie's Bakehouse,Food and Dining,Bakery,Quezon Avenue,Barangay 8,14.11455861,121.5542428,,Open,,9999912499,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_053,Carlos Superdrug,Health,Pharmacy,Quezon Avenue,Barangay 8,14.11456938,121.5541283,,Open,7:00AM to 9:00PM,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_015,Watson's Pharmacy,Health,Pharmacy,Quezon Avenue,Barangay 8,14.113783,121.5559193,,Open,7:00AM to 9:00PM,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_054,The Generics Pharmacy,Health,Pharmacy,Apolinario Mabini,Barangay 8,14.114732,121.5542163,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_055,Cristina's Palamigan,Retail,Sari Sari Store,,Barangay 8,14.11475278,121.55423,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_056,Four P's Lucban Hab-Hab Pansiteria,Food and Dining,Eatery,San Luis,Barangay 8,14.11483733,121.5544847,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_057,Ivaneson Botique,Retail,Clothing,San Luis,Barangay 8,14.11478033,121.5545987,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_058,Rodelas Law Office,Professional Services,Office,San Luis,Barangay 8,14.11478167,121.5545717,,Open,,9190987998,"Carable, Jillian Mae, V.",01/10/2026,law office notary,Yes
+LUC_B08_059,H&L RTW Store,Retail,Clothing,San Luis,Barangay 8,14.11477674,121.554585,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_060,RMA Kitchen,Food and Dining,Eatery,San Luis,Barangay 8,14.114743,121.554663,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_071,Buddy's,Food and Dining,Restaurant,Rizal Avenue,Barangay 8,14.11460333,121.5547919,,Open,,9988414867,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_072,Prutasan,Retail,Other,San Luis,Barangay 8,14.11432567,121.5555143,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,Fruit store,Yes
+LUC_B08_073,Chickenitch Villaverde,Retail,Other,San Luis,Barangay 8,14.114282,121.555615,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,Raw chicken shop,Yes
+LUC_B08_074,Chooks to Go,Food and Dining,Other,San Luis,Barangay 8,14.11419567,121.555726,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,Cooked Chicken shop,Yes
+LUC_B08_075,Potato Corner,Food and Dining,Fast Food,San Luis,Barangay 8,14.11417767,121.555778,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_076,SMC Hair & Waxing Salon,Personal Services,Salon,San Luis,Barangay 8,14.114175,121.5558053,,Open,9:00AM to 7:00PM,,"Alfaro, Justin Alexandre, B.",01/10/2026,3rd Floor - Transient Room,Yes
+LUC_B08_077,Five Star,Food and Dining,Other,San Luis,Barangay 8,14.11416639,121.5558881,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,Lutong Chicken Shop,Yes
+LUC_B08_078,Apartment,Accommodation,Boarding House,San Luis,Barangay 8,14.114065,121.5560217,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,No Label,Yes
+LUC_B08_079,J&C Laundry Hub,Personal Services,Laundry,San Luis,Barangay 8,14.11406167,121.5560383,,Open,7:00AM to 7:00PM,9683635767,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_080,Purified Ice Store,Retail,Other,Balintawak,Barangay 8,14.11418333,121.5565594,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_091,Lisa's Store,Retail,Sari Sari Store,Balintawak,Barangay 8,14.11427933,121.556574,,Open,,,,01/10/2026,,Yes
+LUC_B08_092,Printerest Design Studio,Professional Services,Printing Shop,La Purisima Concepcion,Barangay 8,14.11459633,121.5563483,,Open,8:00AM to 6:00PM,425403261,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_093,Hao Cafe,Food and Dining,Cafe,La Purisima Concepcion,Barangay 8,14.114692,121.5561477,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_094,Azarcon Residence Office,Professional Services,Office,La Purisima Concepcion,Barangay 8,14.11474167,121.5560217,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,"Residential Office at tindahan ng lambanog, open daw sila",Yes
+LUC_B08_095,Villenas Photo & Studio,Professional Services,Printing Shop,La Purisima Concepcion,Barangay 8,14.11486333,121.555772,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_096,Concepcion st. Bakery,Food and Dining,Bakery,La Purisima Concepcion,Barangay 8,14.11489387,121.5555558,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,"Bawal itanong ang name, wala raw yung owner, pero kind yung seller",Yes
+LUC_B08_097,Jaiowa's Homemade Foodie,Food and Dining,Restaurant,La Purisima Concepcion,Barangay 8,14.11496139,121.5554942,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_098,Philippine National Bank,Financial,Bank,La Purisima Concepcion,Barangay 8,14.115006,121.555313,,Open,9:00AM to 4:00PM,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_099,MLhuillier,Financial,Pawnshop,La Purisima Concepcion,Barangay 8,14.11512861,121.5549886,,Open,8:00AM to 6:00PM,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_100,Alpha Building,Accommodation,Hotel,La Purisima Concepcion,Barangay 8,14.11523444,121.5547308,,Closed,,,"De Chavez, Sharaine Princess, P.",01/10/2026,,Yes
+LUC_B08_111,Shoti's Sizzling Hun,Food and Dining,Restaurant,La Purisima Concepcion,Barangay 8,14.11524528,121.5546819,,Open,5:00PM to 11:00PM,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_112,Franco's Eatery,Food and Dining,Eatery,La Purisima Concepcion,Barangay 8,14.1153025,121.5544856,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_113,Bahay Pamahalaan Barangay 8,Government,Barangay Office,La Purisima Concepcion,Barangay 8,14.11536667,121.5543817,,Open,8:00AM to 5:00PM,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_114,Joan's Vegetable Shop,Retail,Other,Gen. Lucban,Barangay 8,14.11556389,121.5531917,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_115,Fruit Shop,Retail,Other,Gen. Lucban,Barangay 8,14.11545639,121.5531297,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_B08_116,JWJ General Merchandise,Retail,Other,San Luis,Barangay 8,14.11532633,121.5533033,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,general merchandise,Yes
+LUC_B08_117,"Annie's Arts, Crafts, Antiques, Gallery",Retail,Other,San Luis,Barangay 8,14.11533714,121.5533683,,Closed,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_118,Jansen Hann Art Cafe,Food and Dining,Cafe,San Luis,Barangay 8,14.115315,121.5534039,,Closed,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_119,Bubble Magic Laundry Hub,Personal Services,Laundry,San Luis,Barangay 8,14.11530111,121.5534072,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,,Yes
+LUC_B08_120,St. Louis Bishop Parish Church,Other,Other,San Luis,Barangay 8,14.11507944,121.5538306,,Open,,,"Carable, Jillian Mae, V.",01/10/2026,Church,Yes
+LUC_B08_155,Casa del Niño Jesus de Lucban,Other,Other,San Luis,Barangay 8,14.11519704,121.5537854,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,School,Yes
+LUC_B08_156,Funeral home,Other,Other,La Purisima Concepcion,Barangay 8,14.1154,121.5540833,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,lamayan/burulan malapit sa simbahan,Yes
+LUC_B08_165,Parish Court,Other,Other,La Purisima Concepcion,Barangay 8,14.11523333,121.5541311,,Open,,,"De Chavez, Sharaine Princess, P.",01/10/2026,court,Yes
+LUC_B08_166,Tsok Latera,Food and Dining,Cafe,Apolinario Mabini,Barangay 8,14.11436389,121.5538869,,Open,,,"Alfaro, Justin Alexandre, B.",01/10/2026,,Yes
+LUC_BO5_001,Lote Fitness Gym,Food and Dining,Restaurant,Fidel Rada St.,Barangay 5,14.112805,121.55589,Near Multi Purpose hall,Open,8:00am,,Mark Gabriel E. Susim,10/03/2026,Near Multi purpose hall,Yes
+LUC_B05_002,Brgy. 5 Multi-Purpose Hall,Government,Barangay Office,Balintawak St.,Barangay 1,14.11238667,121.5556533,Dulo ng balintawak street,Open,8:00am - 5:00pm,,Mark Gabriel E. Susin,03/10/2026,,Yes
+LUC_B05_003,Pedron Dental Clinic,Health,Dental Clinic,,Barangay 1,14.112435,121.555725,near brgy 5 multi-purpose hall,open,Monday-Saturday: 9:00 AM - 6 PM,FB: PedronDentalClinic,"Dela Cruz, Shane Theresse A.",03/10/2026,,Yes
+LUC_B05_004,SK Hall,Government,Barangay Office,Balintawak St.,Barangay 1,14.11257667,121.5557483,near brgy. hall,close,,,"Liwanag, Micaela A.",03/10/2026,,Yes
+LUC_B05_005,Mikay Sari-Sari Store,Food and Dining,Restaurant,Balintawak st.,Barangay 1,14.11266111,121.5558833,Near Lote fitness gym and Multi-purpose hall,open,7:00am to 8:00pm,,Mark Gabriel E. Susim,03/10/2026,,Yes
+LUC_B05_006,Liza's Products,Retail,Sari Sari Store,Fidel Rada St.,Barangay 5,14.112575,121.5562867,near barangay 2 hall,open,,,"Dela Cruz, Shane Theresse A.",03/10/2026,,Yes
+LUC_BO5_006,NFP Boarding House,Other,Boarding House,Marcos Tigla St.,Barangay 5,14.11287667,121.5551383,near camp ville's,open,,09162453954,"Liwanag, Micaela A.",03/10/2026,,Yes
+LUC_B05_007,Campville's Broas & Pasalubong,Food and Dining,Souvenir,Don V. Cadeliña Streeg,Barangay 5,14.11293833,121.5551267,Near NFP boarding house,Open,8:00am to 8:00pm,,Mark Gabriel E. Susim,03/10/2026,,Yes
+LUC_B05_008,Master Chef Alex,Food and Dining,Eatery,Fidel Rada St.,Barangay 5,14.113225,121.55479,in front of Printerest Sportswear,close,,,"Dela Cruz, Shane Theresse A.",03/10/2026,,Yes
+LUC_B05_009,DR. RODOLFO B. RAÑOLA CLINIC,Health,Clinic,Fidel Rada St.,Barangay 5,14.11331167,121.554445,beside sldc water station,close,,,"Liwanag, Micaela A.",30/10/2026,,Yes
+LUC_B05_010,SLDC Water Refilling Station,Other,Other,Fidel Rada St.,Barangay 5,14.11340771,121.5543865,near clinic,Open,8:00am to 6:00pm,0949-859-6132- smart,Mark Gabriel E. Susim,03/10/2026,Water Refilling Station,Yes
+LUC_B05_011,SLDC Grocery Store,Retail,Grocery,Fidel Rada Stm,Barangay 5,14.113475,121.5542367,beside SLDC Water Station,open,,,"Dela Cruz, Shane Theresse A.",03/10/2026,,Yes
+LUC_BO5_011,Abing Store,Retail,Sari Sari Store,Fidel rada St,Barangay 5,14.11351333,121.55404,near sldc grocery store,open,,,"Liwanag, Micaela A.",03/10/2026,,Yes
+LUC_B05_012,Jia's Consumer Goods,Retail,Sari Sari Store,Fidel Rada Street,Barangay 5,14.11366333,121.5538017,infront gogo car rental,Open,8:00am to 7:00pm,,Mark Gabriel E. Susin,03/10/2026,Consumer Goods,Yes
+LUC_B05_013,Bigasan ng Bayan Wholesale & Retail,Retail,Grocery,,Barangay 5,14.11370167,121.5536967,daang Palola,open,,09664002301,"Dela Cruz, Shane Theresse A.",03/10/2026,,Yes
+LUC_BO5_014,La Bubble Laundry Shop,Personal Services,Laundry,Fidel rada St,Barangay 5,14.114045,121.5529467,near palengke,closed,,09273757197,"Liwanag, Micaela A.",03/10/2026,,Yes
+LUC_B05_015,Lodriga Dental Clinic,Health,Dental Clinic,General Lukban Street,Barangay 5,14.11415333,121.55248,Near Palengke,Open,"9 - 12 am monday
+3 - 7 pm Saturday
+by appointment Sunday",,Mark Gabriel E. Susim,03/10/2026,,Yes
+LUC_B05_016,Medin's Studio,Professional Services,Printing Shop,Marcos Tigla St.,Barangay 5,14.11380426,121.5526515,near palengke,open,,,"Dela Cruz, Shane Theresse A.",03/10/2026,digital photography & video coverage,Yes
+LUC_B05_017,Apo ni Luming pansitan,Food and Dining,Eatery,Marcus Tigla St,Barangay 5,14.11358667,121.5531567,front of orange house,open,,09685260922,"Liwanag, Micaela A.",03/10/2206,,Yes
+LUC_B05_018,Nanay Tatay Store,Retail,Sari Sari Store,A. Maderal Street,Barangay 5,14.11299,121.55296,Near the river,Open,7:00am to 5:00pm,,Mark Gabriel E. Susin,03/10/2026,,Yes
+LUC_B05_019,Anne Nails Studio,Personal Services,Salon,A. Maderal St.,Barangay 5,14.11297167,121.5531483,near Nanay & Tatay Store,open,,09158649152,"Dela Cruz, Shane Theresse A.",03/10/2026,Nail Salon,Yes
+LUC_B05_020,Rowena's Mini Store,Retail,Sari Sari Store,A. Mabini Street,Barangay 5,14.11279333,121.5534,PalolanWay,Open,,,Mark Gabriel E. Susim,03/10/2026,,Yes
+LUC_B05_021,Salud Refreshment,Food and Dining,Eatery,A. Mabini St.,Barangay 5,14.11295667,121.55338,Palola way,closel,,,"Dela Cruz, Shane Theresse A.",03/10/2026,,Yes
+LUC_B05_022,Nonette's Store,Retail,Sari Sari Store,E. Zurbano Street,Barangay 1,14.11312167,121.5533867,Palola Way,Open,,,Mark Gabriel E. Susim,03/10/2026,,Yes
+LUC_B05_023,Manok ni Kulot,Food and Dining,Fast Food,A. Mabini St.,Barangay 5,14.11334,121.5535533,Palola way,open,,,"Dela Cruz, Shane Theresse A.",03/10/2026,,Yes
+LUC_B05_024,DC Family Store,Retail,Sari Sari Store,Marcos Tigla Street,Barangay 5,14.113205,121.5540767,Marcos tigla street besides a red house,open,8:00 am to 8:00 pm,,Mark Gabriel E. Susim,03/10/2026,,Yes
+LUC_B05_025,Sari-sari Store,Retail,Sari Sari Store,Rizal Ave.,Barangay 5,14.11306667,121.5541317,across DC Family Store,open,,,"Dela Cruz, Shane Theresse A.",03/10/2026,,Yes
+LUC_B05_026,J & J's Kitchen,Food and Dining,Eatery,Marcos Tigla Street,Barangay 5,14.11311833,121.55431,near DC family Store,Open,7:00am to 6:00pm,,Mark Gabriel E. Susin,03/10/2026,,Yes
+LUC_B05_027,Pablo's Store,Retail,Sari Sari Store,,Barangay 1,14.112965,121.5545967,besides Pepet Restaurant,open,,,"Dela Cruz, Shane Theresse A.",2026-20-03,,Yes
+LUC_B05_028,Pepet,Food and Dining,Restaurant,Marcos Tigla Street,Barangay 5,14.11294333,121.554645,beside pablo store,open,8:00am to 7:00pm,,Mark Gabriel E. Susim,03/10/2026,,Yes
+LUC_B05_029,Oblenida's Water Refilling Station,Retail,Other,Marcos Tigla St.,Barangay 5,14.11287333,121.5547983,in front of Tapzikorner,open,,09995782171,"Dela Cruz, Shane Theresse A.",03/10/2026,Water station,Yes
+LUC_B05_030,Tapzi Corner,Food and Dining,Restaurant,Marcos Tigla Street,Barangay 5,14.11295,121.5548633,Infront of a water refilling station,Close,,,Mark Gabriel E. Susim,03/10/2026,,Yes
+LUC_B05_031,Che 2x,Food and Dining,Restaurant,Marcos Tigla street,Barangay 1,14.11291,121.5549117,beside tapzi corner,Open,8:00am to 8:00pm,,Mark Gabriel E. Susim,03/10/2026,,Yes
+LUC_B05_032,Lunar Store,Retail,Sari Sari Store,Marcos Tigla St.,Barangay 5,14.11285333,121.55496,in front of Che2x Restaurant,open,,,"Dela Cruz, Shane Theresse A.",03/10/2026,,Yes
+LUC_B05_033,NFP Boarding House,Accommodation,Boarding House,Marcos Tigla Street,Barangay 5,14.11278667,121.5550983,near Campville's broad and tikoy shop,Open,7:00am to 9:00pm,0916 245 3954,Mark Gabriel E. Susin,03/10/2026,,Yes
+LUC_B05_034,V.A.N Store,Retail,Sari Sari Store,Marcos Tigla St.,Barangay 5,14.11276667,121.5551417,besides NFP Boarding House,open,,09087133401,"Dela Cruz, Shane Theresse A.",03/10/2026,,Yes
+LUC_B05_035,ROANOV Printing and Layouting Services,Other,Printing Shop,G. Del Pilar Street,Barangay 5,14.11243333,121.55617,across liza's Products,Close,,,Mark Gabriel E. Susim,03/10/2026,,Yes
+LUC_B04_001,ZUREA Hotel,Accommodation,Hotel,Conception,Barangay 4,14.11624683,121.5525789,,Open,,,"ARELLANO, Arvin, L.",29/09/2026,,Yes
+LUC_B04_002,,Retail,Other,Conception,Barangay 4,14.11629414,121.5523815,,open,5:30am - 8:00pm,9393211820,"ARELLANO, Arvin, L.",29/09/2026,,Yes
+LUC_B04_003,,Retail,Sari Sari Store,Conception,Barangay 4,14.11641405,121.5521382,,Open,,,"ERINCO, Raphael Joshua, V.",29/09/2026,,Yes
+LUC_B04_004,,Personal Services,Barbershop,Conception,Barangay 4,14.11644609,121.5520527,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_005,Irene's Sewing Shop,Personal Services,Other,Conception,Barangay 4,14.11646808,121.5520098,Near barbershop,open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_006,Gigie Store,Retail,Sari Sari Store,H. Dator,Barangay 4,14.11635239,121.5517969,,Open,6:00am - 9:00pm,,"ARELLANO, Arvin
+ L.",29/09/2026,,Yes
+LUC_B04_007,,Retail,Sari Sari Store,H. Dator,Barangay 4,14.11573059,121.5516929,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_008,,Retail,Sari Sari Store,H. Dator,Barangay 4,14.11557353,121.5519648,,Open,8:00am - 1:00am,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_009,PrincesseA Travel and Tours,Tourism,Tourism Service,Emilio Jacinto,Barangay 4,14.11632798,121.5518213,,Open,,9178081490,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_010,,Retail,Sari Sari Store,Emilio Jacinto,Barangay 4,14.11611666,121.5519879,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_011,,Food and Dining,Eatery,Emilio Jacinto,Barangay 4,14.11568057,121.5522801,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_012,,Retail,Sari Sari Store,Emilio Jacinto,Barangay 4,14.11533656,121.5524345,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_013,Y2K gaming hub,Professional Services,Computer Shop,Gomburza,Barangay 4,14.1156508,121.5527678,,Open,,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_014,Ester Sari-Sari Store,Retail,Sari Sari Store,Gomburza,Barangay 4,14.11526928,121.5527985,,Open,,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_015,Campville's Bakery,Food and Dining,Bakery,Gomburza,Barangay 4,14.1150887,121.5527021,,Open,,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_016,Camilon Dental Clinic,Health,Dental Clinic,Gomburza,Barangay 4,14.1150851,121.5527107,,Closed,,9178998133,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_017,Angelwash Laundromat,Professional Services,Laundry,Gomburza,Barangay 4,14.11497655,121.5526864,,Closed,7:00am - 5:00pm,9089811653,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_018,Evardz,Food and Dining,Restaurant,Emilio Jacinto,Barangay 4,14.11530322,121.5527581,,Closed,11:00am - 10:00pm,9502721032,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_019,Springlife Water,Other,Other,Gomburza,Barangay 4,14.1155351,121.5528244,,Open,,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_020,Pearl Vigil Hall Memorial Homes,Other,Other,Gomburza,Barangay 1,14.11553507,121.5528083,,Open,24hrs,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_021,,Retail,Sari Sari Store,San Luis,Barangay 4,14.11557334,121.5528615,,Open,,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_003,Bahay Pamahalaan ng Barangay 4,Government,Barangay Office,Gomburza,Barangay 4,14.11560342,121.552858,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_023,,Retail,Sari Sari Store,Gomburza,Barangay 4,14.11573463,121.5529037,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_024,Pancitan ni Kuya J,Food and Dining,Eatery,Gomburza,Barangay 4,14.11583667,121.552992,,,,9551745669,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_025,SJ2 Sari-Sari Store,Retail,Sari Sari Store,Conception,Barangay 4,14.11588908,121.5530972,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_026,SLDC Mart 3,Retail,Grocery,General Lukban Street,Barangay 4,14.11567658,121.5532216,,Open,,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_027,SLDC Event Hall,Other,Other,General Lukban,Barangay 4,14.11573456,121.5531812,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_028,Lipit Food House,Food and Dining,Eatery,General Lukban,Barangay 4,14.11526166,121.5529997,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_029,SAN LUIS DEVELOPMENT COOPERATIVE,Financial,Other,General Lukban,Barangay 4,14.11505071,121.5528977,,Open,,(042) 540-4910,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_030,SLDC MART2,Retail,Grocery,General Lukban,Barangay 4,14.11501897,121.552868,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_031,Cyrel Learning Center,Other,Other,Emilio Jacinto,Barangay 4,14.11509294,121.5528313,,Open,,9278854863,"ERINCO, Raphael Joshua V.",29/09/2026,8 students per class,Yes
+LUC_B04_032,,Retail,Other,Emilio Jacinto,Barangay 4,14.11514726,121.5527103,,Open,,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_033,,Retail,Sari Sari Store,Gomburza,Barangay 4,14.11317511,121.5505312,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_034,,Retail,Sari Sari Store,Gomburza,Barangay 4,14.11375191,121.5515814,,Open,,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_035,Pamilihang bayan ng Lucban,Retail,Grocery,Gomburza,Barangay 4,14.11438223,121.5520733,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_036,CBQP,Financial,Bank,Marcos Tigla,Barangay 4,14.1140062,121.5521628,,Open,,(042) 911-7332,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_037,,Retail,Sari Sari Store,General Lukban,Barangay 4,14.11368942,121.552186,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_038,FVB Sari-Sari Store,Retail,Sari Sari Store,General Lukban,Barangay 4,14.11426484,121.5524734,,Open,,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B04_039,,Retail,Sari Sari Store,Fidel Rada,Barangay 4,14.11429046,121.5523899,,Open,,,"ERINCO, Raphael Joshua V.",29/09/2026,,Yes
+LUC_B04_040,"Baray's Lechon Pares, Mami At Silog",Food and Dining,Eatery,Fidel Rada,Barangay 4,14.11429832,121.5523277,,Open,,,"ARELLANO, Arvin L.",29/09/2026,,Yes
+LUC_B08_001,Lucky Bookstore,Retail,Other,Balintawak,Barangay 8,14.1134249,121.5562282,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_002,Vasthara,Professional Services,Other,Balintawak,Barangay 8,14.11327744,121.5561459,,Open,,9461808248,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_003,Patakim,Food and Dining,Restaurant,A. Racelis,Barangay 8,14.1133195,121.5558848,,Open,,9369181981,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_004,Grynne's Flower Shop,Retail,Other,A. Racelis,Barangay 8,14.11340117,121.5557669,,Open,,9060990011,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_005,,Retail,Sari Sari Store,A. Racelis,Barangay 8,14.11342001,121.555657,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_006,MJD Shop,Retail,Clothing,A. Racelis,Barangay 8,14.11349418,121.555562,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_007,Boyet Eatery,Food and Dining,Eatery,A. Racelis,Barangay 8,14.113495,121.5555531,,Open,,9158181011,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_008,,Retail,Clothing,A. Racelis,Barangay 8,14.11352493,121.5554484,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_009,Cebuana Lhuillier,Financial,Pawnshop,A. Racelis,Barangay 8,14.11363807,121.5554322,,Open,8:00am - 6:00pm,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_010,Atinto Travel and Tours,Tourism,Tourism Service,,Barangay 8,14.11365044,121.5553296,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_021,Radyo Natin,Other,Other,,Barangay 8,14.11363049,121.5552739,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,Radio station,Yes
+LUC_B08_022,Arlene's Hall,Other,Other,A. Racelis,Barangay 8,14.11365792,121.5552316,,Open,,,"ARELLANO, Arvin L.",,Event Hall,Yes
+LUC_B08_023,Mitzi,Professional Services,Restaurant,A. Racelis,Barangay 8,14.11374655,121.5550421,,Open,8:00am - 5:00pm,9613369143,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_024,Buctil,Retail,Grocery,A. Racelis,Barangay 8,14.11383611,121.5548957,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_025,Gold Fortune General Merchandise,Retail,Other,A. Racelis,Barangay 1,14.11398117,121.5545882,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_026,Ven's Puto Seko,Retail,Bakery,A. Racelis,Barangay 8,14.11402247,121.5544593,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_027,Premium Bikes,Retail,Other,A. Racelis,Barangay 8,14.11410831,121.554324,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_028,Hopee Beautify and Wellness Hub,Personal Services,Salon,A. Racelis,Barangay 8,14.1141841,121.5541941,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_029,W.B Law Office,Professional Services,Office,A. Racelis,Barangay 8,14.1141694,121.5541491,,Open,,9604524793,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_030,Fubu International,Retail,Clothing,A. Racelis,Barangay 8,14.11416316,121.5541108,,Open,,9985984349,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_041,Baliwag,Retail,Other,A. Racelis,Barangay 1,14.11421552,121.5540328,,Open,7:00am - 12:00am,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_042,Monday's fruit and vegetables,Retail,Other,A. Racelis,Barangay 1,14.11428928,121.5539174,,Open,7:30am - 8:00pm,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_043,,Retail,Clothing,Mabini,Barangay 8,14.11440694,121.5539098,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,Ayaw sabihin name magagalitan daw si ate,Yes
+LUC_B08_044,PackSmart,Retail,Other,Mabini,Barangay 8,14.11443439,121.5538976,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_065,Alfamart,Retail,Grocery,Mabini,Barangay 8,14.11448307,121.5539602,,Open,7:00am - 10:00pm,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_046,Southstar Drug,Health,Pharmacy,Quezon Avenue,Barangay 8,14.11463706,121.5541726,,Open,6:00am - 8:00pm,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_047,Ven's Puto Seko,Retail,Bakery,Quezon Avenue,Barangay 8,14.11459711,121.5542154,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_048,Lukban Telephone System,Professional Services,Other,Quezon Avenue,Barangay 8,14.11453874,121.5543181,,Open,8:00am - 5:00pm,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_049,Edith Bookstore,Retail,Other,Quezon Avenue,Barangay 8,14.114512,121.5543754,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_050,Friespamore,Food and Dining,Other,Quezon Avenue,Barangay 8,14.1144506,121.5544467,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_061,Pazalonia,Financial,Pawnshop,Quezon Avenue,Barangay 8,14.11441622,121.5544844,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_062,Ciamenzo,Professional Services,Printing Shop,Quezon Avenue,Barangay 8,14.11440383,121.5545554,,Open,,9289092552,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_063,Zuhause Appliances,Retail,Electronics,Quezon Avenue,Barangay 8,14.11439585,121.5546175,,Open,,9171172389,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_064,Turks,Food and Dining,Restaurant,Quezon Avenue,Barangay 8,14.11439456,121.5546859,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_065,Patio Rizal Hotel and Restaurant,Accommodation,Hotel,Quezon Avenue,Barangay 8,14.11422361,121.5550794,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_066,Coffee Buddy,Food and Dining,Cafe,Quezon Avenue,Barangay 8,14.11416103,121.5551531,,Open,7:30am - 11:00pm,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_067,Quickloan Pawnshop,Financial,Pawnshop,Quezon Avenue,Barangay 8,14.11412894,121.5552911,,Open,8:30am - 5:30pm,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_068,Haven's Brew,Food and Dining,Cafe,Quezon Avenue,Barangay 8,14.11406797,121.5553418,,Open,,9989580472,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_069,The Craft House,Retail,Other,Quezon Avenue,Barangay 8,14.11404247,121.5553726,,Closed,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_070,NYJ Gadgets,Professional Services,Electronics,Quezon Avenue,Barangay 8,14.11401191,121.5554072,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_081,Green Telcom,Retail,Electronics,Quezon Avenue,Barangay 8,14.11398486,121.5554315,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_082,WASD Computer Shop,Professional Services,Computer Shop,Quezon Avenue,Barangay 8,14.11396863,121.5554598,,Open,,9307165100,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_083,3's Maria's Panaderya,Retail,Bakery,Quezon Avenue,Barangay 8,14.11398752,121.5556309,,Open,24hrs,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_084,Laguador's Longganisa Lukban,Retail,Other,Quezon Avenue,Barangay 8,14.11395333,121.5557075,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_085,Red Ribbon,Retail,Bakery,Quezon Avenue,Barangay 8,14.11376066,121.5557346,,Open,8:00am - 8:00pm,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_086,JL Salon Spa,Personal Services,Salon,Quezon Avenue,Barangay 8,14.11384199,121.5558042,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_087,Marella,Retail,Clothing,Quezon Avenue,Barangay 8,14.11386952,121.5558182,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_088,Franca's Beef Pares ATBP,Food and Dining,Restaurant,Quezon Avenue,Barangay 8,14.11385072,121.5558361,,Open,,(042) 540-4547,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_089,,Retail,Clothing,Quezon Avenue,Barangay 8,14.11383566,121.5558955,,Open,,,"ARELLANO, Arvin L.",01/10/2026,Ukayan tapat watson,Yes
+LUC_B08_090,Sav's Korean Mart,Food and Dining,Restaurant,Quezon Avenue,Barangay 8,14.11386869,121.5559516,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_101,Rural Bank of Mauban,Financial,Bank,Quezon Avenue,Barangay 8,14.11384367,121.5560339,,Open,8:00am - 4:00pm,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_102,Vivar Salon,Personal Services,Salon,Quezon Avenue,Barangay 8,14.11383,121.5560652,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_103,,Retail,Other,Quezon Avenue,Barangay 8,14.11384061,121.5560694,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_104,Macaraan Computer Shop,Professional Services,Computer Shop,Quezon Avenue,Barangay 8,14.11381493,121.5560943,,Open,,(042) 540-7037,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_105,Viewers Digital Solution,Retail,Electronics,Quezon Avenue,Barangay 8,14.11380272,121.5562663,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_106,Laguador's Meat Shop,Retail,Other,Balintawak,Barangay 8,14.11377521,121.5563416,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_107,Shiela's Frozen Product,Retail,Other,San Luis,Barangay 8,14.11392225,121.5564096,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_108,Pahiyas Samu't-Sari,Retail,Souvenir,San Luis,Barangay 8,14.11393276,121.5563604,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_109,Bogart's Jumbo Siomai,Food and Dining,Other,San Luis,Barangay 8,14.11395395,121.5562074,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_110,,Retail,Clothing,San Luis,Barangay 8,14.11401128,121.5561543,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_121,JDO Dental Clinic,Health,Dental Clinic,San Luis,Barangay 8,14.11411308,121.5558421,,Open,,9859676688,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_122,Raneses Store,Retail,Sari Sari Store,San Luis,Barangay 8,14.11427837,121.5556835,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_123,SchoolBox School and Office Supplies,Retail,Other,San Luis,Barangay 8,14.11424559,121.555654,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_124,Mustiola's of Lucban,Food and Dining,Restaurant,A. Regidor,Barangay 8,14.11440522,121.5554209,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_125,ADZ Printing Shop,Professional Services,Printing Shop,A. Regidor,Barangay 8,14.11457997,121.5553708,,Open,,9994937959,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_126,Octo Takoyaki,Food and Dining,Other,A. Regidor,Barangay 8,14.11459477,121.5553897,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_127,Chrisford Sizzler Zone,Food and Dining,Restaurant,A. Regidor,Barangay 8,14.11467516,121.5554132,,Open,,(042) 540-5251,"ERINCO, Raphael Joshua V.",01/10/2026,Ai sizzler,Yes
+LUC_B08_128,Lucban Academy,Other,Other,San Luis,Barangay 8,14.11449185,121.5550937,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_129,Igo's Rodrigo's Breadhouse,Food and Dining,Cafe,San Luis,Barangay 8,14.1145958,121.5549096,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_130,Pavino's Bakery,Food and Dining,Bakery,Rizal Avenue,Barangay 8,14.11466438,121.5548718,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_141,Save Health & Meds Generic Pharmacy,Health,Pharmacy,Rizal Avenue,Barangay 8,14.11479097,121.5549509,,Open,7:00am - 8:00pm,(042) 540-6177,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_142,Raquel Pawnshop,Financial,Pawnshop,Rizal Avenue,Barangay 8,14.11492274,121.55502,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_143,Clinica Rivera Maternity & Surgical Clinic,Health,Clinic,Rizal Avenue,Barangay 8,14.1149744,121.5550701,,Open,2:00pm - 5:00pm,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_144,Barola's Fruit Stand,Food and Dining,Other,Rizal Avenue,Barangay 8,14.11494669,121.5550435,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_145,Travel Specialist Ventures,Tourism,Tourism Service,Rizal Avenue,Barangay 8,14.11486944,121.55503,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_146,Onyok's Bulaluhan,Food and Dining,Restaurant,Rizal Avenue,Barangay 8,14.11483187,121.5549839,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_147,UCPB,Financial,Bank,Rizal Avenue,Barangay 8,14.11470349,121.5548979,,Open,9:00am - 4:00pm,8555-1088,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_148,VEVE,Personal Services,Salon,Rizal Avenue,Barangay 8,14.11447212,121.5548024,,Open,,9435261800,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_149,Potato Corner,Food and Dining,Other,Rizal Avenue,Barangay 8,14.11442199,121.5548476,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_150,Vangie's Longganisang Lucban,Food and Dining,Restaurant,San Luis,Barangay 8,14.11467416,121.554689,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_131,Klinika Araña,Health,Clinic,San Luis,Barangay 8,14.1147385,121.5546168,,Open,10:00am - 6:00pm,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_132,Mags Skin Spa,Personal Services,Salon,San Luis,Barangay 8,14.11474825,121.5546013,,Open,,9764462171,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_133,Old Center,Food and Dining,Restaurant,San Luis,Barangay 8,14.11474414,121.554606,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_134,Northpoint,Financial,Bank,San Luis,Barangay 8,14.11479679,121.5545331,,Open,9:00am - 4:00pm,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_135,Ocean Photocopier,Professional Services,Printing Shop,San Luis,Barangay 8,14.11481228,121.5544505,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_136,Blue Petals Beauty Salon,Personal Services,Salon,San Luis,Barangay 8,14.1148251,121.5544101,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_137,Rosman Pharmacy,Health,Pharmacy,San Luis,Barangay 8,14.11485124,121.5543331,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_138,Mary Grace Floral Expression,Retail,Other,Mabini,Barangay 8,14.11498405,121.5543551,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_139,Keritoh,Food and Dining,Other,Mabini,Barangay 8,14.11506748,121.5543993,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_140,Kemmi,Food and Dining,Other,Mabini,Barangay 8,14.11525946,121.5544062,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_151,,Retail,Sari Sari Store,Gen Lukban,Barangay 8,14.11518139,121.5530547,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_152,Acqua Sicuro,Retail,Other,Gen Lukban,Barangay 8,14.11495248,121.5528771,,Open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_153,Carlos Super Drug,Health,Pharmacy,Racelis,Barangay 8,14.1146935,121.5527803,,open,7:00am - 8:00pm,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_154,Badiola Lozada Optometry & Medical Clinic,Health,Clinic,Racelis,Barangay 8,14.11464343,121.5528902,,Open,,9196312215,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_157,Angel's Heart,Other,Other,Racelis,Barangay 8,14.11462416,121.5529661,,Closed,,,"APOSTOL, Janelle Mae A.",01/10/2026,sarado na,Yes
+LUC_B08_158,Maguyon Dry Goods,Retail,Grocery,Racelis,Barangay 8,14.11459279,121.5531243,,open,,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B08_159,Pearls MPC,Retail,Grocery,Racelis,Barangay 8,14.11459418,121.5531976,,Open,,,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_160,E&N GADGET,Personal Services,Repair Shop,Racelis,Barangay 8,14.11458299,121.5532128,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_161,KMB Dog and Cat Clinic,Professional Services,Other,Racelis,Barangay 8,14.11452021,121.5532813,,Open,,9999416182,"ERINCO, Raphael Joshua V.",01/10/2026,,Yes
+LUC_B08_162,Rural Bank of Magdalena,Financial,Bank,Racelis,Barangay 8,14.11447855,121.5533132,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_163,Lotto,Other,Other,Racelis,Barangay 8,14.11445792,121.5534181,,Open,,,"APOSTOL, Janelle Mae A.",01/10/2026,,Yes
+LUC_B08_165,Palawan,Financial,Pawnshop,Racelis,Barangay 8,14.11446446,121.5534351,,Open,8:00am- 5:30pm,,"ARELLANO, Arvin L.",01/10/2026,,Yes
+LUC_B02_001,,Accommodation,Boarding House,A. Racelis,Barangay 2,14.11247803,121.5577814,,,,,,,,Yes
+LUC_B02_002,Abustan Funeral Parlor,Professional Services,Office,A. Bonifacio,Barangay 2,14.11246023,121.5574515,Along Kamatian River,Closed,,9424529778,"PALMA, Mark M.",28/09/2026,,Yes
+LUC_B02_003,Lhoida Sari Sari Store,Retail,Sari Sari Store,G. Cadeliña,Barangay 2,14.1124061,121.5573801,Alongside Abustan Funeral Parlor,Open,7:00 AM - 8:00 PM,,"RAMOS, Isaih Thomas E.",28/09/2026,,Yes
+LUC_B02_004,Tan-Tan,Automotive,Repair Shop,A. Bonifacio,Barangay 2,14.11244611,121.5572275,,Closed,,9289986453,"ARELLANO, Arvin L.",28/09/2026,,Yes
+LUC_B02_005,VMCO Sari Sari Store,Retail,Sari Sari Store,A. Bonifacio,Barangay 2,14.11259878,121.556882,,Open,6:00 AM - 11:00 PM,,"QUEBRADO, Lance Wayne Y.",28/09/2026,,Yes
+LUC_B02_006,Rob's Sisig,Retail,Eatery,A. Bonifacio,Barangay 2,14.11261256,121.556878,,Closed,8:00 AM - 8:00 AM,,"PALMA, Mark M.",28/09/2026,,Yes
+LUC_B02_007,NATO'S LUKBAN LONGGANISA,Retail,Restaurant,A. Bonifacio,Barangay 2,14.11268212,121.5567126,,Open,3:00 PM - 8:30 PM,9300346458,"ARELLANO, Arvin L.",28/09/2026,,Yes
+LUC_B02_008,Sol Store,Retail,Sari Sari Store,A. Bonifacio,Barangay 2,14.11267926,121.5566185,,Open,,9150111142,"RAMOS, Isaih Thomas E.",28/09/2026,,Yes
+LUC_B02_009,A.D.JJ. Rice Store,Retail,Grocery,A. Bonifacio,Barangay 2,14.11284819,121.5561947,,Closed,,9542456536,"QUEBRADO, Lance Wayne Y.",28/09/2026,,Yes
+LUC_B02_010,RMJ Store,Retail,Sari Sari Store,A. Bonifacio,Barangay 2,14.11293708,121.5560776,,Open,7:00 AM - 9:00 PM,,"PALMA, Mark M.",28/09/2026,,Yes
+LUC_B02_011,CAFE-ISH,Food and Dining,Cafe,A. Bonifacio,Barangay 2,14.1130803,121.5558014,,Open,,9106057668,"QUEBRADO, Lance Wayne Y.",28/09/2026,,Yes
+LUC_B02_012,A. & K. Paint Center,Retail,Other,A. Bonifacio,Barangay 2,14.11312041,121.5556776,,Closed,,540-5363,"GONZALES, John Louis Q.",28/09/2026,,Yes
+LUC_B02_013,A's Sarap Stop,Food and Dining,Eatery,A. Bonifacio,Barangay 2,14.11307292,121.5556245,,Open,,,"ARELLANO, Arvin L.",28/09/2026,,Yes
+LUC_B02_014,JYA Korean Store,Food and Dining,Eatery,A. Bonifacio,Barangay 2,14.11310179,121.5556494,,Open,,,"QUEBRADO, Lance Wayne Y.",28/09/2026,,Yes
+LUC_B02_015,Cathy's Sari Sari Store,Retail,Sari Sari Store,A. Bonifacio,Barangay 2,14.11318971,121.5554435,,Open,,,"RAMOS, Isaih Thomas E.",28/09/2026,,Yes
+LUC_B02_016,Campita's Pasalubong Center,Retail,Souvenir,A. Bonifacio,Barangay 2,14.11332417,121.5552876,,Closed,,9338539559,"GONZALES, John Louis Q.",28/09/2026,,Yes
+LUC_B02_017,RCJ LPG Outlet,Retail,Other,A. Bonifacio,Barangay 2,14.11336546,121.5550971,,Closed,,9198733447,"PALMA, Mark M.",28/09/2026,,Yes
+LUC_B02_018,his & her Barong & Gown Rental,Retail,Clothing,A. Bonifacio,Barangay 2,14.11343261,121.5550079,,Closed,8:30 AM - 6:00 PM,,"RAMOS, Isaih Thomas E.",28/09/2026,,Yes
+LUC_B02_050,Barangay 2 Hall,Government,Barangay Office,Fidel Rada,Barangay 2,14.1123049,121.5568055,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_051,Kavin Prints and Crafts,Professional Services,Printing Shop,Fidel Rada,Barangay 2,14.11230458,121.5568316,besides Barangay 2 hall,Open,,9761232278,"ARELLANO, Arvin, L.",30/09/2026,,Yes
+LUC_B02_052,Konek2Card,Financial,ATM,Fidel Rada,Barangay 2,14.11246466,121.5564709,,Open,,,"HUTAMARES, Franchezka, M.",30/09/2026,,Yes
+LUC_B02_053,Riena Shiela Surplus Store,Retail,Souvenir,Fidel Rada,Barangay 2,14.11248899,121.5564877,,Open,,,"RAMOS, Isaih Thomas E.",30/09/2026,,Yes
+LUC_B02_054,VPC Store,Retail,Sari Sari Store,Fidel Rada,Barangay 2,14.11260158,121.5561782,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_055,LJ's GlamBar,Personal Services,Salon,Fidel Rada,Barangay 2,14.11279927,121.555899,,Open,,9911529039,"HUTAMARES, Franchezka, M.",30/09/2026,,Yes
+LUC_B02_056,LOTE Fitness Gym,Health,Other,Fidel Rada,Barangay 2,14.11281366,121.5558971,3rd Floor,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_057,Le Maison De Yelo Lane,Food and Dining,Restaurant,Fidel Rada,Barangay 2,14.11282874,121.5556719,,Closed,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_058,ArosKanto,Food and Dining,Eatery,Fidel Rada,Barangay 2,14.1130931,121.5552087,,Open,3:00 PM - 10:00 PM,,"ARELLANO, Arvin, L.",30/09/2026,,Yes
+LUC_B02_059,Kantuhan Food House,Food and Dining,Eatery,Don V. Cadelina,Barangay 2,14.11309936,121.5551719,,Open,,,"HUTAMARES, Franchezka, M.",30/09/2026,,Yes
+LUC_B02_059,Bahay Pamahalaan Barangay 2,Government,Barangay Office,Don V. Cadelina,Barangay 2,14.11313646,121.555209,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_060,Reyness's Store,Retail,Sari Sari Store,Fidel Rada,Barangay 2,14.11319624,121.5549152,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_061,Printerest Sportswear,Professional Services,Printing Shop,Fidel Rada,Barangay 2,14.11319158,121.5548531,,Open,,,"ARELLANO, Arvin, L.",30/09/2026,,Yes
+LUC_B02_062,Antong Store,Retail,Sari Sari Store,Fidel Rada,Barangay 2,14.11321798,121.5548342,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_063,Chesca's Store,Retail,Sari Sari Store,Fidel Rada,Barangay 2,14.11328611,121.5546672,,Open,,,"HUTAMARES, Franchezka, M.",30/09/2026,,Yes
+LUC_B02_064,Banahaw Maternity Clinic Ultrasound and Diagnostic Center,Health,Clinic,Fidel Rada,Barangay 2,14.11329273,121.5546696,,Open,3:00 PM - 5:00 PM,9635124322,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_065,JJ Kwality Suka,Retail,Souvenir,Fidel Rada,Barangay 2,14.11341354,121.554422,,Open,,9190018681,"ARELLANO, Arvin, L.",30/09/2026,,Yes
+LUC_B02_066,Takkoyatea,Food and Dining,Eatery,Fidel Rada,Barangay 2,14.11350307,121.5542853,,Closed,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_067,JD Lawrence Tailor Shop,Retail,Clothing,Fidel Rada,Barangay 2,14.11360683,121.5539484,,Open,,,"HUTAMARES, Franchezka, M.",30/09/2026,,Yes
+LUC_B02_068,Amor Store,Retail,Sari Sari Store,A. Mabini Street,Barangay 2,14.11378807,121.5536929,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_069,Quezon Pahiyas Van Transport Services and Multi-Purpose Cooperative,Tourism,Tourism Service,Fidel Rada,Barangay 2,14.11392787,121.553259,,Open,8:00 AM - 5:00 PM,,"ARELLANO, Arvin, L.",30/09/2026,,Yes
+LUC_B02_070,Casa Aurita,Accommodation,Lodge,Fidel Rada,Barangay 2,14.11406376,121.5529721,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_071,Big Brew Lucban,Food and Dining,Cafe,B. Tolentino,Barangay 2,14.11427751,121.5528282,,Open,,,"HUTAMARES, Franchezka, M.",30/09/2026,,Yes
+LUC_B02_072,Bossing's Kambal  Pizza,Food and Dining,Eatery,B. Tolentino,Barangay 2,14.11419628,121.552781,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_073,Lydia Maning Store,Retail,Sari Sari Store,Gen. Lukban,Barangay 2,14.11423085,121.5525074,,Open,,,"ARELLANO, Arvin, L.",30/09/2026,,Yes
+LUC_B02_074,Clifford Ella Printing Services,Professional Services,Printing Shop,Gen. Lukban,Barangay 2,14.11441361,121.5525135,Also sells eggs and rice grains,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_075,Iñigo's Store,Retail,Grocery,Gen. Lukban,Barangay 2,14.11444833,121.5525416,,Open,,,"HUTAMARES, Franchezka, M.",30/09/2026,,Yes
+LUC_B02_076,Beaderism,Personal Services,Souvenir,A. Racelis,Barangay 2,14.11252592,121.5578272,,Open,,,"TERRENAL, Tiara Joy, V.",30/09/2026,,Yes
+LUC_B02_077,Cube's Water,Retail,Other,A. Racelis,Barangay 2,14.1127638,121.5574421,,Open,,,"PALMA, Mark, M.",30/09/2026,Water Refilling station,Yes
+LUC_B02_078,Jazford & Glezzie,Retail,Sari Sari Store,A. Racelis,Barangay 2,14.11291696,121.5570492,,Open,,,"MACARAIG, Mark Rheniel, M.",30/09/2026,,Yes
+LUC_B02_079,One Day Express Laundry Service,Personal Services,Laundry,A. Racelis,Barangay 1,14.11292282,121.5569697,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_080,One Day Ukay ukay,Retail,Clothing,A. Racelis,Barangay 2,14.11292517,121.556995,,Open,,,"TERRENAL, Tiara Joy, V.",30/09/2026,,Yes
+LUC_B02_081,Red Noxx Vape Shop,Retail,Other,A. Racelis,Barangay 2,14.11293392,121.5569072,,Open,7:00 AM - 11:00 AM,9171357143,"MACARAIG, Mark Rheniel, M.",30/09/2026,Vape  Shop,Yes
+LUC_B02_082,Guilleta Wellness Spa,Health,Other,A. Racelis,Barangay 2,14.11308975,121.5564278,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,Spa Salon,Yes
+LUC_B02_083,Ratio Agri Supply,Retail,Grocery,A. Racelis,Barangay 1,14.11306721,121.5564309,,Open,,,"TERRENAL, Tiara Joy, V.",30/09/2026,Animal Feeds,Yes
+LUC_B02_084,A&J Store,Retail,Sari Sari Store,A. Racelis,Barangay 2,14.11309135,121.5564373,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_085,157 Store,Food and Dining,Eatery,A. Racelis,Barangay 2,14.11317781,121.5563108,,Open,,,"MACARAIG, Mark Rheniel, M.",30/09/2026,,Yes
+LUC_B02_086,Raemar Motormotive Parts and Supply,Automotive,Parts Shop,A. Racelis,Barangay 2,14.11331462,121.5559444,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_087,Mac Daddy's,Food and Dining,Eatery,A. Racelis,Barangay 2,14.11367007,121.5552244,,Open,,,"TERRENAL, Tiara Joy, V.",30/09/2026,,Yes
+LUC_B02_088,Bambi's Store,Retail,Sari Sari Store,A. Racelis,Barangay 2,14.11373196,121.5551364,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_089,Boy's Eatery,Food and Dining,Eatery,Regidor,Barangay 2,14.11369392,121.5550315,,Open,,,"MACARAIG, Mark Rheniel, M.",30/09/2026,,Yes
+LUC_B02_090,Mama Lydia's Lorna Special Siopawan,Food and Dining,Eatery,Regidor,Barangay 2,14.11358967,121.5550024,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_091,Marife Store,Retail,Sari Sari Store,Regidor,Barangay 2,14.11354729,121.5550251,,Open,,,"TERRENAL, Tiara Joy, V.",30/09/2026,,Yes
+LUC_B02_092,Duo Brew,Food and Dining,Cafe,A. Racelis,Barangay 2,14.11373549,121.5549957,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_093,Tita Marie's Liliw Footwear,Retail,Souvenir,A. Racelis,Barangay 2,14.11376731,121.5549702,,Open,,,"MACARAIG, Mark Rheniel, P.",30/09/2026,,Yes
+LUC_B02_094,Yamete Sai's Ramen Food House,Food and Dining,Restaurant,A. Racelis,Barangay 2,14.11378466,121.5549028,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_095,Motmot's Resto and Pub,Food and Dining,Restaurant,A. Racelis,Barangay 2,14.11384898,121.5548114,,Open,,,"TERRENAL, Tiara Joy, V.",30/09/2026,,Yes
+LUC_B02_096,Delia's Cafe,Food and Dining,Cafe,A. Racelis,Barangay 2,14.11391872,121.5547813,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_097,Delia's Lechon,Food and Dining,Restaurant,A. Racelis,Barangay 2,14.11393264,121.5547593,,Open,,,"MACARAIG, Mark Rheniel, P.",30/09/2026,,Yes
+LUC_B02_098,NJC Electrical and Electronics Supply,Retail,Electronics,A. Racelis,Barangay 2,14.1139464,121.5547193,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,Messenger: Lailani Divina Abuel Arellano,Yes
+LUC_B02_099,J&T Express,Other,Other,A. Racelis,Barangay 2,14.11396518,121.5546799,,Open,,,"TERRENAL, Tiara Joy, V.",30/09/2026,,Yes
+LUC_B02_100,Ciamenzo's,Professional Services,Printing Shop,A. Racelis,Barangay 2,14.11397366,121.5546526,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_101,Vin & Don Cellphone Services,Retail,Electronics,A. Racelis,Barangay 2,14.11397886,121.5546188,,Open,,,"MACARAIG, Mark Rheniel, P.",30/09/2026,,Yes
+LUC_B02_102,Mad Potato,Food and Dining,Fast Food,Rizal Ave.,Barangay 2,14.11388308,121.5544862,,Open,,9956425957,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_103,Metro Motorbikes,Automotive,Parts Shop,A. Racelis,Barangay 2,14.11407375,121.5543814,,Open,,,"TERRENAL, Tiara Joy, V.",30/09/2026,,Yes
+LUC_B02_104,JRS Express,Other,Other,A. Racelis,Barangay 2,14.11407851,121.5543738,,Open,,,"PALMA, Mark, M.",30/09/2026,Shipping Hub,Yes
+LUC_B02_105,Lucban Funeral,Other,Other,A. Racelis,Barangay 2,14.11418364,121.5541686,,Open,,,"MACARAIG, Mark Rheniel, P.",30/09/2026,Funeral Services,Yes
+LUC_B02_106,Beachwalk Nanyang Slippers,Retail,Clothing,A. Racelis,Barangay 2,14.11425861,121.5538633,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,Footwears,Yes
+LUC_B02_107,Denise Lucban Pasalubong Delicacies,Retail,Souvenir,A. Racelis,Barangay 2,14.11427293,121.5538577,,Open,,,"TERRENAL, Tiara Joy, V.",30/09/2026,Meat Products,Yes
+LUC_B02_108,Angelo's Handicraft Store,Retail,Souvenir,A. Racelis,Barangay 2,14.11432018,121.55377,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_109,KJ's Ukay Ukay,Retail,Clothing,R. Villasenor,Barangay 2,14.11426165,121.5536555,,Open,,,"MACARAIG, Mark Rheniel, P.",30/09/2026,,Yes
+LUC_B02_110,Green House,Food and Dining,Eatery,R. Villasenor,Barangay 2,14.11425877,121.553638,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_111,Casa Villasenor,Accommodation,Hotel,R. Villasenor,Barangay 2,14.11419882,121.5536032,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_112,Botica Plus,Health,Pharmacy,A. Racelis,Barangay 2,14.1144089,121.553613,,Open,7:00 AM - 7:30 PM,,"MACARAIG, Mark Rheniel, P.",30/09/2026,,Yes
+LUC_B02_113,Eker & Ely Lukban Longganisa and Pasalubong,Retail,Souvenir,A. Racelis,Barangay 2,14.11444394,121.5535687,,Open,,,"MACARAIG, Mark Rheniel, P.",30/09/2026,,Yes
+LUC_B02_114,Kalesa Inn,Accommodation,Inn,A. Racelis,Barangay 2,14.11447668,121.5533367,,Open,,,"RAMOS, Isaih Thomas, E.",30/09/2026,,Yes
+LUC_B02_115,FujiFilm Digital Imaging,Professional Services,Printing Shop,A. Racelis,Barangay 2,14.11450836,121.5533037,,Open,,,"TERRENAL, Tiara Joy, V.",30/09/2026,,Yes
+LUC_B02_116,BCM General Merchandise,Retail,Sari Sari Store,A. Racelis,Barangay 2,14.11458306,121.5532195,,Open,,,"PALMA, Mark, M.",30/09/2026,,Yes
+LUC_B02_019,Balmeo's Special Longganisang Lucban,Retail,Other,A. Bonifacio Street,Barangay 2,14.11358325,121.5546189,,Open,,9228542179,"ARELLANO, Arvin, L.",28/09/2026,,Yes
+LUC_B02_020,Shower Of Blessing,Retail,Grocery,,Barangay 2,14.11376617,121.5543987,,Closed,,(042) 540-6181,"ARELLANO, Arvin, L.",28/09/2026,,Yes
+LUC_B02_021,CARD MBA,Financial,Bank,A. Bonifacio,Barangay 2,14.11365513,121.5543662,,Closed,,,"GONZALES, Louis,",28/09/2026,,Yes
+LUC_B02_022,Mervin and Vivian Motor Parts And Repair,Automotive,Repair Shop,A. Bonifacio,Barangay 2,14.11373485,121.5543044,,Closed,,9383858601,"PALMA, Mark, M.",28/09/2026,,Yes
+LUC_B02_023,Jun Balmeo Store,Retail,Grocery,A. Bonifacio,Barangay 2,14.11377369,121.5541041,,Closed,,,"RAMOS, Isaih Thomas, E.",28/09/2026,Long standing grocery for sari sari store,Yes
+LUC_B04_001,ZUREA Hotel,Accommodation,Hotel,Conception Street,Barangay 4,14.11623334,121.5524813,,OPEN,24 hours,0917854969 - Jeffrey Zurbano,"TERRENAL, TIARA",01/10/2026,,Yes
+LUC_B04_002,SJ2 Sari-Sari Store,Retail,Sari Sari Store,Gomburza Street,Barangay 4,14.11594876,121.5530963,,CLOSED,,,"Gonzales, Louis",01/10/2026,,Yes
+LUC_B04_003,SLDC MART 3,Retail,Grocery,Gomburza Street,Barangay 4,14.11565939,121.5532233,,CLOSED,,,"HUTAMARES, CHEZKA",01/10/2026,,Yes
+LUC_B04_004,LIPIT FOOD HOUSE,Food and Dining,Fast Food,General Lukban St.,Barangay 4,14.11525396,121.5530121,,OPEN,10AM - 10PM,09266904165 - Renato Lipit Jr.,"QUEBRADO, LANCE",01/10/2026,,Yes
+LUC_B04_005,SAN LUIS DEVELOPMENT COOPERATIVE - MAIN OFFICE,Retail,Grocery,EMILIO JACINTO ST.,Barangay 4,14.11505467,121.5528851,,CLOSED,,042 540-4910,"TERRENAL, TIARA",01/10/2026,,Yes
+LUC_B04_006,CAMPVILLE'S BAKERY,Food and Dining,Bakery,General Lukban Street,Barangay 4,14.11501223,121.5526473,,CLOSED,5AM - 8PM,,"GONZALEZ, LOUIS",01/10/2026,,Yes
+LUC_B04_007,CAMILON DENTAL CLINIC,Health,Dental Clinic,General Lukban Street,Barangay 4,14.115115,121.5526815,,CLOSED,,,"HUTAMARES, CHEZKA",01/10/2026,,Yes
+LUC_B04_008,ESTER SARI-SARI STORE,Retail,Clothing,General Lukban Street,Barangay 4,14.11517169,121.5527171,,CLOSED,,,"QUEBRADO, LANCE",2026-10_01,,Yes
+LUC _B04_008,EVARDZ,Food and Dining,Eatery,EMILIO JACINTO ST.,Barangay 4,14.11521474,121.5527409,,CLOSED,,,"TERRENAL, TIARA",01/10/2026,,Yes
+LUC_B04_009,VIGIL HALL,Other,Other,Gomburza Street,Barangay 4,14.1155353,121.5528056,,OPEN,24-Jul,9281568159,"GONZALES, LOUIS",01/10/2026,funeral home,Yes
+LUC_B04_009,SPRINGLIFE WATER STATION,Other,Other,Gomburza Street,Barangay 4,14.11547343,121.5527869,,CLOSED,,,"QUEBRADO, LANCE",01/10/2026,water refilling station,Yes
+LUC_B04_010,BARANGAY HALL,Government,Barangay Office,Gomburza Street,Barangay 4,14.11562054,121.5528396,,OPEN,,,"TERRENAL, TIARA",01/10/2026,,Yes
+LUC_B04_011,PANCITAN NI KUYA,Food and Dining,Eatery,Gomburza Street,Barangay 4,14.11582832,121.5529877,,CLOSED,,,"HUTAMARES, CHEZKA",01/10/2026,,Yes
+LUC_B04_012,TAPSILUGAN,Food and Dining,Eatery,General Lukban Street,Barangay 4,14.11475894,121.5527194,,CLOSED,,9151513362,"GONZALES, LOUIS",01/10/2026,,Yes
+LUC_B04_012,Oodles ni Utol,Food and Dining,Eatery,General Lukban Street,Barangay 4,14.11475071,121.5526433,,8AM - 2AM,,9927662307,"QUEBRADO, LANCE",01/10/2026,,Yes
+LUC_B04_013,MV STORE,Retail,Grocery,General Lukban Street,Barangay 4,14.11485827,121.5525915,,CLOSED,,,"TERRENAL, TIARA",01/10/2026,,Yes
+LIC_B04_014,FEBIS STORE,Retail,Grocery,Gomburza Street,Barangay 4,14.11489692,121.5524851,,CLOSED,,,"HUTAMARES, CHEZKA",01/10/2026,,Yes
+LUC_B04_014,CANDY STORE,Retail,Grocery,Gomburza Street,Barangay 4,14.11489014,121.5525148,,CLOSED,,,"GONZALEZ, LOUIS",01/10/2026,,Yes
+LUC_B04_015,WARREN PRINCIPE Arvhitectural and Engineering Services,Professional Services,Other,Gomburza Street,Barangay 4,14.11486043,121.5524638,,CLOSED,,9549924965,"QUEBRADO, LANCE",01/10/2026,,Yes
+LUC_B04_016,ANOSO'S DRY GOODS STORE,Retail,Other,Gomburza Street,Barangay 4,14.11478696,121.5524221,,CLOSED,,,"TERRENAL, TIARA",01/10/2026,,Yes
+LUC_B04_016,NORVIC STORE,Retail,Sari Sari Store,Gomburza Street,Barangay 4,14.11469748,121.5523933,,CLOSED,,,"HUTAMARES, CHEZKA",01/10/2026,,Yes
+LUC_B04_018,Yneng's Bakery,Food and Dining,Bakery,Bonifacio Street,Barangay 4,14.11456373,121.5524762,,CLOSED,,,"GONZALES, LOUIS",01/10/2026,,Yes
+LUC_B04_018,COSEJO'S FROZEN PRODUCT STORE,Retail,Other,Bonifacio Street,Barangay 4,14.11459769,121.5525152,,CLOSED,,,"QUEBRADO, LANCE",01/10/2026,,Yes
+LUC_B04_019,DEBBIE'S WAFFLES DESSERTS,Food and Dining,Bakery,Bonifacio Street,Barangay 4,14.11455351,121.5525573,,CLOSED,,,"TERRENAL, TIARA",01/10/2026,,Yes
+LUC_B04_20,FATIMA ZAHRA CELLPHONE ACCESSORIES,Personal Services,Repair Shop,General Lukban Street,Barangay 4,14.11465882,121.5526792,,CLOSED,,,"HUTAMARES, CHEZKA",01/10/2026,,Yes
+LUC_B04_021,JHONA R. RATIO ACCOUNTING OFFICE,Professional Services,Other,General Lukban Street,Barangay 4,14.11467407,121.5526893,,CLOSED,,9985675637,"GONZALES, LOUIS",01/10/2026,,Yes
+LUC_B04_022,SEAFERER'S MULTI-PURPOSE COOPERATIVE,Professional Services,Other,General Lukban Street,Barangay 4,14.11468718,121.5526816,,CLOSED,,,"QUEBRADO, LANCE",01/10/2026,,Yes
+LUC_B04_023,SOUNDSTAGE,Personal Services,Other,Bonifacio Street,Barangay 5,14.11449575,121.552555,,CLOSED,,,"TERRENAL, TIARA",01/10/2026,,Yes
+LUC_B04_023,BAKERY,Food and Dining,Bakery,General Lukban Street,Barangay 4,14.11438609,121.5525778,,CLOSED,,,"HUTAMARES, CHEZKA",01/10/2026,,Yes
+LUC_B04_024,TAPSILUGAN 2,Food and Dining,Eatery,General Lukban Street,Barangay 4,14.11431858,121.5525206,,CLOSED,,,"GONZALES, LOUIS",01/10/2026,,Yes
+LUC_B04_024,FVB SARI-SARI STORE,Retail,Sari Sari Store,General Lukban,Barangay 4,14.11425874,121.5524877,,CLOSED,,,"QUEBRADO, LANCE",01/10/2026,,Yes
+LUC_B04_025,MCA PET CLINIC,Health,Clinic,General Lukban Street,Barangay 4,14.11430714,121.552355,,CLOSED,9AM TO 3PM,9173759402,"TERRENAL, TIARA",01/10/2026,,Yes
+LUC_B04_025,"BARAY'S LECHON PARES, MAMI AT SILOG",Food and Dining,Eatery,Fidel Rada St.,Barangay 4,14.11432534,121.5523151,,,,,"HUTAMARES, CHEZKA",,,Yes
+LUC_B04_026,PANSIT HABHABAN,Food and Dining,Eatery,Fidel Rada St.,Barangay 5,14.11433588,121.5522316,,CLOSED,,,"GONZALES, LOUIS",01/10/2026,,Yes
+LUC_B04_026,APUADA SARI SARI STORE,Retail,Sari Sari Store,Gomburza Street,Barangay 4,14.11437056,121.552231,,CLOSED,,,"QUEBRADO, LANCE",01/10/2026,,Yes
+LUC_B04_026,LUCENEL STORE,Retail,Sari Sari Store,Gomburza Street,Barangay 4,14.11446442,121.5522736,,CLOSED,,,"TERRENAL, TIARA",01/10/2026,,Yes
+LUC_B04_026,LUSINEL KITCHENETTE,Food and Dining,Eatery,Gomburza Street,Barangay 4,14.11448565,121.5522871,,CLOSED,,,"HUTAMARES, CHEZKA",01/10/2026,,Yes
+LUC_B04_026,LILIBETH STORE,Retail,Sari Sari Store,Gomburza Street,Barangay 4,14.1145985,121.5523393,,CLOSED,,,"GONZALES, LOUIS",01/10/2026,,Yes
+LUC_B04_027,LOTTO,Other,Other,Gomburza Street,Barangay 4,14.11427611,121.5521915,,CLOSED,,,"QUEBRADO, LANCE",01/10/2026,,Yes
+LUC_B04_028,CBQP Cooperative Bank of Quezon Province - Lucban Branch,Financial,Bank,Marcos Tigla Street,Barangay 4,14.11404415,121.5521563,,CLOSED,,042 911-7332,"TERRENAL, TIARA",01/10/2026,,Yes
+LUC_B04_029,SARI SARI STORE,Retail,Sari Sari Store,Gomburza St.,Barangay 4,14.11379794,121.5516693,,CLOSED,,,"HUTAMARES, CHEZKA",01/10/2026,,Yes
+LUC_B04_030,QUEVEDO'S TAILORING SHOP,Personal Services,Clothing,Gomburza Street,Barangay 4,14.11342915,121.5510703,,CLOSED,,,"GONZALES, LOUIS",01/10/2026,,Yes
+LUC_B04_031,Lucban Genesis Ticketing Booth,Tourism,Tourism Service,Bonifacio,Barangay 4,14.11464848,121.5522245,,Open,5:00am - 6:00pm,,"HUTAMARES, Franchezka M.",03/10/2026,,Yes
+LUC_B04_032,Brix Aldren Pasalubong,Retail,Souvenir,Bonifacio,Barangay 4,14.11462508,121.5521788,,Open,,,"QUEBRADO, Lance Wayne",03/10/2026,,Yes
+LUC_B04_033,Rechelle Pasalubong Store,Retail,Souvenir,Bonifacio,Barangay 4,14.11462325,121.55216,,Open,,,"GONZALES, Louis",03/10/2026,,Yes
+LUC_B04_034,Bong and Shirley Pasalubong Store,Retail,Souvenir,Bonifacio,Barangay 4,14.11464873,121.55211,,Open,,,"TERRENAL, Tiara",03/10/2026,,Yes
+LUC_B04_035,HM Transport Inc,Tourism,Tourism Service,Bonifacio,Barangay 4,14.11474091,121.5520491,,Open,,,"HUTAMARES, Franchezka M.",03/10/2026,,Yes
+LUC_B04_036,Evangeline Racasa Pasalubong,Retail,Souvenir,Bonifacio,Barangay 4,14.11418544,121.5519479,,Open,,,"HUTAMARES, Franchezka M.",03/10/2026,,Yes
+LUC_B04_037,Lydia & Cesar Fruit Stand,Retail,Grocery,Bonifacio,Barangay 4,14.11418534,121.5519694,,Open,,,"GONZALES, Louis",03/10/2026,,Yes
+LUC_B04_038,Alex and Chebby Pasalubong,Retail,Souvenir,Bonifacio,Barangay 4,14.11416087,121.551958,,Open,,,"QUEBRADO, Lance Wayne",03/10/2026,,Yes
+LUC_B04_039,Myla's Bukuhan,Food and Dining,Other,Bonifacio,Barangay 4,14.11417109,121.5519926,,Open,,,"TERRENAL, Tiara",03/10/2026,,Yes
+LUC_B04_040,Jappi Mini Grocery,Retail,Grocery,Bonifacio,Barangay 4,14.11468701,121.5522019,,Open,,,"HUTAMARES, Franchezka M.",03/10/2026,,Yes
+LUC_B04_041,Dimsum Panda,Food and Dining,Fast Food,Bonifacio,Barangay 4,14.11474709,121.5521104,,Open,24-Jul,,"QUEBRADO, Lance Wayne",03/10/2026,,Yes
+LUC_B04_042,Our Little Laundry Shop,Personal Services,Clothing,Bonifacio,Barangay 4,14.11475651,121.5520578,,Open,7AM - 7PM,9475611477,"GONZALES, Louis",03/10/2026,,Yes
+LUC_B04_043,Bossing's Kambal Pizza,Food and Dining,Bakery,Bonifacio,Barangay 4,14.11472801,121.551965,,Open,,,"TERRENAL, Tiara",03/10/2026,,Yes
+LUC_B04_043,Ref. Jojo's Barber Shop,Personal Services,Barbershop,Bonifacio,Barangay 4,14.11497866,121.551646,,Open,,,"HUTAMARES, Franchezka M.",03/10/2026,,Yes
+LUC_B04_044,Sandra Jaime Sari-Sari Store,Retail,Sari Sari Store,A. Racelis Avenue,Barangay 4,14.11545425,121.5514833,,Open,,,"HUTAMARES, Franchezka M.",03/10/2026,,Yes
+LUC_B04_045,Rod-Chan Lambanog,Retail,Other,A. Racelis Avenue,Barangay 4,14.11545119,121.5515341,,Closed,,,"QUEBRADO, Lance Wayne",03/10/2026,,Yes
+LUC_B04_046,Underground Tattoo Barbers,Personal Services,Barbershop,A. Racelis Avenue,Barangay 4,14.11546025,121.5515466,,Open,,,"GONZALES, Louis",03/10/2026,,Yes
+LUC_B04_047,Greenview Integrated Learning Center Inc. Tutorial Center,Professional Services,Other,A. Racelis Avenue,Barangay 4,14.11543148,121.5515771,,Open,,,"TERRENAL, Tiara",03/10/2026,,Yes
+LUC_B04_048,Daza-Taleon,Accommodation,Lodge,A. Racelis Avenue,Barangay 4,14.11525917,121.5517552,,Open,,,"HUTAMARES, Franchezka M.",03/10/2026,,Yes
+LUC_B04_048,Jacla's Bakery,Food and Dining,Bakery,A. Racelis Avenue,Barangay 4,14.1150354,121.5522222,,Open,,,"HUTAMARES, Franchezka M.",03/10/2026,,Yes
+LUC_B04_049,Crafted,Food and Dining,Cafe,A. Racelis Avenue,Barangay 4,14.11494491,121.5523008,,Open,,,"QUEBRADO, Lance Wayne",03/10/2026,,Yes
+LUC_B04_050,Ellen Convenience Store,Retail,Sari Sari Store,A. Racelis Avenue,Barangay 4,14.11501651,121.5523711,,Open,,,"GONZALES, Louis",03/10/2026,,Yes
+LUC_B04_051,Spin Master Wash & Dry,Personal Services,Clothing,A. Racelis Avenue,Barangay 4,14.11503137,121.5523792,,Open,,,"TERRENAL, Tiara",03/10/2026,,Yes
+LUC_B03_001,Hazzie Store,Retail,Sari-sari Store,Hobart Dator Street,Barangay 3,14.114485556,121.550593333,,Open,6:00 am - 7:00 pm,,"ANGULO, Leira Rose A.",2026-10-03,,Yes
+LUC_B03_002,Ning's Store,Retail,Sari-sari Store,Hobart Dator Street,Barangay 3,14.114090354,121.550054513,,Open,6:00 am - 6:00 pm,,"DE LEON, Trisha Sandra P.",2026-10-03,,Yes
+LUC_B03_003,Cabigan Mini Store,Retail,Sari-sari Store,Hobart Dator Street,Barangay 3,14.114839834,121.551048607,,Open,6:00 am - 11:00 pm,,"DIOSAY, Angelica A.",2026-10-03,,Yes
+LUC_B03_004,VM Sun,Retail,Clothing,A. Bonifacio,Barangay 3,14.115182221,121.551094204,,Open,,,"FONTANILLA, Christian Jay N.",2026-10-03,,Yes
+LUC_B03_005,EKRM Store,Retail,Convenience Store,129 Cadavez St.,Barangay 3,14.115301667,121.5508,,Open,5:00 am - 10:00 pm,0949-719-2228,"MERCADO, Mhaylan Say R.",2026-10-03,,Yes
+LUC_B03_006,Quick Dry Express Laundry,Personal Services,Laundry Shop,Cadavez St.,Barangay 3,14.115425761,121.550757922,,Open,7:00 am - 7:00 pm,540-4957,"ANGULO, Leira Rose A.",2026-10-03,,Yes
+LUC_B03_007,Trina's Pizza Dough,Food and Dining,Restaurant,Cadavez St.,Barangay 3,14.115535337,121.550528593,,Open,5:00 am - 8:00 pm,0961-201-6687,"DE LEON, Trisha Sandra P.",2026-10-03,,Yes
+LUC_B03_008,Sem Tiles Center & CEE-Q Online Trending Kalakal,Retail,Building Materials Store,Cadavez St.,Barangay 3,14.115618901,121.550182253,,Open,8:00 am - 5:00 pm,0995-512-0211/0908-315-5132,"DIOSAY, Angelica A.",2026-10-03,,Yes
+LUC_B03_009,Bleza's Smile Dental Clinic and Laboratory,Health,Dentist,Cadavez St.,Barangay 3,14.115749288,121.550182588,,Open,9:00 am - 5:00 pm,0921-995-3794,"ANGULO, Leira Rose A.",2026-10-03,,Yes
+LUC_B03_010,Card Bank Lucban 2 Branch-Lite Unit,Financial Services,Bank,A. Bonifacio,Barangay 3,14.115714171,121.550270431,,Closed,,,"FONTANILLA, Christian Jay N.",2026-10-03,,Yes
+LUC_B03_011,AlkaVepo,Personal Services,Water Refilling Station,A. Bonifacio,Barangay 3,14.115707993,121.550267078,,Open,,0942-340-1236,"MERCADO, Mhaylan Say R.",2026-10-03,,Yes
+LUC_B03_012,Panciteria de Isabelita,Food and Dining,Restaurant,Armando Racelis Avenue,Barangay 3,14.116040624,121.550134644,,Open,,,"DE LEON, Trisha Sandra P.",2026-10-03,,Yes
+LUC_B03_013,Veloro's Gas,Automotive,Gas Station,Armando Racelis Avenue,Barangay 3,14.116188243,121.550036408,,Open,6:00 am - 6:00 pm,0947-893-1163,"DIOSAY, Angelica A.",2026-10-03,,Yes
+LUC_B03_014,Anita Store,Retail,Sari-sari Store,Armando Racelis Avenue,Barangay 3,14.116072814,121.550234556,,Open,,,"FONTANILLA, Christian Jay N.",2026-10-03,,Yes
+LUC_B03_015,Parini Store,Retail,Sari-sari Store,Armando Racelis Avenue,Barangay 3,14.116038023,121.550319381,,Open,,,"MERCADO, Mhaylan Say R.",2026-10-03,,Yes
+LUC_B03_016,Imee Store,Retail,Sari-sari Store,Cadavez St.,Barangay 3,14.116103053,121.550374702,,Open,,,"ANGULO, Leira Rose A.",2026-10-03,,Yes
+LUC_B03_017,Ronjen Store,Retail,Sari-sari Store,Emilio Jacinto St.,Barangay 3,14.116324156,121.550507806,,Open,,,"FONTANILLA, Christian Jay N.",2026-10-03,,Yes
+LUC_B03_018,Jojo Store,Retail,Sari-sari Store,Emilio Jacinto St.,Barangay 3,14.116175887,121.550655998,,Open,6:00 am - 12:00 pm / 2:30 pm-9:00 pm,,"DIOSAY, Angelica A.",2026-10-03,,Yes
+LUC_B03_019,Christine and Claudette Store,Retail,Sari-sari Store,Emilio Jacinto St.,Barangay 3,14.116129716,121.550784074,,Open,5:30 am - 9:00 pm,,"DE LEON, Trisha Sandra P.",2026-10-03,,Yes
+LUC_B03_020,Nato Gening Pancitan and Puto,Food and Dining,Restaurant,Emilio Jacinto St.,Barangay 3,14.115931698,121.551142484,,Open,,,"MERCADO, Mhaylan Say R.",2026-10-03,,Yes
+LUC_B03_021,Ambo Store,Retail,Grocery Store,Emilio Jacinto St.,Barangay 3,14.115913164,121.551186405,"Munting Bayan, Lucban, Quezon",Open,8:30 am - 11:00 pm,,"ANGULO, Leira Rose A.",2026-10-03,,Yes
+LUC_B03_022,Primes Rv,Personal Services,Water Refilling Station,15 Hobart Dator St.,Barangay 3,14.11592,121.551555,,Open,,0999-578-2154/0916-254-7503/911-7024/540-1774,"DE LEON, Trisha Sandra P.",2026-10-03,,Yes
+LUC_B03_023,Outmoded Vintage,Retail,Clothing,Hobart Dator Street,Barangay 3,14.116202225,121.551697366,,Open,12:30 pm - 8:30 pm,0976-247-0823,"DIOSAY, Angelica A.",2026-10-03,,Yes
+LUC_B03_024,Abel Store,Retail,Sari-sari Store,Hobart Dator Street,Barangay 3,14.116272782,121.55173324,,Open,6:00 am - 6:00 pm,,"FONTANILLA, Christian Jay N.",2026-10-03,,Yes
+LUC_B03_025,Jepoy Sisig,Food and Dining,Eatery,Armando Racelis Avenue,Barangay 3,14.115499245,121.551266536,,Open,3:00 pm - 10:00 pm,0962-133-6409,"MERCADO, Mhaylan Say R.",2026-10-03,,Yes
+LUC_B03_025,Trendee by Dee Jay Abustan,Personal Services,Fashion Design,Armando Racelis Avenue,Barangay 3,14.115592564,121.551067047,,Open,9:00 am - 5:00 pm,0917-549-7466,"ANGULO, Leira Rose A.",2026-10-03,,Yes
+LUC_B03_026,Card Indogrosir,Retail,Grocery Store,Armando Racelis Avenue,Barangay 3,14.115721975,121.551011391,,Open,7:00 am - 9:00 pm,"CARD Indogrosir, Inc.","DIOSAY, Angelica A.",2026-10-03,,Yes
+LUC_B03_027,Elise Resto Lugaw,Food and Dining,Restaurant,Armando Racelis Avenue,Barangay 3,14.11584033,121.550724059,,Open,4:00 pm - 2:00 am,0970-393-0038,"DE LEON, Trisha Sandra P.",2026-10-03,,Yes
+LUC_B03_028,Beshie Spa,Personal Services,Massage,Armando Racelis Avenue,Barangay 3,14.115747987,121.550760604,,Open,,,"FONTANILLA, Christian Jay N.",2026-10-03,,Yes
+LUC_B03_029,Mayan Frozen Food Store,Retail,Food Products,Armando Racelis Avenue,Barangay 3,14.115971367,121.550444104,,Open,,,"DIOSAY, Angelica A.",2026-10-03,,Yes
+LUC_B06_001,RMT's Clinical Laboratory,Health,Clinic,Placencia Street,Barangay 6,14.115498333,121.554031667,"corner of the street. connected to RRN Interactive Clinic, Skin Health Clinic, and Parinas Medical Clinic",open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_002,RRN Integrative Health Clinic,Health,Clinic,Placencia Street,Barangay 6,14.115498333,121.554031667,"Corner of the street. Connected to RMT's Clinical Laboratory, Skin Health Clinic, and Parinas Health Clinic",open,9:00AM-12:00NN,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_003,The Skin Health Clinic,Health,Clinic,Placencia Street,Barangay 6,14.115498333,121.554031667,"Corner of the street. Connected with RMT's Clinical Laboratory, RRN Integrative Health Clinic, and Parinas Health Clinic",open,9:30AM-1:00PM,,"Libao, Ried Carlo C.",2026-10-05,Dermatology Clinic,Yes
+LUC_B06_004,Parinas Medical Clinic,Health,Clinic,Placencia Street,Barangay 6,14.115498333,121.554031667,"Corner of the street. Connected to RRN Integrative Health Clinic, RMT's Clinical Laboratory, and The Skin Health Clinic",open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_005,CE MARTINEZ APPAREL SHOP,Professional Sevices,Sewing Shop,La Purisima Concepcion,Barangay 6,14.11553,121.55396,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_006,Yahya's Accessories,Retail,Sari-Sari Store,La Purisima Concepcion,Barangay 6,14.115501667,121.553963333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_007,Rolan's Barbershop,Personal Services,Barbershop,La Purisima Concepcion,Barangay 6,14.115578333,121.553918333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_008,Jane Footwear,Retail,Clothing,La Purisima Concepcion,Barangay 6,14.115578333,121.553918333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_009,Diana's Fruit Stand,Retail,Grocery,La Purisima Concepcion,Barangay 6,14.115606667,121.55384,Corner of the street,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_010,JMR Hardware Trading,Retail,Hardware Store,La Purisima Concepcion,Barangay 6,14.115657222,121.553716667,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_011,Unisex SBN Tahian,Professional Sevices,Sewing Shop,La Purisima Concepcion,Barangay 6,14.115701667,121.553651667,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_012,Late Bite,Food and Dining,Cafe,La Purisima Concepcion,Barangay 6,14.115753889,121.553541389,,open,10:00AM-:00PM,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_013,Aling Pining's Threads and Buttons,Professional Sevices,Sewing Shop,La Purisima Concepcion,Barangay 6,14.115767222,121.553529722,,open,9:00am - 5:00pm,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_014,C-Bar & Restaurant,Food and Dining,Bar,La Purisima Concepcion,Barangay 6,14.115745,121.553495,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_015,Ka-inaniyo,Retail,Grocery,La Purisima Concepcion,Barangay 6,14.115783333,121.553398333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_016,Dani's Fruits and Vegetables,Retail,Grocery,Gen. Lukban,Barangay 6,14.115900833,121.553309722,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_017,Kuya Mack's Fried Chicken,Food and Dining,Fast Food,Gen. Lukban,Barangay 6,14.115958611,121.553311944,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_018,Aparte Law Office,Professional Sevices,Notary Public,La Purisima Concepcion,Barangay 6,14.115931667,121.553115,,open,8:30AM-5:30PM,(042) 540 9374,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_019,Reyes Bldg.,Accommodation,Boarding House,La Purisima Concepcion,Barangay 6,14.115978333,121.553003333,"2nd Floor, above One Day Laundry Express",open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_020,One Day Express Laundry,Personal Services,Laundry,La Purisima Concepcion,Barangay 6,14.115976667,121.552975,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_021,El Hombre Salon,Personal Services,Salon,La Purisima Concepcion,Barangay 6,14.116070278,121.552820833,,open,10:00AM-7:00PM,09242751644,"Libao, Ried Carlo C.",2026-10-05,Day off on Mondays,Yes
+LUC_B06_022,Alakan ni Sadam,Retail,Sari-Sari Store,La Purisima Concepcion,Barangay 6,14.11608,121.552771667,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_023,Nedster Computer Repair,Professional Sevices,Electronics Repair Shop,Lopez Jaena,Barangay 6,14.116155833,121.553334167,,close,,,"Libao, Ried Carlo C.",2026-10-05,Hardware Repair,Yes
+LUC_B06_024,Christ is the Answer Lucban Bethel Temple International Ministries Inc.,Other,Place of Worship,Lopez Jaena,Barangay 6,14.116313333,121.553056667,,open,,,"Libao, Ried Carlo C.",2026-10-05,Church,Yes
+LUC_B06_025,Wallybeth Crispy Pata,Food and Dining,Restaurant,Lopez Jaena,Barangay 6,14.116076667,121.553623333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_026,A&S Meatshop & Frozen Goods,Food and Dining,Grocery,Lopez Jaena,Barangay 6,14.116126111,121.553587222,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_027,Lucban Builders Multi-Purpose Cooperative,Retail,Hardware Store,Lopez Jaena,Barangay 6,14.116109167,121.553687222,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_028,PalmCure Therapeutic Massage,Personal Services,Massage,Lopez Jaena,Barangay 6,14.116008333,121.55373,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_029,GOGO Car Rental & Travel Buddy,Automotive,Car Rental,Gen. Lukban,Barangay 6,14.116286389,121.5534625,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_030,Geline's Ukay-Ukay Clothing Store #2,Retail,Clothing,Gen. Lukban,Barangay 6,14.116336389,121.553475833,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_031,Balderosa's Sari-Sari Store,Retail,Sari-Sari Store,Plaridel,Barangay 6,14.116286389,121.554031389,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_032,Daya's Sari-Sari Store,Retail,Sari-Sari Store,Suarez,Barangay 6,14.116124722,121.554055833,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_033,Owel Sari-Sari Store,Retail,Sari-Sari Store,Plaridel,Barangay 6,14.116296667,121.553793333,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_034,Gro-Sari,Retail,Sari-Sari Store,Katipunan,Barangay 6,14.11641,121.5543,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_035,Flora Reemah,Personal Services,Flower Shop,Katipunan,Barangay 6,14.116447222,121.554283611,,open,,09669431511,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_036,Help Inc. Lucban Branch,Financial,Entrepreneurship,Katipunan,Barangay 6,14.116375,121.554326667,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_037,Bananacue & Maruyang Parirutong,Food and Dining,Fast Food,Katipunan,Barangay 6,14.116365278,121.554349722,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_038,Gem's Variety Store,Retail,Sari-Sari Store,Placencia Street,Barangay 6,14.11634,121.554548333,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_039,VDS Construction Services Inc.,Professional Sevices,Engineering Services,Placencia Street,Barangay 6,14.116395,121.554556667,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_040,Gazsey's Fashion Shop,Retail,Clothing,Placencia Street,Barangay 6,14.116446667,121.554624667,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_041,Myles Travel & Tours,Tourism,Tourism Service,Placencia Street,Barangay 6,14.11647,121.554626667,,open,,09565173000,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B06_042,Rosalie's Dried Flowers,Personal Services,Flower Shop,D. Aguilar,Barangay 6,14.116628333,121.55454,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,Flower Shop,Yes
+LUC_B06_043,Pavino's Residence,Accommodation,Boarding House,D. Aguilar,Barangay 6,14.116708611,121.554296944,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_044,Chamihan sa Banahaw,Food and Dining,Eatery,Katipunan,Barangay 6,14.116594722,121.553878056,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_045,Merkado Marketplace & More,Retail,Grocery,Katipunan,Barangay 6,14.116603333,121.553803333,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_046,Helen's Pansitan,Food and Dining,Eatery,Gen. Lukban,Barangay 6,14.11643,121.553603333,,open,11:00AM-8:00PM,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B06_047,MRM,Retail,Sari-Sari Store,Katipunan,Barangay 6,14.11671,121.55352,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_048,Abbo's Carwash and Detailing,Automotive,Car Wash,Katipunan,Barangay 6,14.117554167,121.553815833,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,Car Wash,Yes
+LUC_B06_049,SKYPOD,Accommodation,Hotel,Katipunan,Barangay 6,14.117899722,121.554126389,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_050,Osolle Electrical Engineering Services,Professional Sevices,Engineering Services,Katipunan,Barangay 6,14.117495833,121.553809444,,open,,096051490480,"Inoc, Dyan Michelle N.",2026-10-05,Electrical Engineering Services,Yes
+LUC_B06_051,Racquel Sari-Sari Store,Retail,Sari-Sari Store,Katipunan,Barangay 6,14.116992143,121.553539762,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_052,Gulayan sa Banahaw,Retail,Grocery,Katipunan,Barangay 6,14.116834762,121.553269762,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_053,LV Noodle Bar,Food and Dining,Restaurant,Katipunan,Barangay 6,14.116808333,121.553296667,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_054,Barangay 6 CDC,Other,CDC,Katipunan,Barangay 6,14.117035,121.553243333,Next to Brgy Hall,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_055,Baby Empanada by Chef Noirs,Food and Dining,Eatery,Katipunan,Barangay 6,14.117035,121.553243333,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_056,Chick Corner,Food and Dining,Eatery,Katipunan,Barangay 6,14.117051667,121.553297143,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_057,Bahay Pamahalaan ng Barangay 6,Government,Barangay Office,Katipunan,Barangay 6,14.117161667,121.553281667,,open,8:00AM-5:00PM,,"Libao, Ried Carlo C.",2026-10-05,Closed on weekends,Yes
+LUC_B06_058,Roda's Sari-Sari Store,Retail,Sari-Sari Store,Katipunan,Barangay 6,14.116910476,121.553023333,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_059,Banahaw TODA,Professional Sevices,Transport Station,Katipunan,Barangay 6,14.117068889,121.552963333,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,Tricycle Station,Yes
+LUC_B06_060,Rhize  Beauty Salon,Personal Services,Salon,Katipunan,Barangay 6,14.117273333,121.553018333,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_061,Raquel Store,Retail,Sari-Sari Store,Katipunan,Barangay 6,14.117352708,121.553045,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B06_062,Soul Rock Dart & Bar Bullies,Food and Dining,Bar,Katipunan,Barangay 6,14.117446667,121.553085,,open,,,"Jabrica, Junell C.",2026-10-05,Bar,Yes
+LUC_B06_063,RNL Clothing,Retail,Clothing,Katipunan,Barangay 6,14.116653095,121.553655238,,open,09975966556,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B06_064,Roland's Lambanog,Retail,Sari-Sari Store,Katipunan,Barangay 6,14.11664,121.553686667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B06_065,Petshop,Other,Pet Shop,Katipunan,Barangay 6,14.116843333,121.554758333,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B06_066,BiggieTalk Global Department,Professional Sevices,Teaching Services,Placencia Street,Barangay 6,14.117063333,121.554895,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B06_067,Myori's,Food and Dining,Fast Food,C. Arellano,Barangay 6,14.1172175,121.554781667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B06_068,Deveza Farm,Tourism,Tourist Attraction,C. Arellano,Barangay 6,14.117251389,121.554699167,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_001,Western Union,Financial,Remittance Center,La Purisima Concepcion,Barangay 7,14.115143333,121.554946111,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_002,Mathena Nail & Lash Salon,Personal Services,Salon,La Purisima Concepcion,Barangay 7,14.115133333,121.554891667,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_003,Southern Luzon Lending Company Inc.,Financial,Lending Company,La Purisima Concepcion,Barangay 7,14.115204722,121.554825,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_004,Prime Alliance,Professional Sevices,Office,La Purisima Concepcion,Barangay 7,14.115145,121.554854722,2nd Floor,open,,,"Libao, Ried Carlo C.",2026-10-05,Office related to OFWs,Yes
+LUC_B07_005,A.R. General Merchandise,Food and Dining,Eatery,La Purisima Concepcion,Barangay 7,14.115141944,121.554830833,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_005,Tidy Bubbles,Personal Services,Laundry,La Purisima Concepcion,Barangay 7,14.115185,121.55474,,open,6:30AM - 7:30PM,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_006,Lucban Environmentalist Agro-Forestry Multipurpose Cooperative,Professional Sevices,Office,La Purisima Concepcion,Barangay 7,14.115231667,121.554653333,,open,8:00AM-5:00PM,,"Libao, Ried Carlo C.",2026-10-05,Closed on Sundays,No
+LUC_B07_008,Royal Mangoshake,Food and Dining,Fast Food,La Purisima Concepcion,Barangay 7,14.115228333,121.554601667,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_009,QCRB Lucban,Financial,Bank,La Purisima Concepcion,Barangay 7,14.11527,121.55454,,open,9:00AM-4:00PM,,"Libao, Ried Carlo C.",2026-10-05,Closed on weekends,Yes
+LUC_B07_010,Escuela Pia,Tourism,Tourist Attraction,Placencia Street,Barangay 7,14.115673611,121.554201944,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_011,HYDROLAB COMPANY,Professional Sevices,Water Station,Placencia Street,Barangay 7,14.11629,121.554533333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_012,CWRS Purified Drinking Wtaer,Professional Sevices,Water Station,Placencia Street,Barangay 7,14.116738333,121.554683611,,open,,(042) 540-8351,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_013,Marnel's Store,Retail,Sari-Sari Store,Placencia Street,Barangay 7,14.117205,121.554993333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_014,Mancenido's Funeral Service,Professional Sevices,Funeral Service,A. Mabini Street,Barangay 7,14.117355,121.55538,,open,,540-9787,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_015,KM Motorcycle Parts and Accessories Shop,Automotive,Parts Shop,A. Mabini Street,Barangay 7,14.117568611,121.555504444,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_016,G.P. Store,Retail,Sari-Sari Store,A. Mabini Street,Barangay 7,14.117648333,121.555544722,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_017,Pansitan,Food and Dining,Eatery,A. Mabini Street,Barangay 7,14.117463333,121.555443333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_018,Lola Felisa Tea House,Food and Dining,Cafe,A. Mabini Street,Barangay 7,14.1179025,121.555682222,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_019,Sophia Store,Retail,Sari-Sari Store,A. Mabini Street,Barangay 7,14.117988125,121.555685208,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_020,Eva Villaverde Sari-Sari Store,Retail,Sari-Sari Store,A. Mabini Street,Barangay 7,14.118266944,121.555801667,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_021,LANI Sari-Sare Store,Retail,Sari-Sari Store,Claro Cabungcal,Barangay 7,14.118456111,121.555873056,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_022,Philippine Charity Sweepstakes Office Pirouette Corporation,Professional Sevices,Office,Claro Cabungcal,Barangay 7,14.118491667,121.555915,,open,,,"Libao, Ried Carlo C.",2026-10-05,Lottery,Yes
+LUC_B07_022,J. Xavier Hall,Professional Sevices,Event Hall,La Purisima Concepcion,Barangay 7,14.118491667,121.555915,,open,,,"Libao, Ried Carlo C.",2026-10-05,Event Place,Yes
+LUC_B07_024,Ray's Pharmacy,Health,Pharmacy,Claro Cabungcal,Barangay 7,14.118386667,121.55612,,open,8:00AM-6:00PM,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_025,Micharose Motorcycle Repair Shop,Automotive,Repair Shop,Claro Cabungcal,Barangay 7,14.118356667,121.556218333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_026,Lucban Tile Center II,Retail,Building Materials Store,Claro Cabungcal,Barangay 7,14.118273333,121.556295,,open,,,"Libao, Ried Carlo C.",2026-10-05,Tile Shop/Hardware,Yes
+LUC_B07_027,Durabilt Enterprises Inc. - Lucban,Retail,Building Materials Store,Claro Cabungcal,Barangay 7,14.118218056,121.556386944,,open,,,"Libao, Ried Carlo C.",2026-10-05,Building mats store,Yes
+LUC_B07_028,Aqualen,Professional Sevices,Water Station,Claro Cabungcal,Barangay 7,14.118295,121.556473333,,open,,,"Libao, Ried Carlo C.",2026-10-05,Water Refilling Station,Yes
+LUC_B07_029,PREMIO,Automotive,Dealership,Lucban - Sampaloc Road,Barangay 7,14.118178333,121.556565833,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_030,Eversure Bemi Luzon Motorcycle Corp.,Automotive,Dealership,Lucban - Sampaloc Road,Barangay 7,14.118076667,121.556534444,,open,,,"Libao, Ried Carlo C.",2026-10-05,dealership,Yes
+LUC_B07_031,ARDCI Lucban Branch,Financial,Microfinance Institution,Lucban - Sampaloc Road,Barangay 7,14.118065,121.55654,,open,,,"Libao, Ried Carlo C.",2026-10-05,loaning company,Yes
+LUC_B07_032,Eatlogan,Retail,Sari-Sari Store,Lucban - Sampaloc Road,Barangay 7,14.11788,121.556448333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_033,Lamborg9 Performance Products,Automotive,Parts Shop,Lucban - Sampaloc Road,Barangay 7,14.117516667,121.5563,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_034,ROV Rice Supply,Retail,Grocery,Lucban - Sampaloc Road,Barangay 7,14.117503333,121.556278333,,open,,,"Libao, Ried Carlo C.",2026-10-05,Rice Store,Yes
+LUC_B07_035,Perie's Bakehouse,Food and Dining,Bakery,Jose Eleazar,Barangay 7,14.117503333,121.555603333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_036,Pecto's Bakery ( Sub-Branch ),Food and Dining,Bakery,Jose Eleazar,Barangay 7,14.117327222,121.555959722,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_037,Jed & Joy Kuya Mack's Fried Chicken,Food and Dining,Fast Food,Lucban - Sampaloc Road,Barangay 7,14.11721,121.556128333,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_038,Royal Canin,Other,Veterinary,Lucban - Sampaloc Road,Barangay 7,14.11697,121.556055476,,open,,,"Libao, Ried Carlo C.",2026-10-05,Veterinary,Yes
+LUC_B07_039,Apostol Petshop and Animal Care,Other,Animal Care,Lucban - Sampaloc Road,Barangay 7,14.116918333,121.556013333,,open,,,"Libao, Ried Carlo C.",2026-10-05,Pet Shop,Yes
+LUC_B07_040,Sheila Mani Store,Retail,Sari-Sari Store,C. Arellano,Barangay 7,14.116888333,121.555598333,,open,,09763856428,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_041,Double B Tent Rental Table and Chairs,Other,Event Services,La Purisima Concepcion,Barangay 7,14.116728333,121.555815,,open,,042-540-4808,"Jabrica, Junell C.",2026-10-05,Event Item Renting,Yes
+LUC_B07_042,House of Longganisa,Retail,Grocery,Lucban - Sampaloc Road,Barangay 7,14.116728333,121.555815,,open,,,"Libao, Ried Carlo C.",2026-10-05,,Yes
+LUC_B07_043,Dejelo WB Electrical and Gen. Merchandise,Retail,Hardware Store,Lucban - Sampaloc Road,Barangay 7,14.116611667,121.555805,,open,,,"Jabrica, Junell C.",2026-10-05,Electronic Components Store,Yes
+LUC_B07_044,Rider Ace,Automotive,Parts Shop,A. Dela Cruz,Barangay 7,14.11653,121.555503333,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_045,1910 Store,Retail,Sari-Sari Store,A. Dela Cruz,Barangay 7,14.11653,121.555503333,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_046,Rosa Gems Boutique,Personal Services,Boutiques,A. Dela Cruz,Barangay 7,14.11653,121.555503333,,open,,,"Libao, Ried Carlo C.",2026-10-05,Boutiques,Yes
+LUC_B07_047,Happy Eight Minihardware,Retail,Hardware Store,La Purisima Concepcion,Barangay 7,14.116520175,121.555388684,,open,,,"Jabrica, Junell C.",2026-10-05,hardware,Yes
+LUC_B07_048,Nantes-Type Hall Bahay Pamahalaan Brgy. 7,Government,Barangay Office,A. Dela Cruz,Barangay 7,14.116593333,121.555286667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_049,Barangay 7 CDC,Professional Sevices,CDC,A. Dela Cruz,Barangay 7,14.116593333,121.555286667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_050,And-J Lights & Sounds,Professional Sevices,Studio,A. Mabini Street,Barangay 7,14.116892619,121.55515881,,open,,,"Cantos, Charlyne P.",2026-10-05,Music Renting,Yes
+LUC_B07_051,Margie Store,Retail,Sari-Sari Store,A. Dela Cruz,Barangay 7,14.11676,121.554996667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_052,Yna's Store,Retail,Sari-Sari Store,A. Mabini Street,Barangay 7,14.11645,121.554926667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_053,Manokang Express,Retail,Grocery,D. Aguilar,Barangay 7,14.11639,121.555163333,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_054,Eureka David Resto & Catering,Personal Services,Catering Service,D. Aguilar,Barangay 7,14.1164,121.555116667,,open,,09089134043,"Cantos, Charlyne P.",2026-10-05,catering Service,Yes
+LUC_B07_055,Abuso Dental Clinic,Health,Dental Clinic,D. Aguilar,Barangay 7,14.116287778,121.555285833,,open,,09255041469,"Inoc, Dyan Michelle N.",2026-10-05,Dentist,Yes
+LUC_B07_056,TON TON HARDWARE,Retail,Hardware Store,Lucban - Sampaloc Road,Barangay 7,14.116205,121.555566667,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,Hardware Store,Yes
+LUC_B07_057,J.R. SALVADOR Real Estate Broker And Appraiser,Professional Sevices,Office,Lucban - Sampaloc Road,Barangay 7,14.116412778,121.555714167,,open,,09692884966,"Cantos, Charlyne P.",2026-10-05,Title Transfer and Real Estate,Yes
+LUC_B07_058,Salvador Optical Clinic,Health,Optometrist,Lucban - Sampaloc Road,Barangay 7,14.116465,121.555713333,,open,9:00AM-6:00PM,09812877104,"Cantos, Charlyne P.",2026-10-05,Eye Clinic,Yes
+LUC_B07_059,Philippines Charity Sweepstakes Office Lotto,Personal Services,Lottos,Lucban - Sampaloc Road,Barangay 7,14.116303333,121.555716667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_060,Mariel Machineries Inc.,Automotive,Dealership,Lucban - Sampaloc Road,Barangay 7,14.116263333,121.555642143,,open,,09626695520,"Inoc, Dyan Michelle N.",2026-10-05,dealership,Yes
+LUC_B07_061,Krea Home Appliances,Retail,Home Appliance Store,Katipunan,Barangay 7,14.116153333,121.55501,,open,,09073447508,"Cantos, Charlyne P.",2026-10-05,Home Appliances,Yes
+LUC_B07_062,"Power Option Solar, Electrical & Electronics Services",Retail,Electronics,Katipunan,Barangay 7,14.116178333,121.555155,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,Electrical Supplies,Yes
+LUC_B07_063,Bubble.Buddies Laundry Shop,Personal Services,Laundry,Katipunan,Barangay 7,14.116185,121.555021667,,open,,09635134888,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_064,Oblejia Ministore,Retail,Sari-Sari Store,A. Mabini Street,Barangay 7,14.116383333,121.554916667,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B07_065,Crisfritz Store,Retail,Sari-Sari Store,Katipunan,Barangay 7,14.11624,121.554853056,Corner of the street,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B07_066,Nania's Kitchen,Food and Dining,Eatery,Katipunan,Barangay 7,14.116276667,121.554743333,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B07_067,La Barrida's Pizzaria,Food and Dining,Restaurant,Lucban - Sampaloc Road,Barangay 7,14.115936667,121.555475,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B07_068,Fleur De Ray,Personal Services,Flower Shop,Lucban - Sampaloc Road,Barangay 7,14.115808333,121.555461667,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,boutiwue,Yes
+LUC_B07_069,Tukang's Catering Service,Professional Sevices,Catering Service,Lucban - Sampaloc Road,Barangay 7,14.115716667,121.555393333,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B07_070,Brooks Sole X Lazy Dude,Retail,Clothing,Plaridel,Barangay 7,14.115688333,121.555316667,,open,,,"Cantos, Charlyne P.",2026-10-05,Shoe Store,Yes
+LUC_B07_071,Lucban Builders Multi-Purpose Cooperative,Professional Sevices,Building Materials Store,Plaridel,Barangay 7,14.115688333,121.555316667,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B07_072,Roiger Snapshot Photograpy,Personal Services,Photography,A. Mabini Street,Barangay 7,14.116013333,121.554731667,,open,,,"Libao, Ried Carlo C.",2026-10-05,Photography,Yes
+LUC_B07_073,Belle & Glam Aesthetic Hair Salon,Personal Services,Salon,A. Mabini Street,Barangay 7,14.116073333,121.554751667,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B07_074,Spud Dad,Food and Dining,Fast Food,A. Mabini Street,Barangay 7,14.116073333,121.554751667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_075,Zeyzey Store,Retail,Sari-Sari Store,A. Mabini Street,Barangay 7,14.116073333,121.554751667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_076,Fried Chicken To Go,Food and Dining,Fast Food,A. Mabini Street,Barangay 7,14.116148333,121.554758333,,close,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B07_077,Sarah's Touch,Personal Services,Salon,A. Mabini Street,Barangay 7,14.116095,121.554829722,,open,,09994468475,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B07_078,VJ Store,Retail,Sari-Sari Store,A. Mabini Street,Barangay 7,14.115641667,121.554556667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_079,Bajong Ihawan,Food and Dining,Eatery,A. Mabini Street,Barangay 7,14.115756667,121.554661667,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B07_080,Daily Laundry,Personal Services,Laundry,A. Mabini Street,Barangay 7,14.115795,121.554698333,,open,7:00AM - 6:00PM,09126368885,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B07_081,SJ TENZEL Hardware and Construction Supply,Retail,Hardware Store,A. Mabini Street,Barangay 7,14.115751667,121.554628333,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_082,Batangas Lomi House,Food and Dining,Eatery,A. Mabini Street,Barangay 7,14.115836667,121.554681667,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_083,Shawarma Shack,Food and Dining,Fast Food,A. Mabini Street,Barangay 7,14.115866667,121.554675,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B07_084,Bernaldez Law Office,Professional Sevices,Notary Public,A. Mabini Street,Barangay 7,14.115905,121.554733333,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,Notary Public,Yes
+LUC_B07_086,Patrick & Anthony's Bakery,Food and Dining,Bakery,A. Mabini Street,Barangay 7,14.115905,121.554733333,,open,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_086,Motorcentral,Automotive,Dealership,Lucban - Sampaloc Road,Barangay 7,14.115435,121.55522,,open,,,"Jabrica, Junell C.",2026-10-05,Dealership,Yes
+LUC_B07_087,Marnette Laundry Shop,Personal Services,Laundry,Lopez Jaena,Barangay 7,14.115561667,121.554845,,close,,09087104931,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_088,SJ TENZEL Hardware & Construction Supply,Retail,Building Materials Store,Lopez Jaena,Barangay 7,14.11563,121.554776667,,open,,,"Cantos, Charlyne P.",2026-10-05,,Yes
+LUC_B07_089,Freyaj & Marga,Retail,Clothing,A. Mabini Street,Barangay 7,14.115638333,121.554708333,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
+LUC_B07_090,Rose's Arts & Crafts,Personal Services,Arts & Crafts,A. Mabini Street,Barangay 7,14.11562,121.554625,,close,,,"Jabrica, Junell C.",2026-10-05,,Yes
+LUC_B07_091,Ligon Store,Retail,Sari-Sari Store,La Purisima Concepcion,Barangay 7,14.115273333,121.554613333,,open,,,"Inoc, Dyan Michelle N.",2026-10-05,,Yes
