@@ -1,0 +1,1515 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_84d87835472c9c16faf72583bdf53f45 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.css"/>
+    <script src="https://cdn.jsdelivr.net/gh/ljagis/leaflet-measure@2.1.7/dist/leaflet-measure.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ljagis/leaflet-measure@2.1.7/dist/leaflet-measure.min.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_84d87835472c9c16faf72583bdf53f45" ></div>
+        
+    
+<div style="position: fixed; top: 10px; left: 60px; z-index: 9999; background-color: #ffffff; color: #222222; padding: 10px 12px; border: 2px solid #333333; border-radius: 6px; max-width: 380px; font-family: Arial, sans-serif; font-size: 12px; line-height: 1.35;">
+  <h3 style="margin: 0 0 6px 0; font-size: 15px;">Fictional Cultural-Site Visitor Map</h3>
+  <p style="margin: 0 0 4px 0;"><b>Purpose:</b> Help visitors explore fictional cultural sites.</p>
+  <p style="margin: 0 0 4px 0;"><b>Source:</b> Synthetic records prepared for CPE15 Activity 13.</p>
+  <p style="margin: 0 0 4px 0;"><b>Scope:</b> 24 synthetic sites in a small fictional area; categories are Architecture, Craft, Archive, Landscape, Performance, and Cuisine.</p>
+  <p style="margin: 0 0 4px 0;"><b>Markers:</b> 24</p>
+  <p style="margin: 0;"><b>Caveat:</b> Records are fictional. This map is not navigation-authoritative; verify real locations and hours before travelling.</p>
+</div>
+</body>
+<script>
+    
+    
+            var map_84d87835472c9c16faf72583bdf53f45 = L.map(
+                "map_84d87835472c9c16faf72583bdf53f45",
+                {
+                    center: [13.937299999999999, 121.62175],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_d03c4a06c167f8afc9f67e6791f4190f = L.tileLayer(
+                "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+                {
+  "minZoom": 0,
+  "maxZoom": 16,
+  "maxNativeZoom": 16,
+  "noWrap": false,
+  "attribution": "Tiles \u00a9 Esri",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_d03c4a06c167f8afc9f67e6791f4190f.addTo(map_84d87835472c9c16faf72583bdf53f45);
+        
+    
+            var tile_layer_1c87ffa1fab1722289b2022533742a50 = L.tileLayer(
+                "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+                {
+  "minZoom": 0,
+  "maxZoom": 18,
+  "maxNativeZoom": 18,
+  "noWrap": false,
+  "attribution": "Tiles \u00a9 Esri, Maxar, Earthstar Geographics",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_1c87ffa1fab1722289b2022533742a50.addTo(map_84d87835472c9c16faf72583bdf53f45);
+        
+    
+            var feature_group_0aba9c033d4a15daa1637aabee610ef4 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var marker_721dfccd56df1dde8deab7b6a7308199 = L.marker(
+                [13.9338, 121.6165],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_b6af6ff8cf39e65108002ec3c0a31ac7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_34dbbd7ae352a0f4868cb3730e493304 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_bf61beeb0202286fa8d104f928f49430 = $(`<div id="html_bf61beeb0202286fa8d104f928f49430" style="width: 100.0%; height: 100.0%;"><b>Architecture Heritage Site 1</b><br>Site ID: CS01<br>Category: Architecture<br>Hours: By schedule<br>Synthetic visitor information for architecture, with local context.</div>`)[0];
+                popup_34dbbd7ae352a0f4868cb3730e493304.setContent(html_bf61beeb0202286fa8d104f928f49430);
+            
+        
+
+        marker_721dfccd56df1dde8deab7b6a7308199.bindPopup(popup_34dbbd7ae352a0f4868cb3730e493304)
+        ;
+
+        
+    
+    
+            marker_721dfccd56df1dde8deab7b6a7308199.bindTooltip(
+                `<div>
+                     Architecture Heritage Site 1 (Architecture)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_721dfccd56df1dde8deab7b6a7308199.setIcon(icon_b6af6ff8cf39e65108002ec3c0a31ac7);
+            
+    
+            var marker_6c6f0c06d0a0aa824f018b911b362b7f = L.marker(
+                [13.9342, 121.6186],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_8f9f44f0c497c56a15f4855b67a59ba3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_66f380833c115f468379e6fc13aaf336 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_fc49e14ff203d4d8414ee417f85bf6dc = $(`<div id="html_fc49e14ff203d4d8414ee417f85bf6dc" style="width: 100.0%; height: 100.0%;"><b>Craft Heritage Site 1</b><br>Site ID: CS02<br>Category: Craft<br>Hours: 08:00–17:00<br>Synthetic visitor information for craft, with local context.</div>`)[0];
+                popup_66f380833c115f468379e6fc13aaf336.setContent(html_fc49e14ff203d4d8414ee417f85bf6dc);
+            
+        
+
+        marker_6c6f0c06d0a0aa824f018b911b362b7f.bindPopup(popup_66f380833c115f468379e6fc13aaf336)
+        ;
+
+        
+    
+    
+            marker_6c6f0c06d0a0aa824f018b911b362b7f.bindTooltip(
+                `<div>
+                     Craft Heritage Site 1 (Craft)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6c6f0c06d0a0aa824f018b911b362b7f.setIcon(icon_8f9f44f0c497c56a15f4855b67a59ba3);
+            
+    
+            var marker_cd73660f0f585858197e4bde9995b2b2 = L.marker(
+                [13.9338, 121.6207],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_0b465675b2e9f6ff81f45cc1e0213796 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_43a94ce5142fa970bf0dd0ec3a31f495 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_04aa9f626a8f91574bd0d7f4a8796f98 = $(`<div id="html_04aa9f626a8f91574bd0d7f4a8796f98" style="width: 100.0%; height: 100.0%;"><b>Archive Heritage Site 1</b><br>Site ID: CS03<br>Category: Archive<br>Hours: 09:00–18:00<br>Synthetic visitor information for archive, with local context.</div>`)[0];
+                popup_43a94ce5142fa970bf0dd0ec3a31f495.setContent(html_04aa9f626a8f91574bd0d7f4a8796f98);
+            
+        
+
+        marker_cd73660f0f585858197e4bde9995b2b2.bindPopup(popup_43a94ce5142fa970bf0dd0ec3a31f495)
+        ;
+
+        
+    
+    
+            marker_cd73660f0f585858197e4bde9995b2b2.bindTooltip(
+                `<div>
+                     Archive Heritage Site 1 (Archive)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_cd73660f0f585858197e4bde9995b2b2.setIcon(icon_0b465675b2e9f6ff81f45cc1e0213796);
+            
+    
+            var marker_892b3aab6d0d76ff87032ea9900a30fb = L.marker(
+                [13.9342, 121.6228],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_45c35d302e3a1512d2dc1df62c763359 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2e93f6b5b38cd2341aa5fcbd7b5beadf = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_477babd340d26294a9269c31b1b78ef4 = $(`<div id="html_477babd340d26294a9269c31b1b78ef4" style="width: 100.0%; height: 100.0%;"><b>Landscape Heritage Site 1</b><br>Site ID: CS04<br>Category: Landscape<br>Hours: 07:00–16:00<br>Synthetic visitor information for landscape, with local context.</div>`)[0];
+                popup_2e93f6b5b38cd2341aa5fcbd7b5beadf.setContent(html_477babd340d26294a9269c31b1b78ef4);
+            
+        
+
+        marker_892b3aab6d0d76ff87032ea9900a30fb.bindPopup(popup_2e93f6b5b38cd2341aa5fcbd7b5beadf)
+        ;
+
+        
+    
+    
+            marker_892b3aab6d0d76ff87032ea9900a30fb.bindTooltip(
+                `<div>
+                     Landscape Heritage Site 1 (Landscape)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_892b3aab6d0d76ff87032ea9900a30fb.setIcon(icon_45c35d302e3a1512d2dc1df62c763359);
+            
+    
+            var marker_b9b78047caaba7e315f28e49cf9a5a32 = L.marker(
+                [13.9338, 121.6249],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_87260ee6905ff56aff41eccf32841434 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e36668fef056a430da1c658c2731c081 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f781fc2e70458cec57ee10b3f0e72851 = $(`<div id="html_f781fc2e70458cec57ee10b3f0e72851" style="width: 100.0%; height: 100.0%;"><b>Performance Heritage Site 1</b><br>Site ID: CS05<br>Category: Performance<br>Hours: 08:00–17:00<br>Synthetic visitor information for performance, with local context.</div>`)[0];
+                popup_e36668fef056a430da1c658c2731c081.setContent(html_f781fc2e70458cec57ee10b3f0e72851);
+            
+        
+
+        marker_b9b78047caaba7e315f28e49cf9a5a32.bindPopup(popup_e36668fef056a430da1c658c2731c081)
+        ;
+
+        
+    
+    
+            marker_b9b78047caaba7e315f28e49cf9a5a32.bindTooltip(
+                `<div>
+                     Performance Heritage Site 1 (Performance)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b9b78047caaba7e315f28e49cf9a5a32.setIcon(icon_87260ee6905ff56aff41eccf32841434);
+            
+    
+            var marker_21210c7274e07a82b1f4e8a5efe7c807 = L.marker(
+                [13.9342, 121.627],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_9aacace65b2f184c3a3e682d8926b947 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "cadetblue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_65aa6d3afe021bad6500b2d71b2e801d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a7bd19ed98c562fa4ac86214f62d2ed6 = $(`<div id="html_a7bd19ed98c562fa4ac86214f62d2ed6" style="width: 100.0%; height: 100.0%;"><b>Cuisine Heritage Site 1</b><br>Site ID: CS06<br>Category: Cuisine<br>Hours: By schedule<br>Synthetic visitor information for cuisine, with local context.</div>`)[0];
+                popup_65aa6d3afe021bad6500b2d71b2e801d.setContent(html_a7bd19ed98c562fa4ac86214f62d2ed6);
+            
+        
+
+        marker_21210c7274e07a82b1f4e8a5efe7c807.bindPopup(popup_65aa6d3afe021bad6500b2d71b2e801d)
+        ;
+
+        
+    
+    
+            marker_21210c7274e07a82b1f4e8a5efe7c807.bindTooltip(
+                `<div>
+                     Cuisine Heritage Site 1 (Cuisine)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_21210c7274e07a82b1f4e8a5efe7c807.setIcon(icon_9aacace65b2f184c3a3e682d8926b947);
+            
+    
+            var marker_18ae4d97985be8e59b06842d3440b186 = L.marker(
+                [13.936, 121.6165],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_42f53cff140e3ce3ba08fed4cfe1bfb7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2e0fcec7d2695ed95a435fdd0d2b7b78 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_807b9d3b07c4f340dbcf5a7bbdc41bde = $(`<div id="html_807b9d3b07c4f340dbcf5a7bbdc41bde" style="width: 100.0%; height: 100.0%;"><b>Architecture Heritage Site 2</b><br>Site ID: CS07<br>Category: Architecture<br>Hours: 07:00–16:00<br>Synthetic visitor information for architecture, with local context.</div>`)[0];
+                popup_2e0fcec7d2695ed95a435fdd0d2b7b78.setContent(html_807b9d3b07c4f340dbcf5a7bbdc41bde);
+            
+        
+
+        marker_18ae4d97985be8e59b06842d3440b186.bindPopup(popup_2e0fcec7d2695ed95a435fdd0d2b7b78)
+        ;
+
+        
+    
+    
+            marker_18ae4d97985be8e59b06842d3440b186.bindTooltip(
+                `<div>
+                     Architecture Heritage Site 2 (Architecture)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_18ae4d97985be8e59b06842d3440b186.setIcon(icon_42f53cff140e3ce3ba08fed4cfe1bfb7);
+            
+    
+            var marker_787091ec08abf1512f729753e2c59dd8 = L.marker(
+                [13.9364, 121.6186],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_e07fdcbf46794eae980ae6b03a041395 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1cf38434386f8e7505e7b58c244d916a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b8c72fd555454ad7148c0e4b67d3b68a = $(`<div id="html_b8c72fd555454ad7148c0e4b67d3b68a" style="width: 100.0%; height: 100.0%;"><b>Craft Heritage Site 2</b><br>Site ID: CS08<br>Category: Craft<br>Hours: 08:00–17:00<br>Synthetic visitor information for craft, with local context.</div>`)[0];
+                popup_1cf38434386f8e7505e7b58c244d916a.setContent(html_b8c72fd555454ad7148c0e4b67d3b68a);
+            
+        
+
+        marker_787091ec08abf1512f729753e2c59dd8.bindPopup(popup_1cf38434386f8e7505e7b58c244d916a)
+        ;
+
+        
+    
+    
+            marker_787091ec08abf1512f729753e2c59dd8.bindTooltip(
+                `<div>
+                     Craft Heritage Site 2 (Craft)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_787091ec08abf1512f729753e2c59dd8.setIcon(icon_e07fdcbf46794eae980ae6b03a041395);
+            
+    
+            var marker_aca8efa704d690405134a7ba54fc33ee = L.marker(
+                [13.936, 121.6207],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_f6a7a782a05d8054eb9e7392c07303e6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4c426c5f5ae5ba381617747ec4a7aa74 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d524459d195c33f805969387a8b0caa4 = $(`<div id="html_d524459d195c33f805969387a8b0caa4" style="width: 100.0%; height: 100.0%;"><b>Archive Heritage Site 2</b><br>Site ID: CS09<br>Category: Archive<br>Hours: 09:00–18:00<br>Synthetic visitor information for archive, with local context.</div>`)[0];
+                popup_4c426c5f5ae5ba381617747ec4a7aa74.setContent(html_d524459d195c33f805969387a8b0caa4);
+            
+        
+
+        marker_aca8efa704d690405134a7ba54fc33ee.bindPopup(popup_4c426c5f5ae5ba381617747ec4a7aa74)
+        ;
+
+        
+    
+    
+            marker_aca8efa704d690405134a7ba54fc33ee.bindTooltip(
+                `<div>
+                     Archive Heritage Site 2 (Archive)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_aca8efa704d690405134a7ba54fc33ee.setIcon(icon_f6a7a782a05d8054eb9e7392c07303e6);
+            
+    
+            var marker_a5b0df10f09811ab6c9a4d082c91a01b = L.marker(
+                [13.9364, 121.6228],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_71f2a752813708c007810f20e379e3da = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b7e3284ad4b386b5c5a099e192b098f9 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0f0c1afb5201b568e212e03be9fabaef = $(`<div id="html_0f0c1afb5201b568e212e03be9fabaef" style="width: 100.0%; height: 100.0%;"><b>Landscape Heritage Site 2</b><br>Site ID: CS10<br>Category: Landscape<br>Hours: 07:00–16:00<br>Synthetic visitor information for landscape, with local context.</div>`)[0];
+                popup_b7e3284ad4b386b5c5a099e192b098f9.setContent(html_0f0c1afb5201b568e212e03be9fabaef);
+            
+        
+
+        marker_a5b0df10f09811ab6c9a4d082c91a01b.bindPopup(popup_b7e3284ad4b386b5c5a099e192b098f9)
+        ;
+
+        
+    
+    
+            marker_a5b0df10f09811ab6c9a4d082c91a01b.bindTooltip(
+                `<div>
+                     Landscape Heritage Site 2 (Landscape)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a5b0df10f09811ab6c9a4d082c91a01b.setIcon(icon_71f2a752813708c007810f20e379e3da);
+            
+    
+            var marker_056f924fbeddf85699cede6a6a67a7ee = L.marker(
+                [13.936, 121.6249],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_c8c39ab04a51b61329e2a0816ca22cf8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f570f9fd8cc683cb190c05c61bd13507 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2e60d7a27c9b2acf8d550844aa60f220 = $(`<div id="html_2e60d7a27c9b2acf8d550844aa60f220" style="width: 100.0%; height: 100.0%;"><b>Performance Heritage Site 2</b><br>Site ID: CS11<br>Category: Performance<br>Hours: By schedule<br>Synthetic visitor information for performance, with local context.</div>`)[0];
+                popup_f570f9fd8cc683cb190c05c61bd13507.setContent(html_2e60d7a27c9b2acf8d550844aa60f220);
+            
+        
+
+        marker_056f924fbeddf85699cede6a6a67a7ee.bindPopup(popup_f570f9fd8cc683cb190c05c61bd13507)
+        ;
+
+        
+    
+    
+            marker_056f924fbeddf85699cede6a6a67a7ee.bindTooltip(
+                `<div>
+                     Performance Heritage Site 2 (Performance)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_056f924fbeddf85699cede6a6a67a7ee.setIcon(icon_c8c39ab04a51b61329e2a0816ca22cf8);
+            
+    
+            var marker_2168875dbaa9c1f02d28488ad19ff2c6 = L.marker(
+                [13.9364, 121.627],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_62131545f4fb1b4397a96e5a67ffc93f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "cadetblue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c4fadaed7e2fa244617ab18923d0d96b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_e0af651d0d15e24c7670869c37b216bf = $(`<div id="html_e0af651d0d15e24c7670869c37b216bf" style="width: 100.0%; height: 100.0%;"><b>Cuisine Heritage Site 2</b><br>Site ID: CS12<br>Category: Cuisine<br>Hours: 09:00–18:00<br>Synthetic visitor information for cuisine, with local context.</div>`)[0];
+                popup_c4fadaed7e2fa244617ab18923d0d96b.setContent(html_e0af651d0d15e24c7670869c37b216bf);
+            
+        
+
+        marker_2168875dbaa9c1f02d28488ad19ff2c6.bindPopup(popup_c4fadaed7e2fa244617ab18923d0d96b)
+        ;
+
+        
+    
+    
+            marker_2168875dbaa9c1f02d28488ad19ff2c6.bindTooltip(
+                `<div>
+                     Cuisine Heritage Site 2 (Cuisine)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2168875dbaa9c1f02d28488ad19ff2c6.setIcon(icon_62131545f4fb1b4397a96e5a67ffc93f);
+            
+    
+            var marker_73230071a85faf54102fff7f6a6a7fe5 = L.marker(
+                [13.9382, 121.6165],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_6c24af3e143b39fa11ba8b466aa79722 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e85e87ec3faf791f053172c538dbc0a7 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_adbb2a4abacf05a328383fb925f17fef = $(`<div id="html_adbb2a4abacf05a328383fb925f17fef" style="width: 100.0%; height: 100.0%;"><b>Architecture Heritage Site 3</b><br>Site ID: CS13<br>Category: Architecture<br>Hours: 07:00–16:00<br>Synthetic visitor information for architecture, with local context.</div>`)[0];
+                popup_e85e87ec3faf791f053172c538dbc0a7.setContent(html_adbb2a4abacf05a328383fb925f17fef);
+            
+        
+
+        marker_73230071a85faf54102fff7f6a6a7fe5.bindPopup(popup_e85e87ec3faf791f053172c538dbc0a7)
+        ;
+
+        
+    
+    
+            marker_73230071a85faf54102fff7f6a6a7fe5.bindTooltip(
+                `<div>
+                     Architecture Heritage Site 3 (Architecture)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_73230071a85faf54102fff7f6a6a7fe5.setIcon(icon_6c24af3e143b39fa11ba8b466aa79722);
+            
+    
+            var marker_f66295c36b6901f7c8d12b131d187656 = L.marker(
+                [13.9386, 121.6186],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_4e2c17fdccabf531edcf338a9f974a83 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_004350940410f70e8e4eba5482514cc1 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2ed00e1134261392e4bba5395e18cd86 = $(`<div id="html_2ed00e1134261392e4bba5395e18cd86" style="width: 100.0%; height: 100.0%;"><b>Craft Heritage Site 3</b><br>Site ID: CS14<br>Category: Craft<br>Hours: 08:00–17:00<br>Synthetic visitor information for craft, with local context.</div>`)[0];
+                popup_004350940410f70e8e4eba5482514cc1.setContent(html_2ed00e1134261392e4bba5395e18cd86);
+            
+        
+
+        marker_f66295c36b6901f7c8d12b131d187656.bindPopup(popup_004350940410f70e8e4eba5482514cc1)
+        ;
+
+        
+    
+    
+            marker_f66295c36b6901f7c8d12b131d187656.bindTooltip(
+                `<div>
+                     Craft Heritage Site 3 (Craft)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f66295c36b6901f7c8d12b131d187656.setIcon(icon_4e2c17fdccabf531edcf338a9f974a83);
+            
+    
+            var marker_e244ba7b73c5bebeccb787035b08689a = L.marker(
+                [13.9382, 121.6207],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_5ec8de6221ca2936e97c5e529e5ad48c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f349c546d93976122019001631e06f5b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5cd517e71030f265b4e2d0b2ec07cd4f = $(`<div id="html_5cd517e71030f265b4e2d0b2ec07cd4f" style="width: 100.0%; height: 100.0%;"><b>Archive Heritage Site 3</b><br>Site ID: CS15<br>Category: Archive<br>Hours: 09:00–18:00<br>Synthetic visitor information for archive, with local context.</div>`)[0];
+                popup_f349c546d93976122019001631e06f5b.setContent(html_5cd517e71030f265b4e2d0b2ec07cd4f);
+            
+        
+
+        marker_e244ba7b73c5bebeccb787035b08689a.bindPopup(popup_f349c546d93976122019001631e06f5b)
+        ;
+
+        
+    
+    
+            marker_e244ba7b73c5bebeccb787035b08689a.bindTooltip(
+                `<div>
+                     Archive Heritage Site 3 (Archive)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e244ba7b73c5bebeccb787035b08689a.setIcon(icon_5ec8de6221ca2936e97c5e529e5ad48c);
+            
+    
+            var marker_7a8854e86e70f259c6d92098966b4df0 = L.marker(
+                [13.9386, 121.6228],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_d8cd6ecff45c0e32bf8035f0cbdc5c90 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d42a045a1f6ccaa8ac5ad30d9190620e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_3705117b37978699e7165f9e565c6f84 = $(`<div id="html_3705117b37978699e7165f9e565c6f84" style="width: 100.0%; height: 100.0%;"><b>Landscape Heritage Site 3</b><br>Site ID: CS16<br>Category: Landscape<br>Hours: By schedule<br>Synthetic visitor information for landscape, with local context.</div>`)[0];
+                popup_d42a045a1f6ccaa8ac5ad30d9190620e.setContent(html_3705117b37978699e7165f9e565c6f84);
+            
+        
+
+        marker_7a8854e86e70f259c6d92098966b4df0.bindPopup(popup_d42a045a1f6ccaa8ac5ad30d9190620e)
+        ;
+
+        
+    
+    
+            marker_7a8854e86e70f259c6d92098966b4df0.bindTooltip(
+                `<div>
+                     Landscape Heritage Site 3 (Landscape)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7a8854e86e70f259c6d92098966b4df0.setIcon(icon_d8cd6ecff45c0e32bf8035f0cbdc5c90);
+            
+    
+            var marker_5f25dd3a39cf5c6840e4994f6b515b20 = L.marker(
+                [13.9382, 121.6249],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_f82631d84e9f45322fc3fa375ac8e97e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5805aaa43d872af103f1a186b97c449d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_13a929a0d3a82ad478ae89e389d8b883 = $(`<div id="html_13a929a0d3a82ad478ae89e389d8b883" style="width: 100.0%; height: 100.0%;"><b>Performance Heritage Site 3</b><br>Site ID: CS17<br>Category: Performance<br>Hours: 08:00–17:00<br>Synthetic visitor information for performance, with local context.</div>`)[0];
+                popup_5805aaa43d872af103f1a186b97c449d.setContent(html_13a929a0d3a82ad478ae89e389d8b883);
+            
+        
+
+        marker_5f25dd3a39cf5c6840e4994f6b515b20.bindPopup(popup_5805aaa43d872af103f1a186b97c449d)
+        ;
+
+        
+    
+    
+            marker_5f25dd3a39cf5c6840e4994f6b515b20.bindTooltip(
+                `<div>
+                     Performance Heritage Site 3 (Performance)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5f25dd3a39cf5c6840e4994f6b515b20.setIcon(icon_f82631d84e9f45322fc3fa375ac8e97e);
+            
+    
+            var marker_4b816b991fc8c5c016c577be12474256 = L.marker(
+                [13.9386, 121.627],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_e72e31a002d67e04990278391678c2e9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "cadetblue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b7d0f372ea28d53d65b0ac62b6b6f738 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ffa01cbb06efda0b8e126e1ed5f4cba1 = $(`<div id="html_ffa01cbb06efda0b8e126e1ed5f4cba1" style="width: 100.0%; height: 100.0%;"><b>Cuisine Heritage Site 3</b><br>Site ID: CS18<br>Category: Cuisine<br>Hours: 09:00–18:00<br>Synthetic visitor information for cuisine, with local context.</div>`)[0];
+                popup_b7d0f372ea28d53d65b0ac62b6b6f738.setContent(html_ffa01cbb06efda0b8e126e1ed5f4cba1);
+            
+        
+
+        marker_4b816b991fc8c5c016c577be12474256.bindPopup(popup_b7d0f372ea28d53d65b0ac62b6b6f738)
+        ;
+
+        
+    
+    
+            marker_4b816b991fc8c5c016c577be12474256.bindTooltip(
+                `<div>
+                     Cuisine Heritage Site 3 (Cuisine)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_4b816b991fc8c5c016c577be12474256.setIcon(icon_e72e31a002d67e04990278391678c2e9);
+            
+    
+            var marker_a45002b0819c94f1cc5a8d65c31326ba = L.marker(
+                [13.9404, 121.6165],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_8e1e65aede3e17a85895ed6ad1ff6115 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1fd7f5e988627d56621a058043825611 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ed5d2d179f431020af60e3f896b597ad = $(`<div id="html_ed5d2d179f431020af60e3f896b597ad" style="width: 100.0%; height: 100.0%;"><b>Architecture Heritage Site 4</b><br>Site ID: CS19<br>Category: Architecture<br>Hours: 07:00–16:00<br>Synthetic visitor information for architecture, with local context.</div>`)[0];
+                popup_1fd7f5e988627d56621a058043825611.setContent(html_ed5d2d179f431020af60e3f896b597ad);
+            
+        
+
+        marker_a45002b0819c94f1cc5a8d65c31326ba.bindPopup(popup_1fd7f5e988627d56621a058043825611)
+        ;
+
+        
+    
+    
+            marker_a45002b0819c94f1cc5a8d65c31326ba.bindTooltip(
+                `<div>
+                     Architecture Heritage Site 4 (Architecture)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a45002b0819c94f1cc5a8d65c31326ba.setIcon(icon_8e1e65aede3e17a85895ed6ad1ff6115);
+            
+    
+            var marker_9ab68ec6939535b610e5d9bc1ae62998 = L.marker(
+                [13.9408, 121.6186],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_b2546fb8673b9cd8cd87df1a810b0099 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_286f80e0d91c20eb42385498ddfa387c = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ef496ed3024e32a22e10eeae05d8deb1 = $(`<div id="html_ef496ed3024e32a22e10eeae05d8deb1" style="width: 100.0%; height: 100.0%;"><b>Craft Heritage Site 4</b><br>Site ID: CS20<br>Category: Craft<br>Hours: 08:00–17:00<br>Synthetic visitor information for craft, with local context.</div>`)[0];
+                popup_286f80e0d91c20eb42385498ddfa387c.setContent(html_ef496ed3024e32a22e10eeae05d8deb1);
+            
+        
+
+        marker_9ab68ec6939535b610e5d9bc1ae62998.bindPopup(popup_286f80e0d91c20eb42385498ddfa387c)
+        ;
+
+        
+    
+    
+            marker_9ab68ec6939535b610e5d9bc1ae62998.bindTooltip(
+                `<div>
+                     Craft Heritage Site 4 (Craft)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_9ab68ec6939535b610e5d9bc1ae62998.setIcon(icon_b2546fb8673b9cd8cd87df1a810b0099);
+            
+    
+            var marker_a9d7371f9bcf88fef7995475dba59810 = L.marker(
+                [13.9404, 121.6207],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_85da7bdc1104f2db5a6f457b8146c902 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5b13493d72fd034376cf423b8596ceec = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_181322a1c45a32547abc6fc1776e390a = $(`<div id="html_181322a1c45a32547abc6fc1776e390a" style="width: 100.0%; height: 100.0%;"><b>Archive Heritage Site 4</b><br>Site ID: CS21<br>Category: Archive<br>Hours: By schedule<br>Synthetic visitor information for archive, with local context.</div>`)[0];
+                popup_5b13493d72fd034376cf423b8596ceec.setContent(html_181322a1c45a32547abc6fc1776e390a);
+            
+        
+
+        marker_a9d7371f9bcf88fef7995475dba59810.bindPopup(popup_5b13493d72fd034376cf423b8596ceec)
+        ;
+
+        
+    
+    
+            marker_a9d7371f9bcf88fef7995475dba59810.bindTooltip(
+                `<div>
+                     Archive Heritage Site 4 (Archive)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a9d7371f9bcf88fef7995475dba59810.setIcon(icon_85da7bdc1104f2db5a6f457b8146c902);
+            
+    
+            var marker_86e3cbd988cdbe284d7ed16d0c80e659 = L.marker(
+                [13.9408, 121.6228],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_bf4333d511b1594f35e8a6ef04e48292 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0dce9406b22cc81d4751cc2e154d7f05 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4e3110c323763f6d1578049db99917e0 = $(`<div id="html_4e3110c323763f6d1578049db99917e0" style="width: 100.0%; height: 100.0%;"><b>Landscape Heritage Site 4</b><br>Site ID: CS22<br>Category: Landscape<br>Hours: 07:00–16:00<br>Synthetic visitor information for landscape, with local context.</div>`)[0];
+                popup_0dce9406b22cc81d4751cc2e154d7f05.setContent(html_4e3110c323763f6d1578049db99917e0);
+            
+        
+
+        marker_86e3cbd988cdbe284d7ed16d0c80e659.bindPopup(popup_0dce9406b22cc81d4751cc2e154d7f05)
+        ;
+
+        
+    
+    
+            marker_86e3cbd988cdbe284d7ed16d0c80e659.bindTooltip(
+                `<div>
+                     Landscape Heritage Site 4 (Landscape)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_86e3cbd988cdbe284d7ed16d0c80e659.setIcon(icon_bf4333d511b1594f35e8a6ef04e48292);
+            
+    
+            var marker_bcf74e11bcaa26384b779e4b16396316 = L.marker(
+                [13.9404, 121.6249],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_8a4d378ca1d7b12d69166ae417ded416 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f31b0831d706d2d7b016731c1fd9d806 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_461ca22c45ed0f32b84cc8dee9aa581e = $(`<div id="html_461ca22c45ed0f32b84cc8dee9aa581e" style="width: 100.0%; height: 100.0%;"><b>Performance Heritage Site 4</b><br>Site ID: CS23<br>Category: Performance<br>Hours: 08:00–17:00<br>Synthetic visitor information for performance, with local context.</div>`)[0];
+                popup_f31b0831d706d2d7b016731c1fd9d806.setContent(html_461ca22c45ed0f32b84cc8dee9aa581e);
+            
+        
+
+        marker_bcf74e11bcaa26384b779e4b16396316.bindPopup(popup_f31b0831d706d2d7b016731c1fd9d806)
+        ;
+
+        
+    
+    
+            marker_bcf74e11bcaa26384b779e4b16396316.bindTooltip(
+                `<div>
+                     Performance Heritage Site 4 (Performance)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_bcf74e11bcaa26384b779e4b16396316.setIcon(icon_8a4d378ca1d7b12d69166ae417ded416);
+            
+    
+            var marker_ffb7abbf21670c6682129155bc3f118c = L.marker(
+                [13.9408, 121.627],
+                {
+}
+            ).addTo(feature_group_0aba9c033d4a15daa1637aabee610ef4);
+        
+    
+            var icon_7b7c092c1aaa3b34e3b2be3e0b9eb24a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "cadetblue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_561f6d65156b6b9781373c773d8aeb17 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_069bd58454122ca13c2862793b6c62a4 = $(`<div id="html_069bd58454122ca13c2862793b6c62a4" style="width: 100.0%; height: 100.0%;"><b>Cuisine Heritage Site 4</b><br>Site ID: CS24<br>Category: Cuisine<br>Hours: 09:00–18:00<br>Synthetic visitor information for cuisine, with local context.</div>`)[0];
+                popup_561f6d65156b6b9781373c773d8aeb17.setContent(html_069bd58454122ca13c2862793b6c62a4);
+            
+        
+
+        marker_ffb7abbf21670c6682129155bc3f118c.bindPopup(popup_561f6d65156b6b9781373c773d8aeb17)
+        ;
+
+        
+    
+    
+            marker_ffb7abbf21670c6682129155bc3f118c.bindTooltip(
+                `<div>
+                     Cuisine Heritage Site 4 (Cuisine)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ffb7abbf21670c6682129155bc3f118c.setIcon(icon_7b7c092c1aaa3b34e3b2be3e0b9eb24a);
+            
+    
+            feature_group_0aba9c033d4a15daa1637aabee610ef4.addTo(map_84d87835472c9c16faf72583bdf53f45);
+        
+    
+            L.control.fullscreen(
+                {
+  "position": "topright",
+  "title": "Full Screen",
+  "titleCancel": "Exit Full Screen",
+  "forceSeparateButton": false,
+}
+            ).addTo(map_84d87835472c9c16faf72583bdf53f45);
+        
+    
+            var measure_control_a1325ea6f56a8daeae7a2f113bf77cce = new L.Control.Measure(
+                {
+  "position": "bottomleft",
+  "primaryLengthUnit": "meters",
+  "secondaryLengthUnit": "miles",
+  "primaryAreaUnit": "sqmeters",
+  "secondaryAreaUnit": "acres",
+});
+            map_84d87835472c9c16faf72583bdf53f45.addControl(measure_control_a1325ea6f56a8daeae7a2f113bf77cce);
+
+            // Workaround for using this plugin with Leaflet>=1.8.0
+            // https://github.com/ljagis/leaflet-measure/issues/171
+            L.Control.Measure.include({
+                _setCaptureMarkerIcon: function () {
+                    // disable autopan
+                    this._captureMarker.options.autoPanOnFocus = false;
+                    // default function
+                    this._captureMarker.setIcon(
+                        L.divIcon({
+                            iconSize: this._map.getSize().multiplyBy(2)
+                        })
+                    );
+                },
+            });
+
+        
+    
+            var layer_control_6848cabb32630d38fe330fa0ff431945_layers = {
+                base_layers : {
+                    "Light gray reference map" : tile_layer_d03c4a06c167f8afc9f67e6791f4190f,
+                    "Satellite imagery" : tile_layer_1c87ffa1fab1722289b2022533742a50,
+                },
+                overlays :  {
+                    "Cultural sites" : feature_group_0aba9c033d4a15daa1637aabee610ef4,
+                },
+            };
+            let layer_control_6848cabb32630d38fe330fa0ff431945 = L.control.layers(
+                layer_control_6848cabb32630d38fe330fa0ff431945_layers.base_layers,
+                layer_control_6848cabb32630d38fe330fa0ff431945_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": false,
+  "autoZIndex": true,
+}
+            ).addTo(map_84d87835472c9c16faf72583bdf53f45);
+
+        
+    
+            tile_layer_d03c4a06c167f8afc9f67e6791f4190f.addTo(map_84d87835472c9c16faf72583bdf53f45);
+        
+    
+            tile_layer_1c87ffa1fab1722289b2022533742a50.addTo(map_84d87835472c9c16faf72583bdf53f45);
+        
+    
+                marker_721dfccd56df1dde8deab7b6a7308199.setIcon(icon_b6af6ff8cf39e65108002ec3c0a31ac7);
+            
+    
+                marker_6c6f0c06d0a0aa824f018b911b362b7f.setIcon(icon_8f9f44f0c497c56a15f4855b67a59ba3);
+            
+    
+                marker_cd73660f0f585858197e4bde9995b2b2.setIcon(icon_0b465675b2e9f6ff81f45cc1e0213796);
+            
+    
+                marker_892b3aab6d0d76ff87032ea9900a30fb.setIcon(icon_45c35d302e3a1512d2dc1df62c763359);
+            
+    
+                marker_b9b78047caaba7e315f28e49cf9a5a32.setIcon(icon_87260ee6905ff56aff41eccf32841434);
+            
+    
+                marker_21210c7274e07a82b1f4e8a5efe7c807.setIcon(icon_9aacace65b2f184c3a3e682d8926b947);
+            
+    
+                marker_18ae4d97985be8e59b06842d3440b186.setIcon(icon_42f53cff140e3ce3ba08fed4cfe1bfb7);
+            
+    
+                marker_787091ec08abf1512f729753e2c59dd8.setIcon(icon_e07fdcbf46794eae980ae6b03a041395);
+            
+    
+                marker_aca8efa704d690405134a7ba54fc33ee.setIcon(icon_f6a7a782a05d8054eb9e7392c07303e6);
+            
+    
+                marker_a5b0df10f09811ab6c9a4d082c91a01b.setIcon(icon_71f2a752813708c007810f20e379e3da);
+            
+    
+                marker_056f924fbeddf85699cede6a6a67a7ee.setIcon(icon_c8c39ab04a51b61329e2a0816ca22cf8);
+            
+    
+                marker_2168875dbaa9c1f02d28488ad19ff2c6.setIcon(icon_62131545f4fb1b4397a96e5a67ffc93f);
+            
+    
+                marker_73230071a85faf54102fff7f6a6a7fe5.setIcon(icon_6c24af3e143b39fa11ba8b466aa79722);
+            
+    
+                marker_f66295c36b6901f7c8d12b131d187656.setIcon(icon_4e2c17fdccabf531edcf338a9f974a83);
+            
+    
+                marker_e244ba7b73c5bebeccb787035b08689a.setIcon(icon_5ec8de6221ca2936e97c5e529e5ad48c);
+            
+    
+                marker_7a8854e86e70f259c6d92098966b4df0.setIcon(icon_d8cd6ecff45c0e32bf8035f0cbdc5c90);
+            
+    
+                marker_5f25dd3a39cf5c6840e4994f6b515b20.setIcon(icon_f82631d84e9f45322fc3fa375ac8e97e);
+            
+    
+                marker_4b816b991fc8c5c016c577be12474256.setIcon(icon_e72e31a002d67e04990278391678c2e9);
+            
+    
+                marker_a45002b0819c94f1cc5a8d65c31326ba.setIcon(icon_8e1e65aede3e17a85895ed6ad1ff6115);
+            
+    
+                marker_9ab68ec6939535b610e5d9bc1ae62998.setIcon(icon_b2546fb8673b9cd8cd87df1a810b0099);
+            
+    
+                marker_a9d7371f9bcf88fef7995475dba59810.setIcon(icon_85da7bdc1104f2db5a6f457b8146c902);
+            
+    
+                marker_86e3cbd988cdbe284d7ed16d0c80e659.setIcon(icon_bf4333d511b1594f35e8a6ef04e48292);
+            
+    
+                marker_bcf74e11bcaa26384b779e4b16396316.setIcon(icon_8a4d378ca1d7b12d69166ae417ded416);
+            
+    
+                marker_ffb7abbf21670c6682129155bc3f118c.setIcon(icon_7b7c092c1aaa3b34e3b2be3e0b9eb24a);
+            
+    
+            feature_group_0aba9c033d4a15daa1637aabee610ef4.addTo(map_84d87835472c9c16faf72583bdf53f45);
+        
+    
+            tile_layer_d03c4a06c167f8afc9f67e6791f4190f.addTo(map_84d87835472c9c16faf72583bdf53f45);
+        
+    
+            tile_layer_1c87ffa1fab1722289b2022533742a50.addTo(map_84d87835472c9c16faf72583bdf53f45);
+        
+    
+                marker_721dfccd56df1dde8deab7b6a7308199.setIcon(icon_b6af6ff8cf39e65108002ec3c0a31ac7);
+            
+    
+                marker_6c6f0c06d0a0aa824f018b911b362b7f.setIcon(icon_8f9f44f0c497c56a15f4855b67a59ba3);
+            
+    
+                marker_cd73660f0f585858197e4bde9995b2b2.setIcon(icon_0b465675b2e9f6ff81f45cc1e0213796);
+            
+    
+                marker_892b3aab6d0d76ff87032ea9900a30fb.setIcon(icon_45c35d302e3a1512d2dc1df62c763359);
+            
+    
+                marker_b9b78047caaba7e315f28e49cf9a5a32.setIcon(icon_87260ee6905ff56aff41eccf32841434);
+            
+    
+                marker_21210c7274e07a82b1f4e8a5efe7c807.setIcon(icon_9aacace65b2f184c3a3e682d8926b947);
+            
+    
+                marker_18ae4d97985be8e59b06842d3440b186.setIcon(icon_42f53cff140e3ce3ba08fed4cfe1bfb7);
+            
+    
+                marker_787091ec08abf1512f729753e2c59dd8.setIcon(icon_e07fdcbf46794eae980ae6b03a041395);
+            
+    
+                marker_aca8efa704d690405134a7ba54fc33ee.setIcon(icon_f6a7a782a05d8054eb9e7392c07303e6);
+            
+    
+                marker_a5b0df10f09811ab6c9a4d082c91a01b.setIcon(icon_71f2a752813708c007810f20e379e3da);
+            
+    
+                marker_056f924fbeddf85699cede6a6a67a7ee.setIcon(icon_c8c39ab04a51b61329e2a0816ca22cf8);
+            
+    
+                marker_2168875dbaa9c1f02d28488ad19ff2c6.setIcon(icon_62131545f4fb1b4397a96e5a67ffc93f);
+            
+    
+                marker_73230071a85faf54102fff7f6a6a7fe5.setIcon(icon_6c24af3e143b39fa11ba8b466aa79722);
+            
+    
+                marker_f66295c36b6901f7c8d12b131d187656.setIcon(icon_4e2c17fdccabf531edcf338a9f974a83);
+            
+    
+                marker_e244ba7b73c5bebeccb787035b08689a.setIcon(icon_5ec8de6221ca2936e97c5e529e5ad48c);
+            
+    
+                marker_7a8854e86e70f259c6d92098966b4df0.setIcon(icon_d8cd6ecff45c0e32bf8035f0cbdc5c90);
+            
+    
+                marker_5f25dd3a39cf5c6840e4994f6b515b20.setIcon(icon_f82631d84e9f45322fc3fa375ac8e97e);
+            
+    
+                marker_4b816b991fc8c5c016c577be12474256.setIcon(icon_e72e31a002d67e04990278391678c2e9);
+            
+    
+                marker_a45002b0819c94f1cc5a8d65c31326ba.setIcon(icon_8e1e65aede3e17a85895ed6ad1ff6115);
+            
+    
+                marker_9ab68ec6939535b610e5d9bc1ae62998.setIcon(icon_b2546fb8673b9cd8cd87df1a810b0099);
+            
+    
+                marker_a9d7371f9bcf88fef7995475dba59810.setIcon(icon_85da7bdc1104f2db5a6f457b8146c902);
+            
+    
+                marker_86e3cbd988cdbe284d7ed16d0c80e659.setIcon(icon_bf4333d511b1594f35e8a6ef04e48292);
+            
+    
+                marker_bcf74e11bcaa26384b779e4b16396316.setIcon(icon_8a4d378ca1d7b12d69166ae417ded416);
+            
+    
+                marker_ffb7abbf21670c6682129155bc3f118c.setIcon(icon_7b7c092c1aaa3b34e3b2be3e0b9eb24a);
+            
+    
+            feature_group_0aba9c033d4a15daa1637aabee610ef4.addTo(map_84d87835472c9c16faf72583bdf53f45);
+        
+</script>
+</html>
