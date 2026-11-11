@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "activity11_accessible_facilities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "facility_id": "F01", "name": "Administrative Service Point 1", "service": "Administrative", "daily_capacity": 45, "longitude": 121.617, "latitude": 13.9345 }, "geometry": { "type": "Point", "coordinates": [ 121.617, 13.9345 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F02", "name": "Health Service Point 1", "service": "Health", "daily_capacity": 62, "longitude": 121.6192, "latitude": 13.93475 }, "geometry": { "type": "Point", "coordinates": [ 121.6192, 13.93475 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F03", "name": "Information Service Point 1", "service": "Information", "daily_capacity": 79, "longitude": 121.6214, "latitude": 13.9345 }, "geometry": { "type": "Point", "coordinates": [ 121.6214, 13.9345 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F04", "name": "Training Service Point 1", "service": "Training", "daily_capacity": 96, "longitude": 121.6236, "latitude": 13.93475 }, "geometry": { "type": "Point", "coordinates": [ 121.6236, 13.93475 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F05", "name": "Mobility Service Point 1", "service": "Mobility", "daily_capacity": 113, "longitude": 121.6258, "latitude": 13.9345 }, "geometry": { "type": "Point", "coordinates": [ 121.6258, 13.9345 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F06", "name": "Administrative Service Point 2", "service": "Administrative", "daily_capacity": 130, "longitude": 121.6172, "latitude": 13.93685 }, "geometry": { "type": "Point", "coordinates": [ 121.6172, 13.93685 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F07", "name": "Health Service Point 2", "service": "Health", "daily_capacity": 147, "longitude": 121.6194, "latitude": 13.9366 }, "geometry": { "type": "Point", "coordinates": [ 121.6194, 13.9366 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F08", "name": "Information Service Point 2", "service": "Information", "daily_capacity": 59, "longitude": 121.6216, "latitude": 13.93685 }, "geometry": { "type": "Point", "coordinates": [ 121.6216, 13.93685 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F09", "name": "Training Service Point 2", "service": "Training", "daily_capacity": 76, "longitude": 121.6238, "latitude": 13.9366 }, "geometry": { "type": "Point", "coordinates": [ 121.6238, 13.9366 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F10", "name": "Mobility Service Point 2", "service": "Mobility", "daily_capacity": 93, "longitude": 121.626, "latitude": 13.93685 }, "geometry": { "type": "Point", "coordinates": [ 121.626, 13.93685 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F11", "name": "Administrative Service Point 3", "service": "Administrative", "daily_capacity": 110, "longitude": 121.6174, "latitude": 13.9387 }, "geometry": { "type": "Point", "coordinates": [ 121.6174, 13.9387 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F12", "name": "Health Service Point 3", "service": "Health", "daily_capacity": 127, "longitude": 121.6196, "latitude": 13.93895 }, "geometry": { "type": "Point", "coordinates": [ 121.6196, 13.93895 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F13", "name": "Information Service Point 3", "service": "Information", "daily_capacity": 144, "longitude": 121.6218, "latitude": 13.9387 }, "geometry": { "type": "Point", "coordinates": [ 121.6218, 13.9387 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F14", "name": "Training Service Point 3", "service": "Training", "daily_capacity": 56, "longitude": 121.624, "latitude": 13.93895 }, "geometry": { "type": "Point", "coordinates": [ 121.624, 13.93895 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F15", "name": "Mobility Service Point 3", "service": "Mobility", "daily_capacity": 73, "longitude": 121.6262, "latitude": 13.9387 }, "geometry": { "type": "Point", "coordinates": [ 121.6262, 13.9387 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F16", "name": "Administrative Service Point 4", "service": "Administrative", "daily_capacity": 90, "longitude": 121.6176, "latitude": 13.94105 }, "geometry": { "type": "Point", "coordinates": [ 121.6176, 13.94105 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F17", "name": "Health Service Point 4", "service": "Health", "daily_capacity": 107, "longitude": 121.6198, "latitude": 13.9408 }, "geometry": { "type": "Point", "coordinates": [ 121.6198, 13.9408 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F18", "name": "Information Service Point 4", "service": "Information", "daily_capacity": 124, "longitude": 121.622, "latitude": 13.94105 }, "geometry": { "type": "Point", "coordinates": [ 121.622, 13.94105 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F19", "name": "Training Service Point 4", "service": "Training", "daily_capacity": 141, "longitude": 121.6242, "latitude": 13.9408 }, "geometry": { "type": "Point", "coordinates": [ 121.6242, 13.9408 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F20", "name": "Mobility Service Point 4", "service": "Mobility", "daily_capacity": 53, "longitude": 121.6264, "latitude": 13.94105 }, "geometry": { "type": "Point", "coordinates": [ 121.6264, 13.94105 ] } }
+]
+}
