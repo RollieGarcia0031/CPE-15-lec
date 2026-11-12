@@ -1,0 +1,18 @@
+MUNICIPAL DIGITAL ASSISTANCE PLANNING UNIT — CLASSROOM SIMULATION ONLY
+LUCBAN, QUEZON | FIELD VERIFICATION BULLETIN | CASE CPE15-LUC-001
+All household, service request, risk and facility details here are invented educational data.
+The names of the twelve barangays are real but do not imply official statistics or operational services.
+Only the statements marked VERIFIED below authorize record corrections.
+
+FN-01 VERIFIED: The zone code A-03 is an alternate entry for A03 in ALL source files.
+FN-02 VERIFIED: The missing households_with_access value for A06 is 350.
+FN-03 VERIFIED: The erroneous households_with_access value 1220 for A11 is superseded by 220.
+FN-04 VERIFIED: For A09, risk_score 72 is current; risk_score 96 is an obsolete duplicate entry.
+
+NOTE: A household with access must be counted only once. Duplicate records are not new households.
+NOTE: Only service requests with status "verified" or "open" count as active demand. Count distinct request_id values.
+NOTE: For equal priorities, apply ascending zone_id to break ties.
+NOTE: The zones.geojson shapes are synthetic 350-meter study catchments around approximate
+      public mapping reference coordinates. They are NOT official/legal barangay polygons.
+NOTE: Facility points represent fictional assistance hubs, NOT actual LGU facility inventories.
+NOTE: All risk/access/request values and score weights are simulated for teaching purposes.
