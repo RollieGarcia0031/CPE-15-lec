@@ -1,43 +1,32 @@
 # AGENTS.md
 
-## Repo shape
+## Repo shape and active work
 
-- CPE15 (Programming for Data Science) coursework, split by term: `prelim/`, `midterm/` (weekly `activity-N` folders plus the project), `LAB/`, `sample/`.
-- No build system, package manifest, tests, lint, CI, or `.gitignore` exists. Do not invent them.
-- Active work lives in `midterm/midterm-project/` (Lucban establishment field data cleaning). Everything else is submitted history — read it for style, don't "fix" it.
+- CPE15 (Programming for Data Science) coursework by term: `prelim/`, `midterm/`, `LAB/`, `sample/`, plus `finals/` (activities 11–15) and `final-project/`. Only `final-project/` is active; the rest is submitted history — read for style, don't "fix" it.
+- Active deliverable: `final-project/Operation Blank Map - STUDENT PACKAGE/` (final exam, case CPE15-LUC-001). The shell starts there.
+- No build system, manifest, tests, lint, CI, or `.gitignore` — don't invent them. `.ipynb_checkpoints/`, `.virtual_documents/`, `*.zip`, and `answers/test-1.ipynb` are untracked scratch, not deliverables.
+- Revisiting midterm? Its docs are in `midterm/midterm-project/docs/` (requirements, checklist, plans). Its `.py` export is gone, so the old `python3 lucban_data_cleaning_3GF.py` verification command no longer applies.
 
-## Midterm project (where the work happens)
+## Sources of truth (final project)
 
-- `lucban_data_cleaning_3GF.ipynb` — the graded deliverable. Currently stops at the date-audit section.
-- `lucban_data_cleaning_3GF.py` — jupytext hydrogen export of that notebook (cell markers `# %%`). It is **untracked in git**. All 54 non-empty code cells currently match the notebook; keep the two in sync when you edit either side.
-- `csv/raw_dataset_1..10.csv` — raw SW Maps exports, 767 rows total. Never edit these; every transformation must be reproducible in the notebook.
-- `docs/PROJECT_REQUIREMENTS.md` — instructor spec: schema (§5), approved categories (§6), acceptance gate (§11), submission layout (§13). Source of truth over any prose summary.
-- `docs/CHECKLIST.md` — the actual work list (sections 0–13). Its checked/unchecked state reflects the notebook, not the plan. Work top-down; tick items only when verified.
-- `docs/PLANS.md` — audit findings on the raw data and decisions D1–D10 (all still `_TBD_`). Where plans and code disagree, the checklist's **REVISED/NEW** notes are the correction.
+- `STUDENT_CASEFILE.md` — exact scoring policy, three-file submission contract (`CPE15_ID_ANALYSIS.ipynb`, `CPE15_ID_DECISION.pdf`, `CPE15_ID_SUPPORTING.zip`), real-vs-simulated disclosure rules.
+- `answers/EXAM_GUIDE.md` — work plan, defects D1–D7, §4 formula, §8 common mistakes, §9 checklist, reference numbers. Casefile/rubrics win if they conflict.
+- `data/field_notes.txt` — only `VERIFIED` FN lines authorize a repair; `NOTE:` lines are interpretation rules. `data/GEOGRAPHIC_SOURCES.md` covers provenance.
+- `CPE15_STUDENT_WORKBOOK.ipynb` is the blank template; `answers/CPE15_ANALYSIS.ipynb` is the prepared executed notebook that generated `answers/CPE15_PROCESSED.csv` and `answers/CPE15_FINAL_MAP.html`.
 
-## Commands
+## Toolchain and execution
 
-- Toolchain quirk: `jupyter`, `jupytext`, and `nbformat` are **not installed**; system `python3` has pandas 3.0.6, numpy 2.5.3, matplotlib, seaborn. VS Code points at a conda env `CPE_15` that is not on `PATH` in the shell, so `nbconvert`/kernel runs are not available here.
-- Fastest verification (run from `midterm/midterm-project/`; paths are relative to it):
+- System `python3` has pandas/numpy/matplotlib/seaborn but **no geopandas, folium, shapely, pyproj, jupyter, nbformat, nbconvert, or jupytext**. `.vscode/settings.json` selects conda env `CPE_15`, which is not on `PATH` here — the notebook cannot be executed headlessly in this shell. Inspect/edit it as JSON and don't claim a passing run.
+- `CPE15_ANALYSIS.ipynb` locates `data/` via `Path.cwd()` then `../data`, and asserts the output dir is `answers/` or has `data/`: run it only from the package root or `answers/`. There is no script-based verification command.
 
-  ```
-  python3 lucban_data_cleaning_3GF.py
-  ```
+## Data traps (full list: EXAM_GUIDE §4/§8)
 
-  Runs the whole pipeline read-only; exit 0 with audit prints is the pass signal. Prefer editing and testing in the `.py`, then syncing cells back to the `.ipynb`.
+- Six evidence files in `data/` are read-only (`answers/service_requests.sqlite` is an identical scratch copy); read CSVs with `dtype=str`. Repair only what the field bulletin authorizes and keep a correction log.
+- Demand: `COUNT(DISTINCT request_id)` where status is `verified`/`open`, with the `A-03` alias normalized inside SQL. Missing data is not zero.
+- Map geometry in EPSG:4326; distances from projected polygon centroids in EPSG:32651 (UTM 51N) to the nearest operational facility — straight-line, not road. Recompute the normalization denominator per scenario; zero denominator → 0; exact ties → ascending zone ID.
+- Map and memo must disclose simulated teaching data and non-official catchments; exported HTML must open standalone.
 
-## Pipeline rules that are easy to get wrong
+## State and git
 
-- Load every CSV with `dtype=str` (the loader enforces it) — numeric parsing mangles phone numbers, leading zeros, and dates.
-- Column order is spec-mandated: `date_collected` comes **before** `collector`; 16 required columns in the order listed in `PROJECT_REQUIREMENTS.md` §5.
-- Never dedupe on `feature_id`: files 6 and 8 each numbered Barangay 4 from 001, so shared IDs are mostly *different* establishments. Dedup = normalized name + proximity, then reassign unique IDs and export an `old_id -> new_id` mapping.
-- Dates: do not parse mixed strings with `dayfirst=True` — `10/03/2026` is month-first. Collection window is Sep 28–Oct 5, 2026; impute the 14 blanks from the SW Maps `Time` column (present on all 767 rows).
-- Keep the SW Maps GPS columns (`Time`, `Horizontal Accuracy`, `HDOP`, `Satellites in Use`, `Fix ID`, `Averaged Count`) plus a `source_file` column — required for checklist §10 QA, not junk.
-- The notebook still contains known gaps the checklist calls out (hard-coded fixes cover only 3 of 8 malformed IDs, `Financial Services` → `Financial` missing, etc.). Trust the checklist over the current code.
-
-## Workflow conventions
-
-- Git: single `main`; changes go through `feat/...` / `fix/...` branches merged back in (see `git log --merges`). Commit messages are lowercase imperative ("fix loading and schema setup per checklist section 1").
-- Decisions D1–D10 (dedup strategy, barangay authority, `verified` policy, phone privacy, ...) are unanswered in `docs/PLANS.md` §3. Don't silently choose — ask, or record the rationale in the decision log before acting on it.
-- Open question with the instructor: submission naming is `CPE15_MIDTERM_GROUPXX` / `lucban_establishments_groupXX_*`, but current files use `3GF`. Don't rename unilaterally.
-- Final submission layout (per spec §13): `CPE15_MIDTERM_GROUPXX/` containing `RAW/`, `CLEAN/`, `NOTEBOOK/`, `DOCUMENTATION/`, with filenames following the prescribed convention and no screenshots standing in for datasets.
+- Sealed update not yet applied: `CPE15_ANALYSIS.ipynb` cell 31 still has `UPDATE_SOURCE = "PENDING..."`; revised equals original. See EXAM_GUIDE §7 for current reference numbers.
+- Git: `main` plus `feat/...` / `fix/...` branches merged back (see `git log --merges`); lowercase imperative commit messages. Don't commit unless asked.

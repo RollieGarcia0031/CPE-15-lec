@@ -103,14 +103,6 @@ The two charts must each communicate a different relevant question. At least one
 - Do not claim that proximity equals road travel time or that synthetic scores are definitive evidence of actual community need.
 - Your final output will be evaluated on technical accuracy, completeness, appropriate interpretation, and reproducibility, not speed or theatrical participation.
 
-## Authorized resources and integrity
-
-Individual work only. Instructor-provided notes, documentation, and locally installed libraries may be consulted if authorized during the briefing. Do **not** use generative AI, AI coding assistants, another person's solutions, or unapproved external services to complete graded tasks. Do not share examination answers.
-
-The separately scheduled individual defense may require you to explain your code or perform a small modification in front of the examiner.
-
-**MISSION DIRECTIVE:** Your objective is not simply to draw a map. It is to present a conclusion that remains defensible after the evidence changes.
-
 ## Location context and academic honesty
 
 The geographic context is **Lucban, Quezon, Philippines**. The names and identifiers of the 12 selected barangays are factual. The reference points are approximations and the buffer shapes are invented teaching areas rather than legal barangay boundaries. The scenario is not an assessment of actual broadband availability, hazard exposure, household access, or municipal facility capacity. Any map title, footnote and decision memo must disclose this distinction.
